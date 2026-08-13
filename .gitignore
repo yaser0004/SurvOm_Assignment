@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.geo_cache/
+survom_nafld/logs/
+survom_nafld/datasets/*/archives/
+.venv/
