@@ -15,7 +15,7 @@ The assignment explicitly warns against downloading "as many datasets as possibl
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -e ".[dev]"
-.venv/bin/python -m pytest                                    # 59 tests, offline, no network
+.venv/bin/python -m pytest                                    # 62 tests, offline, no network
 
 .venv/bin/python -m geo_screen search --query-file queries.txt --out survom_nafld
 .venv/bin/python -m geo_screen screen --file survom_nafld/candidates/accessions.txt --out survom_nafld
@@ -143,6 +143,8 @@ Full list with reasons: `survom_nafld/reports/screening_report.md`. By triggerin
 4. SRA/FASTQ is **never** downloaded — links are recorded in `download_manifest.json` and the `raw_sra_availability` check only.
 5. Anything over `--max-file-size` (default 500 MB) is skipped with the reason logged.
 
+**Security note — filenames from network listings are untrusted input.** Every filename `download` writes to disk comes from parsing either an FTP directory listing (HTML from the network) or a `!Sample_supplementary_file_N` SOFT field (free text from the network). A path-traversal review of this code found that those names were joined onto a local directory path (`dest_dir / name`) without validation — `Path.__truediv__` does not sanitize `..` components, and for an absolute-looking name it silently discards the destination directory entirely. `download.py` now rejects any name containing a path separator or an exact `..`/`.` component, both where a `Plan` is built (`plan_downloads`, skip-with-reason, same pattern as an oversized file) and again where a name is actually turned into a filesystem path (`_fetch_named`), so the check holds even if a `Plan` is constructed directly. This is separate from, and in addition to, the tar-extraction hardening in point 3 above — that one protects against a malicious archive's internal member names; this one protects against a malicious or malformed directory listing.
+
 **Caveat confirmed in this run:** `series_matrix` presence does not mean expression data is present. Every selected dataset's samples are `Sample_type = SRA` with `Sample_data_row_count = 0`, so their series matrix files are metadata-only — the `series_matrix` check reports `present, metadata-only` for exactly this reason, and `expression_data_availability` is evaluated independently from supplementary-file evidence.
 
 **Reliability note:** large-file downloads over the FTP mirror occasionally hit `ChunkedEncodingError` (`IncompleteRead`) mid-transfer — a connection reset *after* a 200 response, which `requests`' status-code-based `Retry` adapter does not cover. `GeoClient._http_get` retries this specific error up to 3 times with backoff; it was triggered and recovered automatically while downloading this collection.
@@ -154,7 +156,7 @@ All 7 downloads verified: every file's sha256 in `download_manifest.json` matche
 ```bash
 python3 -m venv .venv
 .venv/bin/pip install -e ".[dev]"
-.venv/bin/python -m pytest                       # 59 tests, all offline, ~2s
+.venv/bin/python -m pytest                       # 62 tests, all offline, ~2s
 
 # Optional: set NCBI_API_KEY in the environment for a 10 req/s rate limit instead of 3 req/s.
 
@@ -179,7 +181,7 @@ Verified: the only file that differs is `source_manifest.json`, and only in fiel
 source/
 ├── queries.txt                 # the exact GEO queries used
 ├── src/geo_screen/             # the tool
-├── tests/                      # 59 tests, real trimmed SOFT fixtures, no network
+├── tests/                      # 62 tests, real trimmed SOFT fixtures, no network
 └── survom_nafld/
     ├── candidates/              # search output: candidates.csv, accessions.txt, search_manifest.json
     ├── selected.txt             # the 7 human-selected accessions, one per line, with reasons
