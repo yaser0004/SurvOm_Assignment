@@ -1,0 +1,2 @@
+NAFLD AND "Homo sapiens"[Organism] AND "expression profiling by high throughput sequencing"[DataSet Type]
+(MASLD OR MASH OR NASH) AND "Homo sapiens"[Organism] AND "expression profiling by high throughput sequencing"[DataSet Type] AND liver[All Fields]
