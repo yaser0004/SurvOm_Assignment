@@ -97,6 +97,59 @@ def test_geo_filelist_txt_is_never_mistaken_for_expression_data():
     assert p.archives == ("GSE135251_RAW.tar",)
 
 
+def test_plan_downloads_refuses_path_traversal_in_series_supplementary_name():
+    """A filename harvested from the FTP directory listing is network input.
+    Path.__truediv__ does not sanitize '..' components or absolute paths -
+    Path("/a/b") / "../../etc/passwd_counts.txt.gz" escapes the intended
+    directory entirely - so plan_downloads must never hand such a name to
+    the expression/metadata/archives tiers."""
+    p = plan_downloads(
+        FileInventory(
+            series_supplementary=(("../../etc/passwd_counts.txt.gz", 100),),
+            sample_supplementary=(),
+            series_matrix=(),
+            sra_links=(),
+        ),
+        include_raw=False,
+        max_file_size=500 * 1024 * 1024,
+    )
+    assert p.expression == ()
+    assert p.archives == ()
+    assert "unsafe filename" in dict(p.skipped)["../../etc/passwd_counts.txt.gz"]
+
+
+def test_plan_downloads_refuses_absolute_path_in_series_matrix_name():
+    p = plan_downloads(
+        FileInventory(
+            series_supplementary=(),
+            sample_supplementary=(),
+            series_matrix=(("/etc/cron.d/evil", 100),),
+            sra_links=(),
+        ),
+        include_raw=False,
+        max_file_size=500 * 1024 * 1024,
+    )
+    assert p.metadata == ()
+    assert "unsafe filename" in dict(p.skipped)["/etc/cron.d/evil"]
+
+
+def test_fetch_named_refuses_unsafe_name_even_if_plan_was_hand_built(tmp_path):
+    """The check must hold at the point a name becomes a filesystem path,
+    not only inside plan_downloads - a Plan can be constructed directly,
+    bypassing that filter."""
+    from geo_screen.download import _fetch_named
+
+    class FakeClient:
+        max_file_size = 500 * 1024 * 1024
+
+        def get(self, url, dest):
+            raise AssertionError("must not reach the network for an unsafe name")
+
+    with pytest.raises(ValueError, match="unsafe"):
+        _fetch_named(FakeClient(), "GSE1", "suppl", "../../etc/passwd", tmp_path, "expression")
+    assert not any(tmp_path.parent.glob("**/passwd"))
+
+
 def test_sra_never_planned():
     p = plan_downloads(FileInventory((), (), (), sra_links=("SRP217231",)), True, 10**12)
     assert not any("SRP" in n for n in p.expression + p.archives + p.metadata)
