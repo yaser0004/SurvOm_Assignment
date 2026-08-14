@@ -1,0 +1,25 @@
+{
+  "accession": "GSE126848",
+  "files": [
+    {
+      "bytes": 1399252,
+      "from_cache": false,
+      "name": "GSE126848_Gene_counts_raw.txt.gz",
+      "retrieved_at": "2026-08-14T11:49:56Z",
+      "sha256": "8208defed61d1eb6a727723e8882e9f690e1277478d3ac7b2fd2c56c96aa0d3d",
+      "tier": "expression",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE126nnn/GSE126848/suppl/GSE126848_Gene_counts_raw.txt.gz"
+    },
+    {
+      "bytes": 3891,
+      "from_cache": false,
+      "name": "GSE126848_series_matrix.txt.gz",
+      "retrieved_at": "2026-08-14T11:49:58Z",
+      "sha256": "f6c8602249bf321b9d3d5f80bc220251911fb5af8b6cb880878674658effc9fc",
+      "tier": "metadata",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE126nnn/GSE126848/matrix/GSE126848_series_matrix.txt.gz"
+    }
+  ],
+  "skipped": [],
+  "sra_links": []
+}
