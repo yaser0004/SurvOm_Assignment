@@ -36,6 +36,14 @@ adds a distinct population over one that repeats an existing design at a smaller
 - **sex**: F (45), M (49)
 - **tissue**: liver (94)
 
+## Known data quirk: duplicate feature identifiers
+
+The matrix has 60,651 data rows but 60,607 distinct Ensembl gene IDs — 44 IDs appear twice. In all
+44 cases the two rows are byte-identical across every one of the 94 sample columns, so
+deduplication is lossless: keeping either row preserves the values exactly. The file is shipped as
+GEO serves it. Tooling that requires unique row IDs should drop the repeats, not sum them — summing
+would double the affected genes.
+
 ## Files in this folder
 
 - `expression/GSE174478_raw_gene_counts_matrix.txt.gz`

@@ -35,6 +35,16 @@ severity-annotated cohort — and it is honest about what it does not carry.
 - **sex**: F (34), M (64)
 - **tissue**: liver biopsy (98)
 
+## Known data quirk: duplicate feature labels
+
+The matrix has 26,364 data rows but 26,362 distinct feature labels — `1-Mar` and `2-Mar` each
+appear twice, on rows carrying different values (the two `1-Mar` rows sum to 95,770 and 10,762
+across the 98 samples). Both are feature labels represented in a date-like form; what each
+originally denoted is not recoverable from this file. Because the paired rows differ, collapsing
+them by label would lose data. The file is shipped exactly as GEO serves it; downstream work needs
+a deliberate policy for these two labels rather than letting a lookup hit whichever row comes
+first.
+
 ## Files in this folder
 
 - `expression/GSE167523_Raw_gene_counts_matrix.txt.gz`

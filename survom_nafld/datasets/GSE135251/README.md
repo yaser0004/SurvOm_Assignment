@@ -41,6 +41,9 @@ per-sample gene counts are available rather than only raw reads.
 
 - `expression/` — 216 per-sample `GSM*.counts.txt.gz` files, one per GSM. GEO ships these inside
   `GSE135251_RAW.tar`; the archive was downloaded and only its processed count members extracted.
+  **The tar itself is not included here.** Its entry in `download_manifest.json`, with the URL,
+  45,854,720-byte size and sha256, is provenance for re-fetching it from GEO — not a claim that it
+  ships in this folder. The adjacent `archive_extracted` entry lists all 216 members that do.
 - `metadata/GSE135251_series_matrix.txt.gz`
 
 ## Full checks and provenance

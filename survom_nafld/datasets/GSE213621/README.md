@@ -50,6 +50,15 @@ the dataset was included on its size and its genuine per-sample fibrosis staging
 Note that age, sex, BMI, NAS and diagnosis are not reported for this series — the fibrosis stage is
 the phenotype it carries.
 
+## Known data quirk: duplicate feature symbols
+
+The FPKM matrix has 19,787 data rows but 19,782 distinct gene symbols — `DNAJC9-AS1`, `ELFN2`,
+`RGS5`, `SPATA13` and `TMSB15B` each appear twice, with different values on the two rows (across
+the 368 samples, `RGS5` sums to 258,970 on one row and 19,518 on the other). Because the paired
+rows differ, collapsing by symbol would lose data. The file is shipped as GEO serves it; a
+symbol-keyed join needs an explicit rule for these five. Note also that this matrix's header row is
+sample names only, with no label for the feature column.
+
 ## Files in this folder
 
 - `expression/GSE213621_FPKMs_allsamples.txt.gz` — FPKM matrix, 368 sample columns
