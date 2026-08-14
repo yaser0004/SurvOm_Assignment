@@ -1,0 +1,25 @@
+{
+  "accession": "GSE162694",
+  "files": [
+    {
+      "bytes": 6228026,
+      "from_cache": false,
+      "name": "GSE162694_raw_counts.csv.gz",
+      "retrieved_at": "2026-08-13T11:09:34Z",
+      "sha256": "c8c882e477dcd8a5d5f48f749a9178409829b7d3391e5dbb0c11aeafd36c0822",
+      "tier": "expression",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE162nnn/GSE162694/suppl/GSE162694_raw_counts.csv.gz"
+    },
+    {
+      "bytes": 6860,
+      "from_cache": false,
+      "name": "GSE162694_series_matrix.txt.gz",
+      "retrieved_at": "2026-08-13T11:09:35Z",
+      "sha256": "d5e84d5044021d78cb1aa79ebff49a98ae91545bda8b8d90a29b1b0da7e8fa16",
+      "tier": "metadata",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE162nnn/GSE162694/matrix/GSE162694_series_matrix.txt.gz"
+    }
+  ],
+  "skipped": [],
+  "sra_links": []
+}
