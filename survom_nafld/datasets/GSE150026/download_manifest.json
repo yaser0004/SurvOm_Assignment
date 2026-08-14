@@ -1,0 +1,25 @@
+{
+  "accession": "GSE150026",
+  "files": [
+    {
+      "bytes": 14876744,
+      "from_cache": false,
+      "name": "GSE150026_normalizedReadCounts.txt.gz",
+      "retrieved_at": "2026-08-13T11:12:26Z",
+      "sha256": "5b39ecdf6bc7dfb6896970c229433fea74fccfa9e06eea7811747380423fad74",
+      "tier": "expression",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE150nnn/GSE150026/suppl/GSE150026_normalizedReadCounts.txt.gz"
+    },
+    {
+      "bytes": 6794,
+      "from_cache": false,
+      "name": "GSE150026_series_matrix.txt.gz",
+      "retrieved_at": "2026-08-13T11:12:27Z",
+      "sha256": "c32f07c35d810fab8f2a943de04d0444fb3877273c7cd4e4ceaf42b11ebc0418",
+      "tier": "metadata",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE150nnn/GSE150026/matrix/GSE150026_series_matrix.txt.gz"
+    }
+  ],
+  "skipped": [],
+  "sra_links": []
+}
