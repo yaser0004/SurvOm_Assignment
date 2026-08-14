@@ -1,0 +1,23 @@
+{
+  "accession": "GSE213621",
+  "files": [
+    {
+      "bytes": 33224068,
+      "from_cache": true,
+      "name": "GSE213621_FPKMs_allsamples.txt.gz",
+      "sha256": "ccd861c61a7f1f2d9f4de1c2e8c3a9bc1ff0fe6316a4ee69128fcee8ed703453",
+      "tier": "expression",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE213nnn/GSE213621/suppl/GSE213621_FPKMs_allsamples.txt.gz"
+    },
+    {
+      "bytes": 11880,
+      "from_cache": true,
+      "name": "GSE213621_series_matrix.txt.gz",
+      "sha256": "aa9f7b6771080832fe202367b9e2022a126f97beae691a5415a676477d5beb3e",
+      "tier": "metadata",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE213nnn/GSE213621/matrix/GSE213621_series_matrix.txt.gz"
+    }
+  ],
+  "skipped": [],
+  "sra_links": []
+}
