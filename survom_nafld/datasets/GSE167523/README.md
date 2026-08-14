@@ -11,52 +11,38 @@
 **PubMed:** 34105780
 **Screening decision:** STRONG_CANDIDATE
 
-## Experimental design
+## What this dataset is
 
-98-sample human NAFLD cohort; bulk RNA-seq, with a separate phenotype-correspondence spreadsheet linking samples to clinical data.
+98 biopsy-proven NAFLD liver samples, bulk RNA-seq on Illumina HiSeq 3000. A separate
+sample-phenotype spreadsheet ships with the series, linking each sample to its clinical record; it
+is included here under `metadata/`.
 
 ## Bulk vs. single-cell determination
 
-`single_cell_or_spatial` = **PASS** — no single-cell/spatial signal detected
+`single_cell_or_spatial` = **PASS** — no single-cell or spatial signal in any sample record.
 
-## Technical checks
+## Why it is in the collection
 
-| check | status | observed |
-|---|---|---|
-| sample_count | PASS | 98 samples |
-| organism_consistency | PASS | Homo sapiens 98/98 |
-| source_tissue | PASS | liver-pattern source 98/98 |
-| library_strategy | PASS | RNA-Seq 98/98 |
-| library_source | PASS | transcriptomic 98/98 |
-| library_selection | PASS | cDNA 98/98 |
-| instrument_model | PASS | Illumina HiSeq 3000 98/98 |
-| metadata_completeness | PASS | reported consistently: age, disease, sex, tissue; not reported anywhere: bmi, diagnosis, ethnicity, fibrosis_stage, group, nas_score, stage, steatosis_grade, treatment |
-| disease_relevance | PASS | disease/fibrosis terms found in sample metadata (98 sample(s)) |
-| single_cell_or_spatial | PASS | no single-cell/spatial signal detected |
-| material_type | PASS | no cell-line/culture signal detected |
-| expression_data_availability | PASS | processed per-sample counts (98/98), packaged in GSE167523_RAW.tar |
-| series_matrix | INFO | present, metadata-only (GSE167523_series_matrix.txt.gz); samples are SRA-type with zero data rows |
-| raw_sra_availability | INFO | SRA/BioProject links recorded, not downloaded: https://www.ncbi.nlm.nih.gov/sra?term=SRX10181356, https://www.ncbi.nlm.nih.gov/sra?term=SRX10181357, https://www.ncbi.nlm.nih.gov/sra?term=SRX10181358, https://www.ncbi.nlm.nih.gov/sra?term=SRX10181359, https://www.ncbi.nlm.nih.gov/sra?term=SRX10181360, and 93 more (see sample_metadata.csv) |
+An independent NAFLD cohort with a deliberately different metadata shape from the staged cohorts:
+disease status, age, sex and tissue are reported per sample, but fibrosis stage and NAS are not.
+That makes it useful as a validation cohort against the spectrum datasets rather than another
+severity-annotated cohort — and it is honest about what it does not carry.
 
-## Metadata summary (canonical field distributions)
+## Sample metadata at a glance
 
-- **age**: 18 (1), 19 (1), 24 (1), 29 (1), 30 (2), 31 (1), 36 (3), 37 (1), 38 (1), 40 (3), 43 (1), 44 (1), 45 (5), 46 (4), 47 (4), 48 (4), 49 (3), 50 (5), 51 (3), 53 (2), 54 (4), 55 (2), 56 (2), 57 (2), 58 (2), 59 (1), 60 (1), 61 (2), 62 (5), 63 (5), 64 (3), 65 (1), 66 (5), 67 (3), 69 (2), 70 (1), 71 (2), 73 (1), 74 (2), 76 (1), 77 (2), 78 (1), 81 (1)
+- **age**: 43 distinct values, range 18-81
 - **disease**: NAFLD (98)
 - **sex**: F (34), M (64)
 - **tissue**: liver biopsy (98)
 
-## Expression data files
+## Files in this folder
 
-| file | tier | bytes | sha256 |
-|---|---|---|---|
-| GSE167523_Raw_gene_counts_matrix.txt.gz | expression | 2652007 | `7714aa32816f4a37...` |
-| GSE167523_Sample_phenotype_correspondence.xlsx | metadata | 11131 | `bee26e98858fc8f9...` |
-| GSE167523_series_matrix.txt.gz | metadata | 6226 | `746d69b44f1124c8...` |
+- `expression/GSE167523_Raw_gene_counts_matrix.txt.gz`
+- `metadata/GSE167523_Sample_phenotype_correspondence.xlsx` — the study's own sample-to-phenotype map
+- `metadata/GSE167523_series_matrix.txt.gz`
 
-## Selection rationale
+## Full checks and provenance
 
-An independent, previously-vetted NAFLD cohort (evaluated manually before this tool existed) that reports disease status and tissue type but not fibrosis/NAS staging - useful as an independent validation cohort with a genuinely different metadata shape from the staged cohorts above, rather than as another fibrosis-spectrum dataset.
-
-## Provenance
-
-Screened and downloaded via `geo_screen`. Full source manifest: `source_manifest.json`. Full download manifest: `download_manifest.json`. Submission date: Feb 25 2021.
+All 14 check results with their observed values: `validation_report.md`. Fetch provenance:
+`source_manifest.json`. File sizes and sha256 digests: `download_manifest.json`. GEO submission date:
+Feb 25 2021.

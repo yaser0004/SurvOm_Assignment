@@ -5,54 +5,58 @@
 **GEO URL:** https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE213621
 **Organism:** Homo sapiens
 **Tissue:** liver (hepatocyte-containing biopsy/resection material)
-**Disease/condition:** NAFLD / insulin resistance, with fibrosis staged per sample (e.g. F2)
+**Disease/condition:** NAFLD / insulin resistance, fibrosis staged per sample
 **Sample count:** 368
 **Platform(s):** GPL16791
 **PubMed:** 36535507
-**Screening decision:** MANUAL_REVIEW
+**Screening decision:** MANUAL_REVIEW (included after manual resolution, see below)
 
-## Experimental design
+## What this dataset is
 
-368-sample human liver cohort investigating hepatocyte Smoothened signalling in insulin resistance and NAFLD; bulk RNA-seq on Illumina HiSeq 2500.
+368 human liver samples from controls and NAFLD patients, bulk RNA-seq on Illumina HiSeq 2500,
+examining how hepatocyte Smoothened signalling relates to insulin resistance, inflammation and
+fibrosis.
+
+**This is the human SubSeries of a mixed-species study.** `series_metadata.json` records
+`relations: "SubSeries of: GSE213623"`. The parent SuperSeries also covers mouse work, including
+mouse single-cell RNA-seq; none of that material is in GSE213621, whose 368 samples are all
+`Homo sapiens` and all `library_strategy = RNA-Seq`.
 
 ## Bulk vs. single-cell determination
 
-`single_cell_or_spatial` = **WARN** — series prose mentions single-cell; sample metadata does not corroborate
+`single_cell_or_spatial` = **WARN** — the series-level prose mentions single-cell work, but no
+individual sample record corroborates it. That prose describes the SuperSeries' mouse component;
+every one of the 368 sample records here is bulk RNA-seq with no single-cell platform, tool or file
+format anywhere in its metadata.
 
-## Technical checks
+## Why it is in the collection
 
-| check | status | observed |
-|---|---|---|
-| sample_count | PASS | 368 samples |
-| organism_consistency | PASS | Homo sapiens 368/368 |
-| source_tissue | PASS | liver-pattern source 368/368 |
-| library_strategy | PASS | RNA-Seq 368/368 |
-| library_source | PASS | transcriptomic 368/368 |
-| library_selection | PASS | cDNA 368/368 |
-| instrument_model | PASS | Illumina HiSeq 2500 368/368 |
-| metadata_completeness | PASS | reported consistently: fibrosis_stage; not reported anywhere: age, bmi, diagnosis, disease, ethnicity, group, nas_score, sex, stage, steatosis_grade, tissue, treatment |
-| disease_relevance | WARN | disease term found only in series-level text, not corroborated by sample metadata |
-| single_cell_or_spatial | WARN | series prose mentions single-cell; sample metadata does not corroborate |
-| material_type | PASS | no cell-line/culture signal detected |
-| expression_data_availability | PASS | processed series-level file: GSE213621_FPKMs_allsamples.txt.gz |
-| series_matrix | INFO | present, metadata-only (GSE213621_series_matrix.txt.gz); samples are SRA-type with zero data rows |
-| raw_sra_availability | INFO | SRA/BioProject links recorded, not downloaded: https://www.ncbi.nlm.nih.gov/sra?term=SRX17623649, https://www.ncbi.nlm.nih.gov/sra?term=SRX17623650, https://www.ncbi.nlm.nih.gov/sra?term=SRX17623651, https://www.ncbi.nlm.nih.gov/sra?term=SRX17623652, https://www.ncbi.nlm.nih.gov/sra?term=SRX17623653, and 363 more (see sample_metadata.csv) |
+The largest cohort in the collection at 368 samples, with fibrosis staged across four levels
+including a control group. (One larger series in the screened pool, `GSE267145` at 508 samples, is a
+human/mouse mixed-organism series left unresolved — see the top-level README.)
 
-## Metadata summary (canonical field distributions)
+It reaches the collection through a manual decision rather than an automatic promotion. Two checks
+flagged it: `metadata_completeness`, because the series records staging under the raw key
+`fibrotic stage` rather than the more common `fibrosis stage`; and `disease_relevance`, because the
+sample records carry staging and `liver cells` without naming NAFLD, which the series title does.
+The first is a naming variant covering all 368 samples, the second is exactly the sample-level
+versus series-level distinction `MANUAL_REVIEW` exists to surface. Neither undermines the data, so
+the dataset was included on its size and its genuine per-sample fibrosis staging.
+
+## Sample metadata at a glance
 
 - **fibrosis_stage**: Control (69), F0F1 (97), F2 (107), F3F4 (95)
 
-## Expression data files
+Note that age, sex, BMI, NAS and diagnosis are not reported for this series — the fibrosis stage is
+the phenotype it carries.
 
-| file | tier | bytes | sha256 |
-|---|---|---|---|
-| GSE213621_FPKMs_allsamples.txt.gz | expression | 33224068 | `ccd861c61a7f1f2d...` |
-| GSE213621_series_matrix.txt.gz | metadata | 11880 | `aa9f7b6771080832...` |
+## Files in this folder
 
-## Selection rationale
+- `expression/GSE213621_FPKMs_allsamples.txt.gz` — FPKM matrix, 368 sample columns
+- `metadata/GSE213621_series_matrix.txt.gz`
 
-The largest cohort in the collection - larger even than the flagship GSE135251. (One larger series, `GSE267145` at 508 samples, was found in screening but is a human/mouse mixed-organism series left unresolved in `MANUAL_REVIEW` - see the top-level README.) Initially landed on MANUAL_REVIEW because its samples record disease relevance only through fibrosis staging (raw key 'fibrotic stage', not the more common 'fibrosis stage') and the series title mentions single-cell work in background prose that no sample corroborates. Both were resolved by hand: (1) the 'fibrotic stage' synonym was added to the tool's canonical-field mapping after confirming it appears on all 368 samples (this also reclassified 2 other datasets in the pool - see the top-level README); (2) every sample's own library_strategy is RNA-Seq with no structural single-cell signal anywhere in sample metadata, so the single-cell mention is confirmed to be background prose about other work, not this series' own assay. Included as a human-reviewed addition specifically for its size and fibrosis staging.
+## Full checks and provenance
 
-## Provenance
-
-Screened and downloaded via `geo_screen`. Full source manifest: `source_manifest.json`. Full download manifest: `download_manifest.json`. Submission date: Sep 19 2022.
+All 14 check results with their observed values: `validation_report.md`. Fetch provenance:
+`source_manifest.json`. File sizes and sha256 digests: `download_manifest.json`. GEO submission date:
+Sep 19 2022.

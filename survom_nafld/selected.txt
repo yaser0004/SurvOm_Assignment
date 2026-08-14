@@ -6,5 +6,4 @@ GSE281797  obese patients, no-pathology-to-early-MASLD spectrum; adds early-stag
 GSE167523  independent NAFLD cohort, previously vetted; adds an independent validation cohort
 GSE150026  Tesamorelin randomized trial in HIV-associated NAFLD; adds a distinct clinical population and an interventional design
 GSE126848  healthy/obese/NAFLD/NASH 4-arm cohort; only dataset separating obesity from NAFLD as distinct control arms
-GSE130970  full NAS-component + fibrosis-stage histology per sample; richest per-sample phenotype annotation in the collection
-GSE239422  PNPLA3 rs738409 genotype + graded steatosis in 125 obese individuals; adds a host-genetics/mechanism axis, not another severity cohort
+GSE130970  full NAS-component + fibrosis-stage histology per sample; NAFLD severity spectrum with every NAS component reported separately
