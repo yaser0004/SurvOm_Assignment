@@ -55,7 +55,7 @@
 
 ## Selection rationale
 
-The second-largest cohort selected after the two largest (GSE135251, GSE213621), and the only one in the collection whose stated purpose is a distinct analytical angle - deconvolving bulk expression into cell-type composition changes across fibrosis stages, rather than a straightforward case-control comparison. Adds methodological diversity to the collection.
+The third-largest cohort in the collection, after GSE213621 and GSE135251, and the only one whose stated purpose is a distinct analytical angle - deconvolving bulk expression into cell-type composition changes across fibrosis stages, rather than a straightforward case-control comparison. Adds methodological diversity to the collection.
 
 ## Provenance
 

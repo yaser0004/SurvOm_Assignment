@@ -56,7 +56,7 @@ Japanese NAFLD cohort, 94 liver biopsies with fibrosis stage and NAS score per s
 
 ## Selection rationale
 
-Every other STRONG_CANDIDATE cohort in this collection is Western; this is the only non-Western population, and it independently reports the same F0-F4 fibrosis staging as the flagship dataset. Included for population/ethnic diversity rather than redundant with GSE135251's design - the assignment brief explicitly favors datasets that add distinct clinical or experimental angles over near-duplicates.
+Every other STRONG_CANDIDATE cohort in this collection is Western; this is the only non-Western population, and it independently reports the same F0-F4 fibrosis staging as the flagship dataset. Included for population/ethnic diversity rather than as a near-duplicate of GSE135251's design - the assignment brief warns against downloading as many datasets as possible, which favors a dataset like this one that adds a distinct population over one that would only repeat an existing design.
 
 ## Provenance
 
