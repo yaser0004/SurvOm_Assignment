@@ -1,0 +1,34 @@
+{
+  "accession": "GSE239422",
+  "files": [
+    {
+      "bytes": 11287168,
+      "from_cache": false,
+      "name": "GSE239422_Normalized_Counts.txt.gz",
+      "retrieved_at": "2026-08-14T12:01:20Z",
+      "sha256": "86850b8b47f1b5271443fedd08f706f3e1cdb6a1051bb70087f3c927719b3f48",
+      "tier": "expression",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE239nnn/GSE239422/suppl/GSE239422_Normalized_Counts.txt.gz"
+    },
+    {
+      "bytes": 3132721,
+      "from_cache": false,
+      "name": "GSE239422_RAW_Counts.txt.gz",
+      "retrieved_at": "2026-08-14T12:01:33Z",
+      "sha256": "edcb770e5f0d335fd4208151181cf1c0d33b546b27055d057443956f378b5440",
+      "tier": "expression",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE239nnn/GSE239422/suppl/GSE239422_RAW_Counts.txt.gz"
+    },
+    {
+      "bytes": 6581,
+      "from_cache": false,
+      "name": "GSE239422_series_matrix.txt.gz",
+      "retrieved_at": "2026-08-14T12:01:34Z",
+      "sha256": "a499b9f8900b8d215031517d3bfa17778cdd62f9640b273ae0b43d1d92fe8763",
+      "tier": "metadata",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE239nnn/GSE239422/matrix/GSE239422_series_matrix.txt.gz"
+    }
+  ],
+  "skipped": [],
+  "sra_links": []
+}
