@@ -1,0 +1,25 @@
+{
+  "accession": "GSE255384",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE255384",
+  "last_update_date": "Feb 01 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA from HUH7 WT and ABHD6 KO cells was harvested before (i.e. in basal media) and after 24 and 48 hours of palmitic acid treatment.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1074789"
+  ],
+  "sample_count": 24,
+  "submission_date": "Feb 08 2024",
+  "summary": [
+    "Primary liver cancer accounts for approximately 700,000 deaths worldwide annually ranking third in cancer-related mortality, with hepatocellular carcinoma (HCC) comprising the great majority of these tumors. Recently there has been an emphasis on the role of metabolic syndrome in the development of cirrhosis and HCC, as non-alcoholic fatty liver disease (NAFLD) is currently a leading cause of HCC in the United States. We previously identified the lipid hydrolase alpha/beta hydrolase domain 6 (ABHD6) as a key mediator of the development of metabolic syndrome and intimately involved in cell signaling, making it a prime target for investigation in NAFLD-related HCC. ABHD6 displays higher expression within HCC tumor cores when compared to adjacent non-tumor tissue in human subjects. Using an in vivo antisense oligonucleotide (ASO)-driven knockdown approach, we have shown the inhibition of ABHD6 prevents the development and progression of HCC in an obesity/NAFLD-driven mouse model. Additionally, a xenograft model of using the human Huh7 cell line displayed reduced tumor engraftment and growth with ABHD6 genetic deletion and small molecule inhibition. ABHD6 knockout cells demonstrated increased levels of bis(monoacylglycerol)phosphates (BMPs), lipids relevant to high fat diet-induced lysosomal dysfunction, and knockout cells also demonstrated altered autophagy and lysosomal activity using in vitro model of saturated fatty acid-induced lipotoxicity. These studies reveal novel lipid signaling mechanisms by which NAFLD progresses towards HCC and provide support for ABHD6 as a potential therapeutic target in HCC."
+  ],
+  "title": "RNA-sequencing of alpha beta hydrolase domain 6 (ABHD6) wild type (WT) versus knockout (KO) Huh7 hepatoma cells with or without palmitic acid treatment.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

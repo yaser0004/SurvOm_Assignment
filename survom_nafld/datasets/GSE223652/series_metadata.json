@@ -1,0 +1,32 @@
+{
+  "accession": "GSE223652",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223652",
+  "last_update_date": "Apr 01 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Comparative gene expression profiling analysis of RNA-seq data for cultured primary human hepatocytes treated with MTARC1 siRNA under different media conditions.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA927038"
+  ],
+  "sample_count": 60,
+  "submission_date": "Jan 24 2023",
+  "summary": [
+    "Background and Aims",
+    "Non-alcoholic fatty liver disease (NAFLD) has a prevalence of ~25% worldwide, with significant public health consequences yet has few effective treatments. Human genetics can help elucidate novel biology and identify targets of new therapeutics. Genetic variants in mitochondrial amidoxime reducing component 1 (MTARC1) have been associated with NAFLD and liver-related mortality, however, its pathophysiological role and the cell type(s) mediating these effects remain unclear. We aimed to investigate how MTARC1 exerts its effects on NAFLD by integrating human genetics with in vitro and in vivo studies of mARC1 knockdown.",
+    "Methods",
+    "Analyses including multi-trait colocalization and Mendelian randomization were used to assess the genetic associations of MTARC1. In addition, we established an in vitro long-term primary human hepatocyte model with metabolic readouts and used the Gubra GAN diet NASH mouse model treated with hepatocyte specific GalNAc-siRNA to understand the in vivo impacts of MTARC1.",
+    "Results",
+    "We show that genetic variants within the MTARC1 locus are associated with liver enzymes, liver fat, plasma lipids and body composition and these associations are due to the same causal variant (p.A165T, rs2642438 G>A), suggesting a shared mechanism. We demonstrated that increased MTARC1 mRNA had an adverse effect on these traits using Mendelian Randomization, implying therapeutic inhibition of mARC1 could be beneficial. In vitro mARC1 knockdown decreased lipid accumulation and increased triglyceride secretion and in vivo GalNAc-siRNA mediated knockdown of mARC1 lowered hepatic, but increased plasma triglycerides. We found alterations in pathways regulating lipid metabolism and decreased secretion of 3-hydroxybutyrate upon mARC1 knockdown in vitro and in vivo.",
+    "Conclusions",
+    "Collectively, our findings from human genetics, and in vitro and in vivo hepatocyte-specific mARC1 knockdown support the potential efficacy of hepatocyte-specific targeting of mARC1 for treatment of NAFLD."
+  ],
+  "title": "Hepatocyte mARC1 Promotes Fatty Liver Disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

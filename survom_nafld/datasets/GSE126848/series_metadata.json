@@ -1,0 +1,28 @@
+{
+  "accession": "GSE126848",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126848",
+  "last_update_date": "Mar 26 2019",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Liver biopsies from healthy, obese, NAFLD and NASH subjects",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "30653341"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA523510",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP186450"
+  ],
+  "sample_count": 57,
+  "submission_date": "Feb 21 2019",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) represents a spectrum of conditions ranging from simple steatosis (NAFL), over non-alcoholic steatohepatitis (NASH) with or without fibrosis, to cirrhosis with end-stage disease. The hepatic molecular events underlying the development of NAFLD and transition to NASH are poorly understood. The present study aimed to determine hepatic transcriptome dynamics in patients with NAFL or NASH compared to healthy normal-weight and obese individuals. RNA sequencing and quantitative histomorphometry of liver fat, inflammation and fibrosis was performed on liver biopsies obtained from healthy normal weight (n=14) and obese (n=12) individuals, NAFL (n=15) and NASH (n=16) patients. Normal weight and obese subjects showed normal liver histology and comparable gene expression profiles. Liver transcriptome signatures were largely overlapping in NAFL and NASH patients, however, clearly separated from healthy normal-weight and obese controls. Most marked pathway perturbations identified in both NAFL and NASH were associated with markers of lipid metabolism, immunomodulation, extracellular matrix remodeling and cell cycle control. Interestingly, NASH patients with positive Sonic hedgehog hepatocyte staining showed distinct transcriptome and histomorphometric changes compared to NAFL. In conclusion, application of immunohistochemical markers of hepatocyte injury may serve as a more objective tool for distinguishing NASH from NAFL, facilitating improved resolution of hepatic molecular changes associated with progression of NAFLD."
+  ],
+  "title": "HEPATIC TRANSCRIPTOME SIGNATURES IN PATIENTS WITH VARYING DEGREES OF NON-ALCOHOLIC FATTY LIVER DISEASE COMPARED TO HEALTHY NORMAL-WEIGHT INDIVIDUALS",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

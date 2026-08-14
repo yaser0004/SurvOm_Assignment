@@ -1,0 +1,25 @@
+{
+  "accession": "GSE274898",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274898",
+  "last_update_date": "Jan 31 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Human hepatic stellate cells (HSCs) (70% confluency) were transfected with EPHB2 Mission\u00ae-esiRNA (Sigma Aldrich, USA) delivered into the cells using the lipofectamine\u00ae RNAiMAX (Invitrogen, USA) according to the manufacturer\u2019s instruction. Mission\u00ae-esiRNA complexes targeting eGFP were used as nontargeting control. After 48H incubation, transfected HSCs were stimulated with recombinant human TGF-\u03b21 at 10 ng/ml for another 24 hour.  Cells were harvested, total RNA was extracted using RNA Stat60\u00ae (Tel-Test Inc, USA) following standard phenol-chloroform procedure.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1148427"
+  ],
+  "sample_count": 6,
+  "submission_date": "Aug 15 2024",
+  "summary": [
+    "Hepatic stellate cells (HSCs) are the major effector cell-type responsible for the production of collagens in hepatic fibrogenesis. In this study we showed that when EPHB2 is silenced in  human  primary HSCs, they become refractory to TGFbeta-induced-HSCs-to-myofibroblasts transdifferentiation. More importantly, EphB2-specific deletion in HSCs using the tamoxifen inducible PdgfCre-eRT2 promoer driver is sufficient to mitigate MASH fibrosis in mice."
+  ],
+  "title": "TGF-beta mediated hepatic stellate cells activation is dampened in the absence of EPHB2 in vitro.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

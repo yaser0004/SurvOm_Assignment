@@ -1,0 +1,27 @@
+{
+  "accession": "GSE217968",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217968",
+  "last_update_date": "May 03 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Non-parenchymal cells were isolated from human livers using mechanical and enzymatical dissociation. NK cells (CD56+ CD3-) were FACS sorted and partitioned for scRNAseq using 10x genomics (kit 3\u2019 v3.1) technology. Our analysis included cirrhotic livers from NASH (n=4), HCV (n=4), and PSC (n=4) patients and normal livers from healthy donors (n=4).",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "37063898"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA901498"
+  ],
+  "sample_count": 16,
+  "submission_date": "Nov 14 2022",
+  "summary": [
+    "Hepatic Natural Killer (he-NK) cells are innate immune effectors that contribute to immune tolerance and eliminate dangerous \u201cnon-self\u201d antigens. He-NK cells fall into two groups, liver resident (rNK) cells, mainly cytokine secretors, and infiltrating conventional NK (cNK) cells, which are cytotoxic. He-NK cell dysfunction and contribution to end-stage liver disease are not fully understood. The present study evaluates the transcriptomes of he-NK subpopulations in chronic hepatic disease of different etiologies, including sterile inflammation (non-alcoholic steatohepatitis - NASH), autoimmunity (primary sclerosing cholangitis - PSC), and viral infection (hepatitis C - HCV)."
+  ],
+  "title": "Characterization of human hepatic natural killer cells in end-stage chronic liver diseases",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

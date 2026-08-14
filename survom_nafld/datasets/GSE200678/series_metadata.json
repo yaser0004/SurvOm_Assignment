@@ -1,0 +1,27 @@
+{
+  "accession": "GSE200678",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200678",
+  "last_update_date": "Aug 31 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Comparative gene expression profiling analysis of RNA-seq data for visceral adipose tissue of NAFLD and NASH patients",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "35995996"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA825838"
+  ],
+  "sample_count": 35,
+  "submission_date": "Apr 12 2022",
+  "summary": [
+    "To understand the role of adipose tissue senescence in NAFLD/NASH,  RNA sequencing was performed in the visceral adipose tissue of NAFLD and NASH pateints."
+  ],
+  "title": "Hepatic senescence is associated with clinical progression of NAFLD/NASH: Role of BMP4 and its antagonist Gremlin1 (Visceral adipose cells)",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "accession": "GSE174748",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174748",
+  "last_update_date": "Oct 15 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Single, live nuclei were isolated from liver explants (n=2 healthy, n=2 NAFLD).",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "36198802"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA731458",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP320662"
+  ],
+  "sample_count": 4,
+  "submission_date": "May 20 2021",
+  "summary": [
+    "Hepatocellular carcinoma (HCC) develops almost exclusively in patients with chronic liver disease (CLD) and advanced fibrosis. Here we interrogated functions of hepatic stellate cells (HSC), the main source of fibroblasts in the injured liver, during hepatocarcinogenesis. Genetic depletion, activation, or inhibition established HSC as tumour-promoting in different HCC models. HSC were enriched in the non-tumour environment, where they closely interacted with hepatocytes and modulated hepatocarcinogenesis by regulating hepatocyte proliferation and death. Surprisingly, further analysis of mouse and human HSC subpopulations by single cell and single nucleus RNA-sequencing and their associated mediators revealed dual functions of HSC in hepatocarcinogenesis. Hepatocyte growth factor, enriched in quiescent and cytokine-producing HSC (cyHSC), protected from hepatocyte death and HCC development. In contrast, type I collagen, enriched in highly activated myofibroblastic HSC (myHSC), increased stiffness, TAZ activation, and subsequent hepatocyte proliferation, thereby promoting HCC development. An increasing HSC imbalance with decreased protective cyHSC and increased myHSC during liver disease progression was associated with elevated HCC risk in patients. In summary, our data suggest that the dynamic shift of HSC subpopulations during CLD and their mediators is associated with a switch from HCC protection to HCC promotion."
+  ],
+  "title": "An imbalance of tumour-suppressing and tumour-promoting hepatic stellate cell populations in liver fibrosis contributes to hepatocarcinogenesis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

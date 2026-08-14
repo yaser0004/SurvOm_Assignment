@@ -1,0 +1,27 @@
+{
+  "accession": "GSE279712",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE279712",
+  "last_update_date": "Oct 14 2025",
+  "organisms": [
+    "Homo sapiens",
+    "Sus scrofa domesticus"
+  ],
+  "overall_design": "- Porcine livers of 5 animals were procured, preserved  and perfused for 360 min and  liver samples were taken at t=0min and t=360min for RNAseq analysis.  - Human explanted and discarded livers of 6 adults (1 healthy and 5 types of liver diseases) were perfused for 360 min at 37\u00b0 and liver samples were taken at t=0min and t=360min for RNAseq analysis.",
+  "platform_ids": [
+    "GPL24676",
+    "GPL29562"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1174127"
+  ],
+  "sample_count": 22,
+  "submission_date": "Oct 17 2024",
+  "summary": [
+    "Summary Ex vivo liver normothermic machine perfusion (NMP) does not fully recapitulate physiological liver function due to the absence of the enterohepatic circulation as only infusion of the bile acid taurocholate (TCA) is applied in most protocols. In this study we characterized the de novo bile acid synthesis and cholesterol homeostasis during liver NMP. We hypothesized that addition of a more diverse pool of (conjugated)bile acids during liver NMP would decrease the metabolic burden of de novo synthesis and thereby improve liver function during NMP. Method First, human and porcine livers were perfused for 360 min at 37\u00b0C and perfusate containing TCA (gene expression at t=0min and t=360min was measured by RNAseq). Next, the infusion of different conjugated bile acid mixes was assessed during porcine and human liver perfusion. Perfusate, bile and tissue samples were obtained to study liver viability, functionality, gene expression (qPCR), cholesterol and bile acid levels. Result During human and porcine perfusions with TCA infusion, composition of bile was comparable to literature however, synthesis rates were above physiological average and a decrease over time in cholesterol perfusate levels was observed. Additionally, over time a decreased expression of bile acid synthesis related genes, increased gene expression of cholesterol metabolism related genes and decreased expression in bile acid-dependent uptake and efflux transporters were detected (RNAseq). Upon infusion of a conjugated bile acid mix lower AST and ALT values and stable cholesterol homeostasis was] observed after 720 min of perfusion. Perfused human livers showed appropriate function and good functioning livers showed rapid bile acid clearance from the perfusate into the bile. Conclusion This study reveals new insights that infusion of (un)conjugated bile acids in NMP alleviated the burden of the de novo bile acid synthesis and improved liver function."
+  ],
+  "title": "Unraveling and enhancing the dynamics of hepatic bile acid and cholesterol metabolism during ex vivo normothermic machine perfusion; a path to improved liver function through conjugated bile acid infusion",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

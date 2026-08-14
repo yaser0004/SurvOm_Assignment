@@ -1,0 +1,44 @@
+{
+  "accession": "GSE174748",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174748",
+  "gsm_accessions": [
+    "GSM5325534",
+    "GSM5325535",
+    "GSM5325536",
+    "GSM5325537"
+  ],
+  "platform_accessions": [
+    "GPL20301"
+  ],
+  "sources": [
+    {
+      "bytes": 2494,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:23Z",
+      "sha256": "b7a4ae37598d72090954e9c4c139c41838d866c67db83db1b6af5959ed73ff6b",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE174nnn/GSE174748/soft/GSE174748_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325534/suppl/GSM5325534_healthy1_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325534/suppl/GSM5325534_healthy1_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325534/suppl/GSM5325534_healthy1_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325535/suppl/GSM5325535_healthy2_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325535/suppl/GSM5325535_healthy2_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325535/suppl/GSM5325535_healthy2_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325536/suppl/GSM5325536_nafld1_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325536/suppl/GSM5325536_nafld1_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325536/suppl/GSM5325536_nafld1_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325537/suppl/GSM5325537_nafld2_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325537/suppl/GSM5325537_nafld2_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5325nnn/GSM5325537/suppl/GSM5325537_nafld2_matrix.mtx.gz"
+  ],
+  "tool_version": "0.1.0"
+}

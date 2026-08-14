@@ -1,0 +1,26 @@
+{
+  "accession": "GSE147304",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147304",
+  "last_update_date": "Mar 20 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "mRNA level of human NASH and Normal liver tissues",
+  "platform_ids": [
+    "GPL20795"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA613703",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP253511"
+  ],
+  "sample_count": 10,
+  "submission_date": "Mar 20 2020",
+  "summary": [
+    "To understand the mechanisms of NASH, we detected mRNA level in human NASH (n=5) and normal tissue (n=5) by RNA-Seq.  The normal tissues were collected from the patients who received hepatic haemangioma surgery, and the steatotic liver samples were collected from the eligible patients who received bariatric surgery underwent liver biopsy or surgical resection at Nanjing Drum Hospital (Nanjing,China). This RNA-Seq might help us to find the important target genes and signaling pathway during NASH."
+  ],
+  "title": "RNA-Seq analylsis of human NASH and Normal liver tissues",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

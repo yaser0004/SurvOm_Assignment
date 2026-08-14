@@ -1,0 +1,31 @@
+{
+  "accession": "GSE156906",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE156906",
+  "last_update_date": "Sep 15 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We obtained subcutaneous adipose tissue samples from people who were metabolically-healthy lean (MHL), metabolically-healthy obese (MHO), and metabolically-unhealthy obese (MUO) n=66).",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "34004161"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA659527",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP278883"
+  ],
+  "sample_count": 66,
+  "submission_date": "Aug 26 2020",
+  "summary": [
+    "Background and Aims: Insulin resistance is a key factor in the pathogenesis of NAFLD. We evaluated the importance of subcutaneous abdominal adipose tissue (SAAT) inflammation and both plasma and SAAT-derived exosomes in regulating insulin sensitivity in people with obesity and NAFLD.",
+    "Methods: Adipose tissue inflammation (macrophage and T cell content and gene expression of proinflammatory cytokines), liver and whole-body insulin sensitivity (assessed by a hyperinsulinemic-euglycemic clamp and glucose tracer infusion), and 24-hour serial plasma cytokine concentrations were evaluated in three groups stratified by adiposity, insulin sensitivity and intrahepatic triglyceride (IHTG) content: 1) metabolically-healthy lean (LEAN; n=14); 2) metabolically-healthy obese with normal IHTG content (OB-NL; n=28); and 3) metabolically-unhealthy obese with NAFLD (OB-NAFLD; n=28). The effect of plasma and SAAT-derived exosomes on insulin action (insulin-stimulated Akt phosphorylation) in human skeletal muscle myotubes was assessed in a subset of participants.",
+    "Results: Proinflammatory macrophages, proinflammatory CD4 and CD8 T cell populations, and gene expression of several cytokines in SAAT were greater in the OB-NAFLD than the OB-NL and LEAN groups. However, with the exception of PAI-1, which was greater in the OB-NAFLD than the LEAN and OB-NL groups, 24-hour plasma cytokine concentration areas-under-the-curve (AUC) were not different between groups. The percentage of proinflammatory macrophages and plasma PAI-1 concentration AUC were inversely correlated with both hepatic and whole-body insulin sensitivity. Compared with exosomes from OB-NL participants, plasma and SAAT-derived exosomes obtained from the OB-NAFLD group impaired insulin action in myotubes.",
+    "Conclusion: These results suggest SAAT-derived exosomes and PAI-1 are involved in the pathogenesis of systemic insulin resistance in people with obesity and NAFLD. ClinicalTrials.gov number: NCT02706262."
+  ],
+  "title": "Adipose tissue immunology, inflammation and exosomes in regulating insulin sensitivity in people with obesity and nonalcoholic fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

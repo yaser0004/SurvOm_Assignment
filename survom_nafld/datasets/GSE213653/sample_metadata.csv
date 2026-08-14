@@ -1,0 +1,7 @@
+gsm,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__cell type,raw__genotype,sample_type,source_name,sra_relation,supplementary_files,title
+GSM6591574,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,LO2,immortalized normal liver cell,WT,SRA,LO2,https://www.ncbi.nlm.nih.gov/sra?term=SRX17626466,,shCOM_1
+GSM6591575,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,LO2,immortalized normal liver cell,WT,SRA,LO2,https://www.ncbi.nlm.nih.gov/sra?term=SRX17626467,,shCOM_2
+GSM6591576,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,LO2,immortalized normal liver cell,WT,SRA,LO2,https://www.ncbi.nlm.nih.gov/sra?term=SRX17626468,,shCOM_3
+GSM6591577,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,LO2,immortalized normal liver cell,PON2 Knockdown,SRA,LO2,https://www.ncbi.nlm.nih.gov/sra?term=SRX17626469,,shPON1
+GSM6591578,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,LO2,immortalized normal liver cell,PON2 Knockdown,SRA,LO2,https://www.ncbi.nlm.nih.gov/sra?term=SRX17626470,,shPON2
+GSM6591579,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,LO2,immortalized normal liver cell,PON2 Knockdown,SRA,LO2,https://www.ncbi.nlm.nih.gov/sra?term=SRX17626471,,shPON3

@@ -1,0 +1,28 @@
+{
+  "accession": "GSE160200",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160200",
+  "last_update_date": "May 25 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Human CD14+ monocytes were isolated from five healthy control PBMCs using the CD14 MicroBeads human kit according to the manufacturer\u2019s protocol (Miltenyi).  CD14+ monocytes were plated at 1x10e6 /well in 6-well plate in RPMI 1640 with 50ng/mL of M-CSF plus 5% FBS for 5 days at 37\u02daC/ 5% CO2. After differentiation, M2-like macrophages were stimulated for 24h with RPMI + 5%FBS media plus PBS (unstimulated control), or 50ug/mL of native low-density lipoprotein (Kalen Biomedical LLC), medium oxidized LDL (Kalen Biomedical LLC), or high oxidized LDL (Kalen Biomedical LLC). Cells were then harvested in Buffer RLT (Qiagen) + 1% 2-Mercaptoethanol (Sigma-Aldrich) and processed for low pass RNAseq using Illumina Truseq Stranded mRNA library preparation kit according to the manufacturer\u2019s protocol (Illumina). Prepared libraries were sequenced on the Illumina Nextseq 500 at 3 million reads per sample at 2x75 cycles.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "34012454"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA672312",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP288755"
+  ],
+  "sample_count": 20,
+  "submission_date": "Oct 27 2020",
+  "summary": [
+    "The liver is the central organ for cholesterol synthesis and homeostasis. The effects of dietary cholesterol on hepatic injury, mainly of oxidized low-density lipoproteins (OxLDL), are not fully understood. Here, we show that the degree of cholesterol oxidation had different impacts on the global gene expression of human M2-like macrophages, with highly oxidized LDL causing the most dramatic changes. M2-like macrophages and Kupffer cells undergo M4-like polarization, decreasing the expression of important markers, such as IL10, MRC1, and CD163. These cells also displayed functional changes, with reduced phagocytic capacity, increased neutrophil recruitment, and more effective neutrophil extracellular traps (NETs) induction. Our findings provide a link between the accumulation of OxLDL and NASH progression, offering a new target for NAFLD treatment."
+  ],
+  "title": "Cholesterol-induced M4-like Macrophages in Non-alcoholic Steatohepatitis recruit Neutrophils and induce NETosis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

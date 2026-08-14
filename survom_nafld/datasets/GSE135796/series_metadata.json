@@ -1,0 +1,26 @@
+{
+  "accession": "GSE135796",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135796",
+  "last_update_date": "Aug 15 2019",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Profiling the transcriptome of hepatocellular carcinoma cells HepG2 treated with GDF11 (24h, 200 nM) for macroH2A1 using RNA-Seq.",
+  "platform_ids": [
+    "GPL15520"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA560078",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP218257"
+  ],
+  "sample_count": 6,
+  "submission_date": "Aug 13 2019",
+  "summary": [
+    "Growth differentiation factor 11 (GDF11), also known as bone morphogenetic protein 11 (BMP11) is a member of the Growth differentiation factors (GDFs), a subfamily of proteins belonging to the transforming growth factor-beta (TGF-\u03b2) superfamily (Katoh and Katoh 2006).  ). In the past 7-8 years, several high profile studies, showed that systemic restoration of GDF11 levels reverses age-related phenotypes and rejuvenated heart and skeletal muscle in aged mice (Loffredo, Steinhauser et al. 2013, Sinha, Jang et al. 2014), improves insulin sensitivity via restoring pancreatic \u03b2-cell function in diabetic mice (Li, Li et al. 2017), and increases proliferation of brain capillary endothelial cells thereby improving the vascular and neurogenic rejuvenation in the brain of aged mice (Katsimpardi, Litterman et al. 2014, Finkenzeller, Stark et al. 2015, Zhang, Guo et al. 2018). Nonetheless, the possible rejuvenation effect of GDF11 was questioned over past years by several other studies. These reports doubted the age-associated decrease of circulating GDF11 level and related phenotypes in the muscle, the heart and the brain (Egerman, Cadena et al. 2015, Rodgers and Eldridge 2015); moreover, restoration of GDF11 levels in old mice had no positive effect on heart structure or function (Smith, Zhang et al. 2015). Increase of GDF11 levels had deleterious effects on aging skeletal muscle regeneration (Egerman, Cadena et al. 2015), suggesting also that supraphysiological levels could lead to cachexia (Hammers, Merscham-Banda et al. 2017).   In the field of liver diseases, GDF11 was shown to exhibit tumor suppressive properties in HCC cells (Zhang, Pan et al. 2018, Gerardo-Ram\u00edrez, Lazzarini-Lechuga et al. 2019) and to worsen hepatocellular injury and liver regeneration after liver ischemia reperfusion injury (Liu, Dong et al. 2018). From these controverted studies, it is clear that the systemic effects of GDF11 in health and disease are not yet clearly and fully delineated.   The aim of the present study was to specifically characterize the role of GDF11 in lipid metabolism and in the progression of the NAFLD disease spectrum, which is currently unknown. We thus aimed at investigating the potential effect of GDF11 on lipid droplet formation in human hepatocytes.  Our data strongly suggest that GDF11 supplementation exacerbates, both in presence or absence of FFA, lipid droplet accumulation in two hepatic cell models (HepG2 and Hep3B) by impinging on ALK5/SMAD2/3 dependent signaling pathway."
+  ],
+  "title": "Growth Differentiation Factor 11 exacerbates non-alcoholic fatty liver disease in vitro and in vivo",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

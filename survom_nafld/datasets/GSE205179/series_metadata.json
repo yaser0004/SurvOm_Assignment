@@ -1,0 +1,25 @@
+{
+  "accession": "GSE205179",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205179",
+  "last_update_date": "May 30 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "For 2D differentiated HepaRG cell (2DD) culture, HepaRG cells were maintained for 2 weeks in the growth medium and then shifted to the growth medium supplemented with 2% DMSO for the next 2 weeks. To obtain bioprinting liver models A and B, uniformly sized hepatobiliary aggregates (HBAs) were used as building blocks. HBAs were readily produced and non-destructively harvested after 7-day culture within the 3D printing alginate/gelatin scaffolds with HepaRG growth medium. The alginate, gelatin solution, and the HBAs were gently and uniformly mixed. Lego-livers were cultured with low concentration medium A or high concentration medium B for 14 days to obtain model A or B, respectively. Primary human hepatocyte (PHH) was bought from the company and cultured for 3 days as instructed. The samples for RNA-seq were collected in TriZol.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA844048"
+  ],
+  "sample_count": 12,
+  "submission_date": "May 31 2022",
+  "summary": [
+    "The study of liver disease and drug discovery has been constrained by a lack of liver tissue with intrahepatic bile ducts (IHBD) network. Here we created functional bioprinting human liver with IHBD through precise temporal-spatial regulation via biochemical and mechanical cues. To investigate the regulatory mechanisms of the cell microenvironment of the human liver on the biliary branching morphogenesis, biomimetic liver tissue formation, and physiological function, transcriptome analysis of model A and model B was performed and compared with 2DD and PHH cells."
+  ],
+  "title": "3D bioprinting of human liver models with biliary branching morphogenesis for hepatotoxicity, regeneration and NASH",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

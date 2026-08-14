@@ -1,0 +1,27 @@
+{
+  "accession": "GSE313774",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE313774",
+  "last_update_date": "Jan 21 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Microphysiological modeling of MASLD with human hepatocytes in the CN-Bio LiverChip system.",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "41535580"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1381576"
+  ],
+  "sample_count": 33,
+  "submission_date": "Dec 15 2025",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a chronic disease with multiple etiologies, stemming from the interplay between local and systemic genetic, diet, and gene-environment interactions. To understand the progression of MASLD in a controlled setting, we utilized a human liver microphysiological system (MPS) to establish a physiologically relevant metabolic baseline and probe how primary human hepatocytes respond to perturbations in insulin, glucose, and free fatty acids (FFAs). Replicate liver MPS were maintained in media with either 200 pM or 800 pM insulin for up to 3 weeks alone and in combination with standard glucose (5.5 mM), hyperglycemia (11 mM glucose), normal (20\u00b5M) and elevated FFA (100 \u00b5M). Together, hyperinsulinemia along with elevated glucose and FFAs, induces the release of pro-inflammatory chemokines, accumulation of triglycerides, and predisposes hepatocytes to insulin resistance. Treatment with the thyroid receptor \u00df agonist resmetirom normalizes hepatic fat content and partially rescues insulin sensitivity, but paradoxically induces higher CXCL1 and IL8 expression in male and female donors. In aggregate, our enhanced in vitro MPS model establishes a metabolic baseline and perturbed condition that recapitulates a spectrum of phenotypes observed in MASLD, offering improved quantification and insight into disease progression with relevance to human physiology."
+  ],
+  "title": "A Microphysiological Model of Human MASLD Reveals Paradoxical Response to Resmetirom",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

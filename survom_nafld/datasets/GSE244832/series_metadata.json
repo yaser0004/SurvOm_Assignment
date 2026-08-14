@@ -1,0 +1,30 @@
+{
+  "accession": "GSE244832",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE244832",
+  "last_update_date": "Mar 05 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "18 single nucleus ATACseq samples, 18 single nucleus RNAseq samples from human MASH, MASL, NORMAL livers.",
+  "platform_ids": [
+    "GPL18573",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39522884",
+    "41196693"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1024976"
+  ],
+  "sample_count": 36,
+  "submission_date": "Oct 06 2023",
+  "summary": [
+    "Background and aims: Metabolic dysfunction-associated steatotic liver disease (MASLD) progresses from steatosis (Metabolic dysfunction-associated steatotic liver, MASL) to Metabolic dysfunction-associated steatohepatitis (MASH) with fibrosis. Activation of Hepatic Stellate Cells (HSCs) into fibrogenic myofibroblasts plays a critical role in the pathogenesis of MASH liver fibrosis. Here we compared gene expression and chromatin accessibility profiles of human HSCs in NORMAL, MASL, and MASH livers at single cell resolution. Methods: 18 human livers were profiled using single-nucleus (sn) RNA-seq and snATAC-seq. High priority targets were identified and then tested in 2D human HSCs, 3D human liver spheroids, and HSC-specific gene knockout mice. Results: This study identified novel gene regulatory mechanisms underlying MASL- and MASH-associated HSC heterogeneity and outlined potential strategies for anti-fibrotic therapy. Specifically, MASH-enriched HSC-subcluster hA1, represented by highly fibrogenic population of myofibroblasts, served as a critical source of extracellular matrix protein (ECM) in MASH, and its activation was regulated via a cross-talk between lineage-specific (JUNB/AP1), cluster-specific (RUNX1/2) and signal-specific (FOXA1/2) transcription factors (TFs). Additionally, we identified a set of core genes (GAS7, SPON1, SERPINE1, LTBP2, KLF9, EFEMP1) that drive ECM production in hA1 HSCs. The pathological relevance of the selected hA1 targets, such as SERPINE1 and others, was demonstrated using siRNA-based HSC-specific gene knockdown or pharmacological inhibitor of SERPINE1 in 3D human MASH liver spheroids, and HSC-specific Serpine1 knockout mice with MASH. Conclusion: We identified potential targets for anti-fibrotic therapy of MASH in patients."
+  ],
+  "title": "Multi-Modal Comparison of human Hepatic Stellate Cells identifies novel therapeutic targets for Metabolic Dysfunction-Associated Steatotic Liver Disease",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Genome binding/occupancy profiling by high throughput sequencing"
+  ]
+}

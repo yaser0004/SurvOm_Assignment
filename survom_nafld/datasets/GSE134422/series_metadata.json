@@ -1,0 +1,28 @@
+{
+  "accession": "GSE134422",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134422",
+  "last_update_date": "Jun 08 2020",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-seq analysis of hepatocytes from normal patients, NASH patients, and alcohol-mediated Laennec's cirrhotic patients.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "32490322"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA555103",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP215280"
+  ],
+  "sample_count": 7,
+  "submission_date": "Jul 17 2019",
+  "summary": [
+    "HNF4\u03b1 is a transcription factor that plays a critical role in terminal hepatocyte failure. HNF4\u03b1-based reprogramming therapy can correct terminal liver failure in rats and humans. As liver disease progresses, HNF4\u03b1 expression decreases in the nuclei of hepatocytes, leading to impaired regulation and hepatic function. Post-translational modifications (PTMs) are a fundamental regulatory mechanism of protein function and localization. In this study, we analyzed HNF4\u03b1 localization and pathways involved in HNF4\u03b1 PTMs in human hepatocytes at different stages of decompensated liver function upon Child-Pugh classification. RNA-seq analysis revealed that HNF4\u03b1 and the PTMs-pathway related to AKT are down-regulation in cirrhotic hepatocytes with terminal failure. These findings were confirmed by protein expression, where the HNF4\u03b1 nuclear levels are significantly reduced in Child\u2010Pugh B and C hepatocytes, whereas cytoplasmic expression of HNF4\u03b1 was increased. Moreover, cMET and phospho-AKT were significantly reduced in Child\u2010Pugh B and C hepatocytes. The association and statistical contribution of cMET and phospho-AKT to the nuclear localization of HNF4\u03b1 were confirmed by Spearman\u2019s rank correlation test and pathway analysis. Principal component analysis was used to characterize the protein profiles related to the degree of liver dysfunction. Additionally, HNF4\u03b1 acetylation was significantly reduced in failing human hepatocytes when compared to normal controls, demonstrating a significant correlation to the degree of hepatic function. Conclusion: These results suggest that the alterations in the cMET-AKT pathway directly correlate to HNF4\u03b1 localization and the level of hepatic dysfunction. In conclusion, this study has therapeutic implications and suggests that manipulation of these pathways may restore hepatocyte function in terminal liver failure."
+  ],
+  "title": "HNF4\u03b1 nuclear localization correlates with the clinical progression of terminal hepatic failure in humans",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

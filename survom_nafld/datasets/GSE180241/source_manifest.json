@@ -1,0 +1,40 @@
+{
+  "accession": "GSE180241",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180241",
+  "gsm_accessions": [
+    "GSM5456567",
+    "GSM5456568",
+    "GSM5456569",
+    "GSM5456570",
+    "GSM5456571",
+    "GSM5456572"
+  ],
+  "platform_accessions": [
+    "GPL11154"
+  ],
+  "sources": [
+    {
+      "bytes": 2811,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:23Z",
+      "sha256": "8614e256f0ed28dd540e8e61a5a3d28d774016f07bd2bb900bc86e83552b0bc6",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE180nnn/GSE180241/soft/GSE180241_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5456nnn/GSM5456567/suppl/GSM5456567_FLAPD_049.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5456nnn/GSM5456568/suppl/GSM5456568_FLAPD_177.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5456nnn/GSM5456569/suppl/GSM5456569_FLAPD_190.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5456nnn/GSM5456570/suppl/GSM5456570_FLV_086.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5456nnn/GSM5456571/suppl/GSM5456571_FLV_095.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5456nnn/GSM5456572/suppl/GSM5456572_FLV_113.txt.gz"
+  ],
+  "tool_version": "0.1.0"
+}

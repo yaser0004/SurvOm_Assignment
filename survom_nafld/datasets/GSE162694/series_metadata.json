@@ -1,0 +1,28 @@
+{
+  "accession": "GSE162694",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE162694",
+  "last_update_date": "Sep 21 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "mRNA-seqencing of 143 NASH patients of various fibrosis stages",
+  "platform_ids": [
+    "GPL21290"
+  ],
+  "pubmed_ids": [
+    "34508113"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA682622",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP295965"
+  ],
+  "sample_count": 143,
+  "submission_date": "Dec 04 2020",
+  "summary": [
+    "Using RNA-sequencing, we conducted a cross-sectional study of 143 NASH patients to identify  differentially expressed genes, significantly enriched pathways, cell composition changes, and predictive gene signatures related to fibrosis severity."
+  ],
+  "title": "Molecular Characterization and Cell\u00a0Type\u00a0Composition\u00a0Deconvolution\u00a0of Fibrosis\u00a0in NAFLD",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

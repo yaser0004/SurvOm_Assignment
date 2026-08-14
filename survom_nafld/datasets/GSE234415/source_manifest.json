@@ -1,0 +1,63 @@
+{
+  "accession": "GSE234415",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234415",
+  "gsm_accessions": [
+    "GSM7467112",
+    "GSM7467113",
+    "GSM7467114",
+    "GSM7467115",
+    "GSM7467116",
+    "GSM7467117",
+    "GSM7467118",
+    "GSM7467119",
+    "GSM7467120",
+    "GSM7467121",
+    "GSM7467122",
+    "GSM7467123",
+    "GSM7467124",
+    "GSM7467125",
+    "GSM7467126",
+    "GSM7467127",
+    "GSM7467128",
+    "GSM7467129",
+    "GSM7467130",
+    "GSM7467131",
+    "GSM7467132",
+    "GSM7467133",
+    "GSM7467134",
+    "GSM7467135",
+    "GSM7467136",
+    "GSM7467137",
+    "GSM7467138",
+    "GSM7467139",
+    "GSM7467140",
+    "GSM7467141",
+    "GSM7467142",
+    "GSM7467143",
+    "GSM7467144",
+    "GSM7467145",
+    "GSM7467146",
+    "GSM7467147"
+  ],
+  "platform_accessions": [
+    "GPL24676"
+  ],
+  "sources": [
+    {
+      "bytes": 6043,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:26Z",
+      "sha256": "b126b63a932a483dba2e4d788181bc8c48437f66d0d1e5efd9dc33c50951a7e9",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE234nnn/GSE234415/soft/GSE234415_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [],
+  "tool_version": "0.1.0"
+}

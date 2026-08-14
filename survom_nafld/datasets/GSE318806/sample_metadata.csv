@@ -1,0 +1,10 @@
+gsm,canon__tissue,canon__treatment,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__batch,raw__cell line,raw__cell type,raw__tissue,raw__treatment,sample_type,source_name,sra_relation,supplementary_files,title
+GSM9503529,PBMCs,Passage Control,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL34284,1,Primary,Macrophage,PBMCs,Passage Control,SRA,PBMCs,,,./pt1_CTRL
+GSM9503530,PBMCs,Sen(Dox),Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL34284,1,Primary,Macrophage,PBMCs,Sen(Dox),SRA,PBMCs,,,./pt1_DOXO
+GSM9503531,PBMCs,Sen(IR),Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL34284,1,Primary,Macrophage,PBMCs,Sen(IR),SRA,PBMCs,,,./pt1_IR
+GSM9503532,PBMCs,Passage Control,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL34284,1,Primary,Macrophage,PBMCs,Passage Control,SRA,PBMCs,,,./pt2_CTRL
+GSM9503533,PBMCs,Sen(Dox),Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL34284,1,Primary,Macrophage,PBMCs,Sen(Dox),SRA,PBMCs,,,./pt2_DOXO
+GSM9503534,PBMCs,Sen(IR),Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL34284,1,Primary,Macrophage,PBMCs,Sen(IR),SRA,PBMCs,,,./pt2_IR
+GSM9503535,PBMCs,Passage Control,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL34284,1,Primary,Macrophage,PBMCs,Passage Control,SRA,PBMCs,,,./pt3_CTRL
+GSM9503536,PBMCs,Sen(Dox),Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL34284,1,Primary,Macrophage,PBMCs,Sen(Dox),SRA,PBMCs,,,./pt3_DOXO
+GSM9503537,PBMCs,Sen(IR),Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL34284,1,Primary,Macrophage,PBMCs,Sen(IR),SRA,PBMCs,,,./pt3_IR

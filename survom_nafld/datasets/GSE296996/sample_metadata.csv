@@ -1,0 +1,11 @@
+gsm,canon__treatment,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__replicate,raw__treatment,sample_type,source_name,sra_relation,supplementary_files,title
+GSM8981325,Control,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep1,Control,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775049,,"HepG2, Control, rep1"
+GSM8981326,Control,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep2,Control,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775050,,"HepG2, Control, rep2"
+GSM8981327,Control,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep3,Control,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775051,,"HepG2, Control, rep3"
+GSM8981328,Control,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep4,Control,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775052,,"HepG2, Control, rep4"
+GSM8981329,Control,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep5,Control,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775053,,"HepG2, Control, rep5"
+GSM8981330,Tunicamycin,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep1,Tunicamycin,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775054,,"HepG2, Tunicamycin, rep1"
+GSM8981331,Tunicamycin,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep2,Tunicamycin,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775055,,"HepG2, Tunicamycin, rep2"
+GSM8981332,Tunicamycin,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep3,Tunicamycin,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775056,,"HepG2, Tunicamycin, rep3"
+GSM8981333,Tunicamycin,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep4,Tunicamycin,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775057,,"HepG2, Tunicamycin, rep4"
+GSM8981334,Tunicamycin,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,HepG2,rep5,Tunicamycin,SRA,HepG2,https://www.ncbi.nlm.nih.gov/sra?term=SRX28775058,,"HepG2, Tunicamycin, rep5"

@@ -1,0 +1,27 @@
+{
+  "accession": "GSE202379",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202379",
+  "last_update_date": "Jun 06 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Single nuclei RNA-seq was performed on biopsies taken from patients diagnosed with NAFLD (3 samples), NASH (5 samples), NASH with cirrhosis (4 samples) . Additionally, samples were analysed with from patients with end-stage disease due to NAFLD progression (6 samples) requiring transplantation. Healthy liver material was analysed from healthy donors (4 samples) as a control. Samples were cryopreserved by snap freezing in liquid nitrogen and nuclei isolation achieved by using tissue lysis and FACS sorting to purify nuclei prior to loading on the 10x.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38778114"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA835824"
+  ],
+  "sample_count": 59,
+  "submission_date": "May 06 2022",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) is of increasing prevalence and concern. NAFLD can progress to non-alcoholic steatohepatitis (NASH), to cirrhosis and finally to end-stage liver disease where liver transplantation is required. We aimed to characterise this progression by performing single nuclei transcriptomic analysis of liver biopsies taken from patients across the disease spectrum. We have observed that hepatocytes are the cell type affected mostly by the disease and describe plasticity between cell types which may represent a regenerative process."
+  ],
+  "title": "Single Nuclei RNA-Seq to map progression of non-alcoholic fatty liver disease (NAFLD) in patients II",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

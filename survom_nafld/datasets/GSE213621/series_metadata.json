@@ -1,0 +1,30 @@
+{
+  "accession": "GSE213621",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE213621",
+  "last_update_date": "Jun 14 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We used Smoflox/flox mice in combination with AAV8-TBG-Cre which enables genetic disruption of Smo in mature hepatocytes selectively. Adult Smoflox/flox mice were treated with AAV vectors for 7 days. Their livers were analyzed by histology, immunoblots, qPCR and single-cell RNA sequencing. We also performed RNA sequencing of 368 liver samples from controls and patients with NAFLD to assess the association of Smo expression with liver inflammation and fibrosis.",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "36535507"
+  ],
+  "relations": [
+    "SubSeries of: GSE213623",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA881948",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP398015"
+  ],
+  "sample_count": 368,
+  "submission_date": "Sep 19 2022",
+  "summary": [
+    "Nonalcoholic fatty liver disease (NAFLD) is strongly associated with insulin resistance (IR), but little is known about the key genetic driver that links these two disorders.",
+    "We aimed to elucidate the mechanism by which Smoothened (Smo), a G-protein coupled receptor, contributes to pathogenesis of NAFLD and IR."
+  ],
+  "title": "Hepatocyte Smoothened Activity Controls Susceptibility to Insulin Resistance and Nonalcoholic Fatty Liver Disease [RNA-Seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

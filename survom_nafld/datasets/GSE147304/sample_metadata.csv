@@ -1,0 +1,11 @@
+gsm,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__tissue,raw__with nash,sample_type,source_name,sra_relation,supplementary_files,title
+GSM4425523,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,No,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963120,,Normal 4
+GSM4425524,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,No,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963121,,Normal 5
+GSM4425525,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,No,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963122,,Normal 1
+GSM4425526,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,No,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963123,,Normal 2
+GSM4425527,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,No,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963124,,Normal 3
+GSM4425528,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,Yes,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963125,,NASH1
+GSM4425529,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,Yes,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963126,,NASH2
+GSM4425530,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,Yes,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963127,,NASH3
+GSM4425531,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,Yes,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963128,,NASH4
+GSM4425532,liver tissue,HiSeq X Ten,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20795,liver tissue,Yes,SRA,liver tissue,https://www.ncbi.nlm.nih.gov/sra?term=SRX7963129,,NASH5

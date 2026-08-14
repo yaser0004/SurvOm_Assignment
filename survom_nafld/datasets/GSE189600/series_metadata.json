@@ -1,0 +1,31 @@
+{
+  "accession": "GSE189600",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE189600",
+  "last_update_date": "Apr 25 2023",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Using unbiased genomic approaches including snRNA-seq and snATAC-seq on livers from mice fed a NASH promoting diet (modified ALIOS diet) for 3 months or 9 months, we comprehensively profiled transcriptomic and epigenomic changes of all major liver cell types during NASH progression. We identified receptor tyrosine kinase Ephb2 was specifically expressed in NASH hepatocytes. We confirmed this finding by performing snRNA-seq in human NASH livers. To determine the function of Ephb2, we performed bulk RNA-seq of the livers with forced expression of Ephb2 in hepatocytes.",
+  "platform_ids": [
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "36753562"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA783863",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP348024"
+  ],
+  "sample_count": 21,
+  "submission_date": "Nov 26 2021",
+  "summary": [
+    "Current therapeutic strategies for treating non-alcoholic steatohepatitis (NASH) have failed to alleviate liver fibrosis, which is a devastating feature leading to hepatic dysfunction. Here, we integrated single-nucleus transcriptomics and epigenomics to characterize all major liver cell types during NASH development in mice and humans. The bifurcation of hepatocyte trajectory with NASH progression was conserved between mouse and human. At the non-alcoholic fatty liver (NAFL) stage, hepatocytes exhibited metabolic adaptation, whereas at the NASH stage, a subset of hepatocytes was enriched for the signatures of cell adhesion and migration, which was mainly demarcated by receptor tyrosine kinase EphB2. EphB2, acting as a downstream effector of Notch signaling in hepatocytes, was sufficient to induce cell-autonomously inflammation. Knockdown of Ephb2 in hepatocytes ameliorated inflammation and fibrosis in NASH. Thus, EphB2 expressing hepatocytes contribute to NASH progression and may serve as a potential therapeutic target."
+  ],
+  "title": "Hepatocytes demarcated by EphB2 contribute to the progression of non-alcoholic steatohepatitis",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Genome binding/occupancy profiling by high throughput sequencing"
+  ]
+}

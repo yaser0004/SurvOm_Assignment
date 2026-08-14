@@ -1,0 +1,28 @@
+{
+  "accession": "GSE135448",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135448",
+  "last_update_date": "Jul 13 2020",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "19 morbidly obese subjects undergoing bariatric surgery were randomized into two hypocaloric (1500 kcal/day) diet groups, a low protein (LP: 10 E% protein, n=10) and a high protein (HP: 30 E% protein, n=9), for three weeks prior to surgery. RNA-seq analyses were performed on liver samples collected during surgery.",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "32652799"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA558947",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP217536"
+  ],
+  "sample_count": 19,
+  "submission_date": "Aug 06 2019",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) is becoming increasingly prevalent and nutrition intervention remains the most important therapeutic approach for NAFLD. Our aim was to investigate whether low- (LP) or high-protein (HP) diets are more effective in reducing liver fat and reversing NAFLD. Here RNA-seq analysis was used to analyse which metabolic pathways that were altered on the LP and HP diets."
+  ],
+  "title": "High- and low-protein diet: effects on human hepatic fat content, autophagy, mitochondrial function and fat metabolism",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "accession": "GSE160016",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160016",
+  "last_update_date": "Feb 17 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Liver transcriptome analysis from livers of donors who underwent organ donation after cardiac death (DCD; 6 non-NAFLD donors, 5 NAFLD donors)",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "33586673"
+  ],
+  "relations": [
+    "SubSeries of: GSE160022",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA671636",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP288461"
+  ],
+  "sample_count": 11,
+  "submission_date": "Oct 25 2020",
+  "summary": [
+    "The goals of this study are to investigate whether the defects of energy metabolism and/or mitochondria occurs in Nonalcoholic fatty liver disease (NAFLD), we  performed liver transcriptome analysis from livers of donors who underwent organ donation after cardiac death (DCD; 6 non-NAFLD donors, 5 NAFLD donors). In this screen, a cluster of 462 transcripts were up-regulated and 447 transcripts were down-regulated in response to NAFLD. Among these differentially expressed genes , gene sets that contribute to endoplasmic reticulum stress, intrinsic apoptosis and cytokine production were enriched in NAFLD livers, whereas lipid metabolic process were suppressed in NAFLD livers, accompanied with deficient expression of the mitochondrial matrix enzyme."
+  ],
+  "title": "TREM2 sustains macrophage-hepatocyte metabolic coordination in NAFLD and sepsis [Human_liver_RNA_seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

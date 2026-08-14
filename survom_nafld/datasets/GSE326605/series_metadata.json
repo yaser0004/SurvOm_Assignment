@@ -1,0 +1,25 @@
+{
+  "accession": "GSE326605",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE326605",
+  "last_update_date": "Apr 06 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Peripheral NK cells were isolated from two representative F3/F4 advanced liver fibrosis MASH patients (A and B) selected based on age and sex and were sorted on the basis of positive/negative NTCP expression.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1445985"
+  ],
+  "sample_count": 4,
+  "submission_date": "Mar 31 2026",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD) encompasses a spectrum of fatty liver diseases ranging from steatotic liver disease to metabolic dysfunction-associated steatohepatitis (MASH), and its prevalence is increasing worldwide due to the pandemic of obesity. Approximately 20\u201330% of MASLD patients develop MASH, leading to liver cirrhosis and associated complications, including hepatocellular carcinoma. Liver damage, such as cholestatic conditions in which bile secretion and flow are disturbed, is associated with impaired innate and adaptive immunity. NK cells play a crucial role in inhibiting liver fibrosis. However, how bile acids affect natural killer (NK) cells remains unknown. We aimed to assess the impact of bile acid concentration on NK cell functionality and identify the molecular and metabolic NK cell signaling pathways that influence liver fibrosis pathogenesis. To this end, we studied peripheral NK cells from patients with MASH, healthy donors, and a mouse model of MASH. Sodium+/taurocholate cotransporting polypeptide (NTCP) expression was 2.5-fold higher in peripheral blood NK cells from MASH patients with advanced liver fibrosis than in those from early liver fibrosis patients and healthy donors. Greater taurocholic acid (TCA) uptake was observed in peripheral NKNTCP+ cells from the early and advanced liver fibrosis MASH patient groups than in NKNTCP- cells from the same patients. It was associated with increased levels of exhaustion markers and decreased activity. Moreover, single-cell RNA sequencing and functional analyses demonstrated that NTCP\u207a NK cells in advanced MASH adopt stress- and exhaustion-associated transcriptional programs with reduced translational activity, accompanied by increased STAT3 activation and diminished STAT1 signaling, highlighting their impaired cytotoxic function. Following STAT3 inhibition, trNKNTCP+ cells presented significantly reduced NTCP expression, reduced NK cell exhaustion, and restored NK cell activity. In MASH mice, epigallocatechin gallate-mediated inhibition of NTCP expression reduced TCA uptake and attenuated liver fibrosis. Additionally, in immunodeficient liver fibrosis model mice, reconstitution with trNKNTCP- cells alleviated liver fibrosis, decreased proinflammatory and profibrotic cytokine levels, and ameliorated lipid homeostasis. Our findings suggest that enhancing immune responses by restoring NK cell activity through NTCP antagonism may offer a clinically beneficial strategy to prevent liver fibrosis in patients with metabolic disorders, autoimmune diseases, and chronic viral hepatitis."
+  ],
+  "title": "Bile acid uptake activates STAT signaling and impairs natural killer cells in metabolic dysfunction\u2013associated steatohepatitis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

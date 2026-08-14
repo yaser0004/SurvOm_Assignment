@@ -1,0 +1,52 @@
+{
+  "accession": "GSE247467",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247467",
+  "gsm_accessions": [
+    "GSM7890424",
+    "GSM7890425",
+    "GSM7890426",
+    "GSM7890427",
+    "GSM7890428",
+    "GSM7890429",
+    "GSM7890430",
+    "GSM7890431",
+    "GSM7890432",
+    "GSM7890433",
+    "GSM7890434",
+    "GSM7890435"
+  ],
+  "platform_accessions": [
+    "GPL18573"
+  ],
+  "sources": [
+    {
+      "bytes": 3156,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:26Z",
+      "sha256": "4be205366ebec26d9484284e92d2f73d5cafe5706ff1540f3af3b4740d651d24",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE247nnn/GSE247467/soft/GSE247467_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890424/suppl/GSM7890424_Advanced_1_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890425/suppl/GSM7890425_Advanced_2_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890426/suppl/GSM7890426_Advanced_3_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890427/suppl/GSM7890427_Advanced_4_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890428/suppl/GSM7890428_Mild_1_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890429/suppl/GSM7890429_Mild_2_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890430/suppl/GSM7890430_Mild_3_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890431/suppl/GSM7890431_Normal_1_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890432/suppl/GSM7890432_Normal_2_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890433/suppl/GSM7890433_Normal_3_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890434/suppl/GSM7890434_Normal_4_star_counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7890nnn/GSM7890435/suppl/GSM7890435_Normal_5_star_counts.txt.gz"
+  ],
+  "tool_version": "0.1.0"
+}

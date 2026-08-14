@@ -1,0 +1,29 @@
+{
+  "accession": "GSE260862",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE260862",
+  "last_update_date": "Dec 18 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "To investigate the inhibitory effect of P-T3H2 on HCC by enhancing the transcriptional activity of HNF4\u03b1, Huh7 cells were treated with  P-T3H2-2A and P-T3H2. We then performed gene expression profiling analysis using data obtained from RNA-seq of three groups of Huh7 cells were treated with  P-T3H2-2A and P-T3H2.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39638897"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1083871"
+  ],
+  "sample_count": 6,
+  "submission_date": "Mar 05 2024",
+  "summary": [
+    "Objectives: Hepatocyte nuclear factor 4\u03b1 (HNF4\u03b1) is a key regulator of hepatocyte function and has a strong therapeutic effect on hepatocellular carcinoma (HCC) by inducing  the differentiation of hepatoma cell into hepatocytes. Our previous study showed that Tribbles homolog 3 (TRIB3) directly interacts with and promotes the degradation of HNF4\u03b1 in non-alcoholic fatty liver disease (NAFLD). Disrupting the TRIB3-HNF4\u03b1 interaction by using a cell-permeating peptide called P-T3H2 stabilizes HNF4\u03b1 protein. This study aimed to assess the anti-tumor impact of P-T3H2 in HCC.",
+    "Methods: The expression of TRIB3 and HNF4\u03b1 was assessed using western blot and immunohistochemistry staining (IHC). Hepatic functions in HCC cells were evaluated through periodic acid-Schiff (PAS) staining and acetylated low-density lipoprotein (ac-LDL) uptake. Senescence-associated \u03b2-galactosidase (SA-\u03b2-gal) activity staining was used to detected the cellular senescence in HCC cells. RNA-Seq analysis was carried out to identify differentially expressed genes in Huh-7 cells treated with the peptide P-T3H2 compared to the control peptide P-T3H2-2A. The impact of P-T3H2 on hepatocarcinoma malignancy was evaluated in HCC cells, a Huh-7 xenograft mouse model, an orthotopic model, and a C-MET/\u0394N90-\u03b2-catenin-driven HCC model.",
+    "Results: TRIB3 exhibited a negative correlation with HNF4\u03b1 in both human and mouse HCC tissues. The administration of P-T3H2 significantly inhibited the malignancy of HCC cells. Additionally, P-T3H2 stabilized the HNF4\u03b1 protein and facilitated the restoration of hepatic functions and the cellular senescence in HCC cells. RNA-Seq analysis demonstrated that P-T3H2 enhanced the transcriptional activity of HNF4\u03b1 in HCC. Furthermore, P-T3H2 effectively suppressed the growth of HCC tumors in both of the Huh7 xenograft and orthotopic mouse models in vivo. Notably, P-T3H2 also inhibits hepatocarcinogenesis in the C-MET/\u0394N90-\u03b2-catenin-driven HCC model."
+  ],
+  "title": "Cell-permeated peptide P-T3H2 inhibits malignancy on hepatocarcinoma through stabilizing HNF4\u03b1 protein",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

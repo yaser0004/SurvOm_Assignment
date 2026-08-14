@@ -1,0 +1,52 @@
+{
+  "accession": "GSE245977",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245977",
+  "gsm_accessions": [
+    "GSM7852810",
+    "GSM7852811",
+    "GSM7852812",
+    "GSM7852813",
+    "GSM7852814",
+    "GSM7852815",
+    "GSM7852816",
+    "GSM7852817",
+    "GSM7852818",
+    "GSM7852819",
+    "GSM7852820",
+    "GSM7852821"
+  ],
+  "platform_accessions": [
+    "GPL18573"
+  ],
+  "sources": [
+    {
+      "bytes": 3717,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:26Z",
+      "sha256": "219fd5fc801dcaa95e1ded787bc330f9992b1531c8255e10d3ac1ac537508cb0",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE245nnn/GSE245977/soft/GSE245977_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852810/suppl/GSM7852810_1-1-IMC_S1_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852811/suppl/GSM7852811_1-2-aG1_S2_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852812/suppl/GSM7852812_2-1-IMC_S3_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852813/suppl/GSM7852813_2-2-aG1_S4_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852814/suppl/GSM7852814_3-1-IMC_S5_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852815/suppl/GSM7852815_3-2-aG1_S6_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852816/suppl/GSM7852816_4-1-IMC_S7_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852817/suppl/GSM7852817_4-2-aG1_S8_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852818/suppl/GSM7852818_5-1-IMC_S9_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852819/suppl/GSM7852819_5-2-aG1_S10_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852820/suppl/GSM7852820_6-1-IMC_S11_quant.sf.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7852nnn/GSM7852821/suppl/GSM7852821_6-2-aG1_S12_quant.sf.gz"
+  ],
+  "tool_version": "0.1.0"
+}

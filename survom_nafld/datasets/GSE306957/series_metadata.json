@@ -1,0 +1,29 @@
+{
+  "accession": "GSE306957",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE306957",
+  "last_update_date": "Jan 28 2026",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "RNA-seq profiling of proliferating and senescent fibroblasts lacking proteins associated with cytosolic RNA signaling, including DDX58 (RIG-I), IFIH1 (MDA5) and MAVS. Moreover, RNA-seq was also performed in fibroblasts lacking mitochondria, which were subsequently transfected with isolated mitochondrial RNA (mtRNA). Finally, RNA-seq analysis was performed in livers from liver-specific Bax Bak KO animals with diet-induced metabolic dysfunction-associated steatohepatitis (MASH).",
+  "platform_ids": [
+    "GPL34284",
+    "GPL34290"
+  ],
+  "pubmed_ids": [
+    "41398033"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1314047"
+  ],
+  "sample_count": 34,
+  "submission_date": "Sep 02 2025",
+  "summary": [
+    "Senescent cells secrete proinflammatory factors known as the senescence-associated secretory phenotype (SASP), contributing to tissue dysfunction and aging. Mitochondrial dysfunction is a key feature of senescence, influencing SASP via mitochondrial DNA (mtDNA) release and cGAS/STING pathway activation. Here, we demonstrate that mitochondrial RNA (mtRNA) also accumulates in the cytosol of senescent cells, activating RNA sensors RIG-I and MDA5, leading to MAVS aggregation and SASP induction. Inhibition of these RNA sensors significantly reduces SASP factors. Furthermore, BAX and BAK play a key role in mtRNA leakage during senescence, and their deletion diminishes SASP expression in vitro and in a mouse model of Metabolic Dysfunction Associated Steatohepatitis (MASH). These findings highlight mtRNA's role in SASP regulation and its potential as a therapeutic target for mitigating age-related inflammation."
+  ],
+  "title": "Mitochondrial RNA cytosolic leakage drives the SASP [CRISPR/Cas9]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

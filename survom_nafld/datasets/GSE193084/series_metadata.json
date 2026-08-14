@@ -1,0 +1,33 @@
+{
+  "accession": "GSE193084",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE193084",
+  "last_update_date": "Sep 14 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Refer to individual Series",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "35731891",
+    "37621719"
+  ],
+  "relations": [
+    "SuperSeries of: GSE192959",
+    "SuperSeries of: GSE193066",
+    "SuperSeries of: GSE193080",
+    "SuperSeries of: GSE200460",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA794736"
+  ],
+  "sample_count": 271,
+  "submission_date": "Jan 05 2022",
+  "summary": [
+    "This SuperSeries is composed of the SubSeries listed below."
+  ],
+  "title": "Transcriptome profile of liver biopsy tissues from patients with non-alcoholic fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Other"
+  ]
+}

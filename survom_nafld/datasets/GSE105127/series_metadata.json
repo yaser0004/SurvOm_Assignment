@@ -1,0 +1,29 @@
+{
+  "accession": "GSE105127",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE105127",
+  "last_update_date": "Jul 25 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "The study comprises 19 human liver biopsy donors divided into the groups normal control (NC = 7012, 7173, 7194, 7279), healthy obese (HO = 6758, 6922, 7213, 7230, 7252), bland steatosis (STEA = 6967, 7137, 7172, 7181, 7251) and early NASH (EARLY = 6610, 7041, 7157, 7188, 7344). Hepatocytes captured by laser microdissection were obtained from three hepatic zones (pericentral, intermediate and periportal) and subjected to reduced representation bisulfite sequencing and RNA-seq resulting in 114 sequencing libraries. Liver samples were obtained intraoperatively in patients in whom an intraoperative liver biopsy was indicated on clinical grounds such as during scheduled liver resection, exclusion of liver malignancy during major oncologic surgery, or assessment of liver histology during bariatric surgery. NASH was defined by the NAFLD activity score (NAS) PMID: 15915461 Samples were frozen immediately in liquid nitrogen ensuring an ex vivo time of less than 40 seconds in all cases. Patients with evidence of viral hepatitis, hemochromatosis, or alcohol consumption greater than 20 g/day for women and 30 g/day for men were excluded. All patients provided written informed consent. The study protocol was approved by the institutional review board (Ethikkommission der Medizinischen Fakult\u00e4t der Universit\u00e4t Kiel, D425/07, A111/99), before study commencement. A single pathologist, blinded to the molecular analyses, performed standardized histopathologic assessment.",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "30297808"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA414905",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP120376"
+  ],
+  "sample_count": 114,
+  "submission_date": "Oct 18 2017",
+  "summary": [
+    "To investigate the underlying molecular principles of metabolic and morphogenic zonation of the human liver lobule, we generated an integrated epigenetic map across three zones (pericentral, intermediate and periportal) by methylation and transcriptomic analysis of hepatocytes captured by laser micro-dissection. We observe a deep link between epigenetic zonation of human liver and a zonated expression of metabolic and morphogenic pathways: Key transcriptionally zonated enzymes in xenobiotic and glutamine metabolism show a strong anticorrelated methylation gradient indicating that zonal expression of these genes is partly controlled by epigenetic programs. Zonated DNA-methylation at binding sites of uniformly expressed transcription factors such as HNF4A and RXR\u03b1 points to an epigenetic layer in regulatory networks and a zonated activity of their nuclear ligands and drugs such as fibrates and bile acids. The same holds for genes of the wnt morphogen pathway whose expression show a zonated methylation at binding sites of TCF4L2. A strong pericentral expression of LGR5 and AXIN2 and a corresponding expression gradient of the liver progenitor marker TBX3, indicates a predominant pericentral source of hepatocyte regeneration under steady-state conditions in humans. Conversely, the periportal expression of NOTCH and EPCAM at the border to the biliary tree as source of regeneration under injury conditions. Overall our data provide a deep understanding of molecular control of the zonal organisation in the human liver."
+  ],
+  "title": "Epigenomic analysis of micro-dissected human liver reveals principles of zonated morphogenic and metabolic control",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Methylation profiling by high throughput sequencing"
+  ]
+}

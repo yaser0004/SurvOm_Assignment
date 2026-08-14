@@ -1,0 +1,22 @@
+gsm,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell type,sample_type,source_name,sra_relation,supplementary_files,title
+GSM9480429,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965928,,HBorg_CON_1
+GSM9480430,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965929,,HBorg_CON_2
+GSM9480431,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965930,,HBorg_CON_3
+GSM9480432,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965931,,HBorg_ATT_1
+GSM9480433,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965932,,HBorg_ATT_2
+GSM9480434,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965933,,HBorg_ATT_3
+GSM9480435,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965934,,PHep_CON_1
+GSM9480436,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965935,,PHep_CON_2
+GSM9480437,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965936,,PHep_CON_3
+GSM9480438,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965937,,PHep_ATT_1
+GSM9480439,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965938,,PHep_ATT_2
+GSM9480440,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965939,,PHep_ATT_3
+GSM9480441,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965940,,FFA_ConCtrl_1
+GSM9480442,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965941,,FFA_ConCtrl_2
+GSM9480443,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965942,,FFA_ConCtrl_3
+GSM9480444,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965943,,FFA_FFAonly_1
+GSM9480445,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965944,,FFA_FFAonly_2
+GSM9480446,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965945,,FFA_FFAonly_3
+GSM9480447,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965946,,FFA_FFA_ATT_1
+GSM9480448,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965947,,FFA_FFA_ATT_2
+GSM9480449,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,H9 differentiated cells,SRA,H9 differentiated cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX31965948,,FFA_FFA_ATT_3

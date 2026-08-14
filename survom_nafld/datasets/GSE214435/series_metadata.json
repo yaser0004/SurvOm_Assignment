@@ -1,0 +1,29 @@
+{
+  "accession": "GSE214435",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE214435",
+  "last_update_date": "Sep 14 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Refer to individual Series",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "37621719"
+  ],
+  "relations": [
+    "SuperSeries of: GSE193080",
+    "SuperSeries of: GSE214432",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA885407"
+  ],
+  "sample_count": 104,
+  "submission_date": "Sep 29 2022",
+  "summary": [
+    "This SuperSeries is composed of the SubSeries listed below."
+  ],
+  "title": "Disseminative Recurrence Signature for hepatocellular carcinoma from non-alcoholic fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "accession": "GSE164441",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164441",
+  "last_update_date": "Jul 04 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-Seq of non-alcoholic fatty liver disease (NAFLD)-associated HCC tumor (n=10) and adjacent non-tumor liver tissues (n=10); **Raw data not provided due to patient privacy concerns**",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "33827976"
+  ],
+  "relations": [
+    "SubSeries of: GSE164444",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA690723"
+  ],
+  "sample_count": 20,
+  "submission_date": "Jan 08 2021",
+  "summary": [
+    "Insufficient T cell infiltration into non-inflamed tumors, such as hepatocellular carcinoma (HCC), restricts the effectiveness of immune-checkpoint blockade (ICB) for a subset of patients. Epigenetic therapy provides further opportunities to rewire cancer-associated transcriptional programs, but whether and how selective epigenetic inhibition counteracts the immune-excluded phenotype remain incompletely defined. Here, we showed that pharmacological inhibition of histone deacetylase 8 (HDAC8), a histone H3 lysine 27 (H3K27)-specific isozyme over-expressed in a variety of human cancers, thwarts HCC tumorigenicity in a T cell-dependent manner. The tumor-suppressive effect of selective HDAC8 inhibition was abrogated by CD8+ T cell depletion or regulatory T cell adoptive transfer. Chromatin profiling of human HDAC8-expressing HCCs revealed genome-wide H3K27 deacetylation in 1,251 silenced enhancer-target gene pairs that are enriched in metabolic and immune regulators. Mechanistically, down-regulation of HDAC8 increased global and enhancer acetylation of H3K27 to reactivate production of T cell-trafficking chemokines by HCC cells, thus relieving T cell exclusion in both immunodeficient and humanized mouse models. In an HCC preclinical model, selective HDAC8 inhibition increased tumor-infiltrating CD8+ T cells and potentiated eradication of established hepatomas by anti-PD-L1 therapy without evidence of toxicity. Importantly, mice treated with HDAC8 and PD-L1 co-blockade were protected against subsequent tumor re-challenge as a result of the induction of memory T cells and remained tumor-free for greater than 15 months. Collectively, our study demonstrates that selective HDAC8 inhibition elicits effective and durable responses to ICB by co-opting adaptive immunity via enhancer reprogramming."
+  ],
+  "title": "A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of immune checkpoint blockade in hepatocellular carcinoma [RNA-seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "accession": "GSE269926",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269926",
+  "last_update_date": "Jul 12 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We performed single-nucleus RNA-sequecing on subcutaneous adipose tissue biopsies from 8 individuals from the KOBS cohort.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38991381"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1124128"
+  ],
+  "sample_count": 8,
+  "submission_date": "Jun 14 2024",
+  "summary": [
+    "Abdominal obesity increases the risk for non-alcoholic fatty liver disease (NAFLD), now known as metabolic dysfunction-associated steatotic liver disease (MASLD). To elucidate the directional cell-type level biological mechanisms underlying the association between abdominal obesity and MASLD, we integrated adipose and liver single nucleus RNA-sequencing and bulk cis-expression quantitative trait locus (eQTL) data with the UK Biobank genome-wide association study (GWAS) data using colocalization. Then we used colocalized cis-eQTL variants as instrumental variables in Mendelian randomization (MR) analyses, followed by functional validation experiments on the target genes of the cis-eQTL variants. We identified 17 colocalized abdominal obesity GWAS variants, regulating 17 adipose cell-type marker genes. Incorporating these 17 variants into MR discovers a putative tissue-of-origin, cell-type-aware causal effect of abdominal obesity on MASLD consistently with multiple MR methods without significant evidence for pleiotropy or heterogeneity. Single cell data confirm the adipocyte-enriched mean expression of the 17 genes. Our cellular experiments across human adipogenesis identify risk variant -specific epigenetic and transcriptional mechanisms. Knocking down two of the 17 genes, PPP2R5A and SH3PXD2B, shows a marked decrease in adipocyte lipidation and significantly alters adipocyte function and adipogenesis regulator genes, including DGAT2, LPL, ADIPOQ, PPARG, and SREBF1. Furthermore, the 17 genes capture a characteristic MASLD expression signature in subcutaneous adipose tissue. Overall, we discover a significant cell-type level effect of abdominal obesity on MASLD and trace its biological effect to adipogenesis (Lee et. al, eBioMedicine 2024)."
+  ],
+  "title": "Single nucleus RNA-sequencing integrated into risk variant colocalization discovers 17 cell-type-specific abdominal obesity genes for metabolic dysfunction-associated steatotic liver disease [scRNA-seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "accession": "GSE130970",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE130970",
+  "last_update_date": "Dec 06 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "This dataset contains transcriptomic profiles of 78 distinct human liver biopsies.  Of these, 6 are histologically normal, and 72 cover the full spectrum of nonalcoholic fatty liver disease (NAFLD activity score 0-6, fibrosis stage 0-4).",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "31467298"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA542148",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP197353"
+  ],
+  "sample_count": 78,
+  "submission_date": "May 09 2019",
+  "summary": [
+    "Transcriptomic analysis of liver biopsies that cover the spectrum of nonalcoholic fatty liver disease reveals genes that are progressively regulated over the course of the disease. This study demonstrates that progressive changes in expression of these genes can be used to approximate the histological grade of a liver biopsy. Furthermore, the relative progression profiles of these disease-responsive genes are shown to be distinct across patient biopsies. This observation suggests that there may be distinct biological processes that drive disease progression across individuals"
+  ],
+  "title": "Gene expression predicts histological severity and reveals distinct molecular profiles of nonalcoholic fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

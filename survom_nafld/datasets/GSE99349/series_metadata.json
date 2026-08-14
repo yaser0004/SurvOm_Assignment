@@ -1,0 +1,28 @@
+{
+  "accession": "GSE99349",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE99349",
+  "last_update_date": "May 15 2019",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Total RNA-seq on FACs isolated neuronal nuclei from human post-mortem dorsolateral prefrontal cortex",
+  "platform_ids": [
+    "GPL11154"
+  ],
+  "pubmed_ids": [
+    "28710498"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA388174",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP108120"
+  ],
+  "sample_count": 36,
+  "submission_date": "May 26 2017",
+  "summary": [
+    "total RNA-sequencing on dlPFC neurons from 19 human cocaine addicts (1-19) and 17 healthy controls (21-40)"
+  ],
+  "title": "Gene Network Dysregulation in Dorsolateral Prefrontal Cortex Neurons of Humans with Cocaine Use Disorder",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

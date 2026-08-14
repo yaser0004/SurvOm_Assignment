@@ -1,0 +1,28 @@
+{
+  "accession": "GSE185051",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE185051",
+  "last_update_date": "Mar 27 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "In this study, we gathered liver biopsy samples from a multiethnic cohort (71% Hispanic) of pediatric NAFLD patients (n=52, mean age=13.6 years) plus healthy liver controls (n=5). We analyzed transcriptomic changes associated with NAFLD disease progression using high-throughput RNA-sequencing.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "35312185"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA767535",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP339452"
+  ],
+  "sample_count": 57,
+  "submission_date": "Sep 30 2021",
+  "summary": [
+    "Non-alcoholic Fatty Liver Disease (NAFLD) is the most common type of chronic liver disease in children. The mechanisms that drive NAFLD disease progression in this specific patient population remains poorly defined. In this study, we gathered liver biopsy samples from a multiethnic cohort (71% Hispanic) of pediatric NAFLD patients (n=52, mean age=13.6 years) plus healthy liver controls (n=5). We analyzed transcriptomic changes associated with NAFLD disease progression using high-throughput RNA-sequencing. Unsupervised clustering as well as pairwise transcriptome comparison distinguished NAFLD from healthy livers. We identified perturbations in calcium and insulin/glucose signaling occurring early in NAFLD disease, prior to the presence of histopathologic evidence of advanced disease. Transcriptomic comparisons between low and advanced fibrosis identified a 25-gene signature associated with pediatric fibrotic liver progression. We also identified expression of the IGFBP gene family (1/2/3/7) as correlating with disease progression and it has the potential to be used as a peripheral biomarker in NAFLD. Comparing our dataset with publicly available adult transcriptomic data, we identified similarities and differences in pathway enrichment and gene expression profiles between adult and pediatric NAFLD patients. Regulation of genes including IL32, IGFBP1, IGFBP2, IGFBP7 was consistently found in both NAFLD populations, while IGFBP3 was specific to pediatric NAFLD. Conclusions: This paper expands our knowledge on the molecular mechanisms driving NAFLD and fibrosis in the pediatric population and aids future biomarker and therapeutics discovery."
+  ],
+  "title": "Hepatic Transcriptome Profiling of A Multiethnic Cohort of Pediatric Non-Alcoholic Fatty Liver Disease Patients Reveals Novel Genes and Pathways Associated With Disease Stages",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

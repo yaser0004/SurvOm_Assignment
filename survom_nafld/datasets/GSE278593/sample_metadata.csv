@@ -1,0 +1,7 @@
+gsm,canon__treatment,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__cell type,raw__genotype,raw__treatment,sample_type,source_name,sra_relation,supplementary_files,title
+GSM8550470,PBS,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,LX-2,Hepatic stellate cell (HSC) line,wild type,PBS,SRA,LX-2,https://www.ncbi.nlm.nih.gov/sra?term=SRX26259537,,Control_1
+GSM8550471,PBS,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,LX-2,Hepatic stellate cell (HSC) line,wild type,PBS,SRA,LX-2,https://www.ncbi.nlm.nih.gov/sra?term=SRX26259538,,Control_2
+GSM8550472,PBS,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,LX-2,Hepatic stellate cell (HSC) line,wild type,PBS,SRA,LX-2,https://www.ncbi.nlm.nih.gov/sra?term=SRX26259539,,Control_3
+GSM8550473,IGFBP-7,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,LX-2,Hepatic stellate cell (HSC) line,wild type,IGFBP-7,SRA,LX-2,https://www.ncbi.nlm.nih.gov/sra?term=SRX26259540,,IGFBP7_1
+GSM8550474,IGFBP-7,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,LX-2,Hepatic stellate cell (HSC) line,wild type,IGFBP-7,SRA,LX-2,https://www.ncbi.nlm.nih.gov/sra?term=SRX26259541,,IGFBP7_2
+GSM8550475,IGFBP-7,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,LX-2,Hepatic stellate cell (HSC) line,wild type,IGFBP-7,SRA,LX-2,https://www.ncbi.nlm.nih.gov/sra?term=SRX26259542,,IGFBP7_3

@@ -1,0 +1,27 @@
+{
+  "accession": "GSE303090",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE303090",
+  "last_update_date": "Jan 28 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-seq profiling of P-hep-orgs treated with FFAs for 2 days and 10 days, along with their respective negative control groups untreated with FFAs.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "41422067"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1294139"
+  ],
+  "sample_count": 12,
+  "submission_date": "Jul 21 2025",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD), the most prevalent chronic liver disorder worldwide, exhibits complex pathogenesis and lacks effective targeted therapeutics. Existing animal models are limited by prolonged induction periods and interspecies discrepancies, while conventional monolayer hepatocyte cultures fail to recapitulate disease pathology due to inadequate polarization and functional immaturity. To overcome these constraints, this study established an in vitro MASLD model using human-derived mature polarized hepatocyte organoids (P-hep-orgs). P-hep-orgs were generated through directed differentiation of human embryonic stem cells (hESCs), with their structural and functional maturity validated by sequential expression analysis of stage-specific markers (OCT4, SOX17, ALB) and polarized localization of tight junction protein ZO-1 and multidrug resistance protein MDR1. Subsequent treatment with 450 \u03bcM free fatty acids (FFAs) induced key pathological features including lipid accumulation, oxidative stress, and disruption of polarized architecture. Dynamic disease progression was modeled through time-dependent interventions: short-term exposure (1-2 days) elicited early-stage phenotypes (e.g., extensive lipid droplet deposition, elevated triglycerides and supernatant glucose, increased reactive oxygen species, upregulation of pro-apoptotic genes), whereas prolonged treatment (\u226510 days) recapitulated advanced manifestations (cholesterol accumulation, enhanced apoptosis, loss of polarization, and ductular reaction). Transcriptomic profiling demonstrated high similarity between this model and metabolic dysfunction-associated steatohepatitis (MASH) patient livers, revealing conserved mechanisms of glucolipid metabolic dysregulation, inflammation, and fibrotic pathway activation. Pharmacological validation confirmed that vitamin E, ursodeoxycholic acid, and empagliflozin significantly ameliorated lipid deposition, suppressed ROS generation, and restored albumin secretion. The model enables disease induction and drug evaluation within two weeks, substantially shortening the timeline compared to animal models, while its human origin eliminates species-specific drug response biases. This P-heporg-based MASLD platform provides an efficient and physiologically relevant foundation for investigating disease mechanisms and accelerating anti-MASLD drug discovery. Future integration of non-parenchymal cells will further enhance microenvironmental fidelity."
+  ],
+  "title": "Mature Polarized Hepatocyte Organoids Derived from Human Embryonic Stem Cells for Modeling the Pathogenesis and Progression of Metabolic Dysfunction-Associated Steatotic Liver Disease and Therapeutic Drug Screening",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

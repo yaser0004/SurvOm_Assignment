@@ -1,0 +1,33 @@
+{
+  "accession": "GSE128940",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE128940",
+  "last_update_date": "Jun 22 2019",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Mouse liver samples (each category in triplicate): 3 weeks of normal chow diet (NCD),  6 weeks of NCD, 3 weeks of High Fat Methionine- and Choline-deficient Deficient (HFMCD) diet with IgG treatment, 6 weeks HFMCD with IgG treatment, 3 weeks of HFMCD with X203 treatment, 6 weeks of HFMCD with X203 treatment, 3 weeks of HFMCD with X209 treatment, 6 weeks of HFMCD with X209 treatment. Human hepatic stellate cells (HSCs), each category in triplicate: HSCs with no stimulation and HSCs with 24h stimulation with TGFB1 + IgG",
+  "platform_ids": [
+    "GPL18573",
+    "GPL19057"
+  ],
+  "pubmed_ids": [
+    "31078624"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529419",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP189607"
+  ],
+  "sample_count": 30,
+  "submission_date": "Mar 27 2019",
+  "summary": [
+    "Background and aims: Here we investigate the role of IL-11 signalling in the pathogenesis of nonalcoholic steatohepatitis (NASH).",
+    "Methods: HSCs or hepatocytes were stimulated with IL-11 and effects assessed using cellular and high content imaging, immunoblotting, ELISA and invasion assays. Genetic and pharmacological IL-11 gain- or loss-of-function experiments were performed in vitro and in vivo. IL-11 signaling was studied using ERK inhibitors. The effects of anti-IL-11 or anti-IL11RA therapy were assessed in three preclinical NASH models using methionine/choline deficient diets or a Western diet with liquid fructose. Phenotyping was performed using hydroxyproline assay, qPCR, RNA-seq, Western blotting, histology, CyTOF, lipid and metabolic biomarkers.",
+    "Results: When stimulated with NASH factors HSCs secrete IL-11, which drives an autocrine, ERK-dependent signaling loop required for the HSC-to-myofibroblast transformation. IL-11 is upregulated in human and murine NASH, Il-11 injection causes liver damage, inflammation and fibrosis in mice and Il11ra1 deleted mice are protected from NASH in two preclinical models. Therapeutic antibodies against IL11RA or IL-11 consistently inhibit and reverse fibrosis and steatosis in three murine NASH models. Unexpectedly, IL-11 causes hepatocyte damage and promotes stromal-mediated inflammation and anti-IL-11 therapies reverse NASH-associated hepatotoxicity and hepatitis. Genetic or pharmacologic inhibition of IL-11 signaling in NASH is associated with lower serum triglyceride, cholesterol and glucose.",
+    "Conclusion: We show an unappreciated and central role for IL-11 in liver pathobiology. Targeting IL-11 signalling with neutralizing antibodies reverses fibrosis, steatosis, hepatocyte death and inflammation across the spectrum of NASH. This novel therapeutic approach is associated with a favorable cardiometabolic profile."
+  ],
+  "title": "IL-11 neutralising therapies for the treatment of nonalcoholic steatohepatitis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

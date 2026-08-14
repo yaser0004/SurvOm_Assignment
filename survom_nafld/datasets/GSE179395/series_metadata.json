@@ -1,0 +1,28 @@
+{
+  "accession": "GSE179395",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE179395",
+  "last_update_date": "Mar 22 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Antifibrotic mechanisms of butyrate were investigated in TGF-\u03b2-stimulated primary human hepatic stellate cells (HSC). There were 3 HSC treatments, for 4 days: (i) Unstimulated Control, (ii) TGF-\u03b21 (2 ng/mL), (iii) TGF-\u03b21 (2 ng/mL) + Sodium Butyrate (1mM)",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "34944770"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA743538",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP326803"
+  ],
+  "sample_count": 22,
+  "submission_date": "Jul 03 2021",
+  "summary": [
+    "Background & Aims: In obesity-associated non-alcoholic steatohepatitis (NASH), persistent hepatocellular damage and inflammation are key drivers of fibrosis, the main determinant of NASH-associated mortality. The short chain fatty acid butyrate can exert metabolic improvements and anti-inflammatory activities in NASH. However, its effects on NASH-associated liver fibrosis remains unclear.    Methods: Putative antifibrotic effects of butyrate were studied in Ldlr-/-.Leiden mice fed an obesogenic NASH-inducing diet (HFD) containing 2.5% (w/w) butyrate for 38 weeks and compared to an HFD control group. Antifibrotic mechanisms of butyrate were further investigated in TGF-\u03b2-stimulated primary human hepatic stellate cells (HSC).   Results: HFD-fed mice developed obesity, insulin resistance, increased levels of plasma leptin, adipose tissue inflammation, gut permeability, dysbiosis and NASH-associated fibrosis. Butyrate corrected hyperinsulinemia, lowered plasma leptin levels and attenuated adipose tissue inflammation, without affecting gut permeability or microbiota composition. Butyrate lowered plasma ALT and CK-18M30 and attenuated hepatic steatosis and inflammation. Butyrate inhibited fibrosis development as demonstrated by decreased hepatic collagen content and Sirius-red-positive area. In TGF-\u03b2-stimulated HSC, butyrate dose-dependently reduced collagen deposition and decreased procollagen1\u03b11 and PAI-1 protein expression. Transcriptomic analysis and subsequent pathway and upstream regulator analysis revealed deactivation of specific non-canonical TGF-\u03b2 signaling pathways RhoA/Rock and PI3K/AKT and other important pro-fibrotic regulators (e.g. YAP/TAZ and MYC) by butyrate, providing a potential rationale for its antifibrotic effects.   Conclusions: Butyrate protects against the development of obesity and insulin resistance-associated NASH and liver fibrosis. These antifibrotic effects are at least in part attributable to a direct effect on collagen production in hepatic stellate cells, as a result of inhibiting non-canonical TGF-\u03b2 signaling."
+  ],
+  "title": "Butyrate protects against diet-induced liver fibrosis and suppresses non-canonical TGF-\u03b2 signaling in human stellate cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

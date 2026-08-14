@@ -1,0 +1,27 @@
+{
+  "accession": "GSE238219",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE238219",
+  "last_update_date": "Aug 31 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "dCas9-expressing HepaRG cells were harvested at Day 42 after transduction with lentiviral vectors carrying sgRNAs targeting multiple putative NAFLD genes in a pooled format. Cells were analysed using the feature barcodes technology from 10X Genomics allowing for pooled CRISPRi screens.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39190705"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA998383"
+  ],
+  "sample_count": 5,
+  "submission_date": "Jul 25 2023",
+  "summary": [
+    "We used Perturb-seq to characterize the role of putative NAFLD genes prioritized from molecular human genetic studies in differentiated HepaRG cells."
+  ],
+  "title": "Perturb-seq against putative NAFLD target genes in differentiated HepaRG cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

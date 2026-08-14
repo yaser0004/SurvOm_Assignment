@@ -1,0 +1,68 @@
+{
+  "accession": "GSE159977",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159977",
+  "gsm_accessions": [
+    "GSM4851987",
+    "GSM4851988",
+    "GSM4851989",
+    "GSM4851990",
+    "GSM4851991",
+    "GSM4851992",
+    "GSM4851993",
+    "GSM4851994",
+    "GSM4851995",
+    "GSM4851996"
+  ],
+  "platform_accessions": [
+    "GPL24676"
+  ],
+  "sources": [
+    {
+      "bytes": 4822,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:27Z",
+      "sha256": "bad09337d0f39a5550243ab09e913668ff60c247c80cb7f6bdc5cb8bb62a424a",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE159nnn/GSE159977/soft/GSE159977_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851987/suppl/GSM4851987_PT-5-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851987/suppl/GSM4851987_PT-5-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851987/suppl/GSM4851987_PT-5-matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851988/suppl/GSM4851988_PT-8-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851988/suppl/GSM4851988_PT-8-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851988/suppl/GSM4851988_PT-8-matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851989/suppl/GSM4851989_PT-9-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851989/suppl/GSM4851989_PT-9-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851989/suppl/GSM4851989_PT-9-matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851990/suppl/GSM4851990_PT-11-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851990/suppl/GSM4851990_PT-11-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851990/suppl/GSM4851990_PT-11-matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851991/suppl/GSM4851991_PT-12-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851991/suppl/GSM4851991_PT-12-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851991/suppl/GSM4851991_PT-12-matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851992/suppl/GSM4851992_PT-16-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851992/suppl/GSM4851992_PT-16-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851992/suppl/GSM4851992_PT-16-matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851993/suppl/GSM4851993_PT-17-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851993/suppl/GSM4851993_PT-17-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851993/suppl/GSM4851993_PT-17-matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851994/suppl/GSM4851994_PT-19-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851994/suppl/GSM4851994_PT-19-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851994/suppl/GSM4851994_PT-19-matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851995/suppl/GSM4851995_PT-20-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851995/suppl/GSM4851995_PT-20-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851995/suppl/GSM4851995_PT-20-matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851996/suppl/GSM4851996_PT-21-barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851996/suppl/GSM4851996_PT-21-features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4851nnn/GSM4851996/suppl/GSM4851996_PT-21-matrix.mtx.gz"
+  ],
+  "tool_version": "0.1.0"
+}

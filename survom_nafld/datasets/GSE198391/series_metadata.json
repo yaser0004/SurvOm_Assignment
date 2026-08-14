@@ -1,0 +1,27 @@
+{
+  "accession": "GSE198391",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198391",
+  "last_update_date": "Aug 10 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNAseq of induced pluripotent stem cells from normal and obese individuals.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "35915082"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA814799"
+  ],
+  "sample_count": 32,
+  "submission_date": "Mar 10 2022",
+  "summary": [
+    "Obesity is a multigene disorder. However, in addition to genetic factors, environmental determinants also participate in developing obesity and related pathologies. Thus, obesity could be best described as a combination of genetic and environmental perturbations often having its origin during the early developmental period. Environmental factors such as energy-dense food and sedentary lifestyle are known to be associated with obesogenicity. However, the combinatorial effects of gene-environment interactions are not well understood. Understanding the role of multiple genetic variations leading to subtle gene expression changes is not practically possible in monogenic or high fat-fed animal models of obesity. In contrast, human induced pluripotent stem cells (hiPSCs) from individuals with familial obesity or an obesogenic genotype could serve as a good model system. Herein, we have used hiPSCs generated from normal and genetically obese subjects and differentiated them into hepatocytes in cell culture. We show that hepatocytes from obese-iPSCs store more lipids and show increased cell death than normal-iPSCs. Whole transcriptome analyses in both normal and obese-iPSCs treated with palmitate compared to control revealed LXR-RXR and hepatic fibrosis pathways were enriched among other pathways in obese iPSCs compared to normal iPSCs. Among other genes, increased CD36 and CAV1 expression and decreased expression of CES1 in obese-iPSCs could have been responsible for excess lipid accumulation resulted in differential expression of genes associated with hepatic fibrosis a key feature of non-alcoholic fatty liver disease (NAFLD). Our results demonstrate that iPSCs derived from genetically obese subjects could serve as an excellent model to understand the effects of this multigene disorder on organ development and may uncover pathologies of NAFLD, which is highly associated with obesity."
+  ],
+  "title": "Developmental modeling of hepatogenesis using obese iPSCs-hepatocyte differentiation uncovers pathological features",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

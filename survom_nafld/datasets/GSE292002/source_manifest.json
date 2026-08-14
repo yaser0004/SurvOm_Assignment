@@ -1,0 +1,40 @@
+{
+  "accession": "GSE292002",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE292002",
+  "gsm_accessions": [
+    "GSM8846370",
+    "GSM8846371",
+    "GSM8846372",
+    "GSM8846373",
+    "GSM8846374",
+    "GSM8846375"
+  ],
+  "platform_accessions": [
+    "GPL18573"
+  ],
+  "sources": [
+    {
+      "bytes": 2786,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:25Z",
+      "sha256": "4b7d8fd069e0542c5fff4216f2a19fcad8c4756ed27f33916955943f027a70fe",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE292nnn/GSE292002/soft/GSE292002_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8846nnn/GSM8846370/suppl/GSM8846370_LX-2_control_siRNA_+_palmitic_acid_1.csv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8846nnn/GSM8846371/suppl/GSM8846371_LX-2_control_siRNA_+_palmitic_acid_2.csv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8846nnn/GSM8846372/suppl/GSM8846372_LX-2_control_siRNA_+_palmitic_acid_3.csv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8846nnn/GSM8846373/suppl/GSM8846373_LX-2_PERK_siRNA_+_palmitic_acid_1.csv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8846nnn/GSM8846374/suppl/GSM8846374_LX-2_PERK_siRNA_+_palmitic_acid_2.csv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8846nnn/GSM8846375/suppl/GSM8846375_LX-2_PERK_siRNA_+_palmitic_acid_3.csv.gz"
+  ],
+  "tool_version": "0.1.0"
+}

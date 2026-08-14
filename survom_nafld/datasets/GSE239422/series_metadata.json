@@ -1,0 +1,28 @@
+{
+  "accession": "GSE239422",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE239422",
+  "last_update_date": "Jun 25 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Hepatic transcriptome of 125 obese individuals who underwent percutaneous liver biopsy performed during bariatric surgery.",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "37749332",
+    "40501083"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA999255"
+  ],
+  "sample_count": 125,
+  "submission_date": "Jul 27 2023",
+  "summary": [
+    "Fatty liver disease (FLD) caused by metabolic dysfunction is the leading cause of liver disease, and the prevalence is rising, especially in women. Although during reproductive age women are protected against FLD, for still unknown and understudied reasons some develop rapidly progressive disease at menopause. Patatin-like phospholipase domain containing 3 (PNPLA3) p.I148M variant accounts for the largest fraction of inherited FLD variability. Hepatic gene expression profile of 125 obese individuals stratified by sex and PNPLA3 genotype revealed higher PNPLA3 mRNA levels in women carrying PNPLA3 p.I148M variant. Furthermore, we showed that there is an estrogen receptor-alpha (ER\u03b1) binding site within the PNPLA3 enhancer sequence, suggesting a specific multiplicative interaction between female sex and PNPLA3 p.I148M in determining FLD."
+  ],
+  "title": "A functional interaction between hepatic Estrogen Receptor-a and PNPLA3 p.I148M variant drives fatty liver diseases susceptibility in women",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

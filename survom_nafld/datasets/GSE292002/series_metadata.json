@@ -1,0 +1,27 @@
+{
+  "accession": "GSE292002",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE292002",
+  "last_update_date": "Sep 14 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-seq profiling of LX-2 cells transfected with control or PERK siRNA and then treated with palmitic acid",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "40481076"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1236308"
+  ],
+  "sample_count": 6,
+  "submission_date": "Mar 14 2025",
+  "summary": [
+    "Palmitic acid (PA) absorption from the intestine is increased in metabolic dysfunction-associated steatohepatitis (MASH). It induces endoplasmic reticulum (ER) stress and interleukin-1 beta (IL-1\u03b2) production in hepatic stellate cells (HSCs). Protein kinase R-like endoplasmic reticulum kinase (PERK) is an ER stress sensor protein involved in HSC activation and liver fibrosis. However, its role in HSCs during hepatocellular carcinoma (HCC) progression remains unclear. This study clarified the process of IL-1\u03b2 production via PERK in HSCs and explored the mechanism underlying MASH-related HCC progression. HSCs were treated with PA or transfected with PERK small-interfering RNA (siRNA) or PERK plasmid. Proliferation, scratch, and Transwell assays were performed on HCC cells cultured in the conditioned medium (CM) from HSCs. PA treatment increased PERK and IL-1\u03b2 expressions in HSCs. PERK knockdown decreased IL-1\u03b2 expression, while its overexpression increased it in HSCs. The CM from PA-treated HSCs showed elevated IL-1\u03b2 levels and enhanced HCC cells\u2019 proliferation, migration, and invasion; however, these effects were suppressed by PERK knockdown in HSCs. RNA-sequencing analysis revealed that p38\u03b4 mitogen-activated protein kinase (MAPK) is the intermediate molecule between PERK and IL-1\u03b2 in HSCs. In the tumor microenvironment of MASH-related HCC, PERK in HSCs promotes HCC progression via the p38\u03b4 MAPK/IL-1\u03b2 axis."
+  ],
+  "title": "Endoplasmic reticulum stress sensor protein PERK in hepatic stellate cells promotes the progression of hepatocellular carcinoma via p38\u03b4 MAPK/IL-1\u03b2 axis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

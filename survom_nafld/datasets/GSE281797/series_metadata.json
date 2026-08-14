@@ -1,0 +1,25 @@
+{
+  "accession": "GSE281797",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE281797",
+  "last_update_date": "May 26 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "94 snap-frozen liver biopsies were processe for RNA sequencing on the NoveSeq6000 platform.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "41870035"
+  ],
+  "relations": [],
+  "sample_count": 94,
+  "submission_date": "Nov 13 2024",
+  "summary": [
+    "The molecular mechanisms underlying early-stage metabolic dysfunction-associated steatotic liver disease (MASLD) is poorly understood. This study characterized the transcriptomic alterations in obese patients with no pathology or early-stage MASLD.  94 snap-frozen liver biopsies were analyzed through high-throughput RNA sequencing. Distinct features involved in the development of hepatic steatosis and fibrosis were identified. This study also provided novel insights in mechanisms involved in the onset of fibrosis, highlighting potential therapeutic targets."
+  ],
+  "title": "Transcriptomic profiles of liver biopsies in obese patients with metabolic dysfunction-associated steatotic liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

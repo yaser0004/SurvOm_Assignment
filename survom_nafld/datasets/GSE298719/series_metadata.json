@@ -1,0 +1,28 @@
+{
+  "accession": "GSE298719",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE298719",
+  "last_update_date": "Aug 05 2026",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "For mouse carbon tetrachloride (CCl4) studies, C57BL/6JCrl WT mice were administered chronic CCl4 for 4 weeks, followed by harvests at serial timepoints (24 hours, 96 hours and 4 weeks) following the last CCl4 injection. Uninjured age-matched mice were used as controls. Liver and circulating immune cells were isolated by FACS. 3 mice were pooled together for each sample. For single-cell RNA-seq, liver and blood immune cells were profiled at 24 hours, 96 hours and 4 week timepoints as well as age-matched controls. For single-cell ATAC-seq, liver and blood immune cells were profiled at the 24 hour and 4 week timepoints as well as age-matched controls. For mouse bile duct ligation (BDL) studies, C57BL/6JCrl WT mice underwent BDL surgery, followed by harvest at day 14. Uninjured age-matched mice were used as contols.  Liver and circulating immune cells were isolated by FACS. 3 mice were pooled together for each sample. Single-cell RNA-seq was performed on BDL liver and blood immune cells as well as age-matched controls. For human liver needle biopsy scRNAseq, up to 5mm of liver biopsy material was snap frozen immediately following collection. Paired biopsy tissue underwent hisotlogcal staging and patients with histologically normal liver (n=6) or those with MASLD (n=7) were identified. Frozen biopsy tissue from these patients were then subjected to scRNAseq.",
+  "platform_ids": [
+    "GPL21103",
+    "GPL34284"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1271000"
+  ],
+  "sample_count": 41,
+  "submission_date": "Jun 02 2025",
+  "summary": [
+    "Chronic liver disease (CLD) is a major global healthcare problem. Irrespective of cause, chronic damage to the liver results in fibrosis, which is associated with adverse clinical outcomes. Immune cells, in particular monocyte-derived macrophages (MDMs), are key regulators of fibrosis and represent an attractive therapeutic target for CLD. However, it has remained unclear which specific subpopulation of MDMs drives pro-inflammatory and pro-fibrotic functions in human CLD and how they might be selectively modulated. Here, we generate an annotated human liver single cell atlas from 42 healthy and 35 CLD patients, identifying 125 transcriptionally distinct cellular states. Leveraging large patient and cell numbers, our atlas resolves rare liver cell states and distinguishes two types of disease-expanded scar-associated macrophages (SAMac), including a specific subpopulation with a pro-inflammatory pro-fibrotic phenotype. The scavenger receptor OLR1 was enriched in pro-inflammatory SAMacs and high hepatic OLR1 expression was associated with increased mortality in CLD patients. A corresponding monocyte-derived OLR1+ SAMac subpopulation expanded in a mouse model of CLD and exhibited a pro-inflammatory phenotype based on single-cell RNA-seq, single-cell ATAC-seq, and flow cytometry analyses. Primary human OLR1+ MDMs promoted fibrogenic signalling in multilineage liver spheroid cultures, whilst specific targeting of OLR1 reduced IL-1\u03b2 production by human macrophages and attenuated myofibroblast activation. Overall, our annotated human liver single-cell atlas provides a valuable reference to study disease-associated cell states in CLD. We utilise this resource to identify a distinct pro-inflammatory subpopulation of SAMacs and highlight OLR1 as a potential therapeutic target to specifically modulate SAMac function and attenuate liver fibrosis."
+  ],
+  "title": "A Human Single-cell Atlas Identifies OLR1+ Scar-associated Macrophages as a Therapeutic Target for Chronic Liver Disease",
+  "type": [
+    "Genome binding/occupancy profiling by high throughput sequencing",
+    "Expression profiling by high throughput sequencing"
+  ]
+}

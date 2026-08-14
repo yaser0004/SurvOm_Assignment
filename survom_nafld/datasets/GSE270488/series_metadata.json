@@ -1,0 +1,28 @@
+{
+  "accession": "GSE270488",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE270488",
+  "last_update_date": "Jan 22 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Diseased human liver samples were selected from a bioreposistory of patients who had undergone liver transplantation. Non-diseased human liver samples were purchased from Triangle Research Laboraties with the exception of PBMC samples 2-4, which were sourced from 10x Genomics' online datasets (for patient info, see publication Table 1).",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39047085"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126739"
+  ],
+  "sample_count": 18,
+  "submission_date": "Jun 21 2024",
+  "summary": [
+    "Metabolic dysfunction-associated steatoheptaitis (MASH) is a chronic liver disease caused by prolonged poor diet. During MASH-induced chirrosis in humans and diet-induced MASH in murine models, T cells accumulated in the liver but their function in MASH is unresolved. We aimed to evaluated differences in T cell phenotype and T cell receptor (TCR) repertoire in T cells from the livers of diseased humans and murine models. This set contains human sequencing data."
+  ],
+  "title": "Antigen-driven CD8+ T cell clonal expansion is a prominent feature of MASH in humans and mice [human]",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Other"
+  ]
+}

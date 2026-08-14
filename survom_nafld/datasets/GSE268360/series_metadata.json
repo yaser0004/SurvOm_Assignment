@@ -1,0 +1,27 @@
+{
+  "accession": "GSE268360",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268360",
+  "last_update_date": "Dec 01 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Differential gene expression profiling analysis of RNA-seq data for liver tissues of 9 samples from female patients (3 control, 3 mild MAFLD, 3 moderate MAFLD) and 9 samples from male patients (3 control, 3 mild/moderate MAFLD, 3 severe MAFLD). Female donors were 17\u201359yr old (healthy, 17\u201359; MAFLD, 31\u201347) Male donors were 21\u201351yr old (healthy, 26\u201345; MAFLD, 21\u201351).",
+  "platform_ids": [
+    "GPL30173"
+  ],
+  "pubmed_ids": [
+    "41298941"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1116574"
+  ],
+  "sample_count": 18,
+  "submission_date": "May 25 2024",
+  "summary": [
+    "Mutations of nuclear lamina-associated proteins LMNA and ZMPSTE24 have been associated with fatty liver. We report that the changes at the nuclear envelope we described in MAFLD patients are caused by downregulation of ZMPSTE24, an enzyme that processes prelamin to mature lamin A. In addition, Zmpste24 mutant mice develop hepatic steatosis and  exhibit upregulation of p53 target genes. p53 activity is also induced in genes differentially expressed in MAFLD patients. Furthermore, p53  regulates genes bound by FOXA2 in these individuals, corresponding to observations in Zmpste24 mutants. In contrast, expression of glucose and insulin regulated genes is reduced in MAFLD patients, suggesting altered glucose metabolism and insulin resistance, hallmarks of type 2 diabetes (T2D). Hence, our genomics data show that MAFLD patients with severe steatosis but yet without MASH are already suffering from severe metabolic consequences and underscore the need for treatment at this stage of the disease."
+  ],
+  "title": "Reduced ZMPSTE24 expression leads to prelamin accumulation and development of steatosis in MAFLD patients [RNA-seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

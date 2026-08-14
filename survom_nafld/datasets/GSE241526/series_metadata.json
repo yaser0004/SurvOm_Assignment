@@ -1,0 +1,27 @@
+{
+  "accession": "GSE241526",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE241526",
+  "last_update_date": "Dec 08 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "mRNA profiles of GpC (MCviPI), CpG (MSssI) or GpC mutant (MCviPI_mutant) DNMT overexpressing cell lines, both untreated or after a 24h treatment with 1mM FFA",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38003603"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1008586"
+  ],
+  "sample_count": 23,
+  "submission_date": "Aug 23 2023",
+  "summary": [
+    "Metabolic dysfunction associated steatotic liver disease (MASLD) is characterized by a constant accumulation of lipids in the liver. This lipotoxicity in the liver is associated with dysregulation of the first step in lipid catabolism called beta oxidation in the mitochondrial matrix, eventually leading to mitochondrial dysfunction. To evaluate possible involvement of mitochondrial DNA methylation in this lipid metabolic dysfunction we investigated the functional metabolic effects of mitochondrial overexpression of CpG (MSssI) and GpC (MCviPI) DNA methyltransferases in relation to gene expression and (mito)epigenetic signatures. Overall, the results show that mitochondrial GpC and to a lesser extent CpG methylation increase bile acid metabolic gene expression, inducing cholestasis by mito-nuclear epigenetic reprogramming. Moreover, increased expression of metabolic nuclear receptors in both MSssI and MCviPI cells promote mitochondrial swelling and induce basal overactivation of mitochondrial respiration which favours lipid accumulation and metabolic-stress induced mitophagy and autophagy stress responses. Altogether GpC and CpG mitochondrial induce a metabolic challenging environment that is similar to mitochondrial dysfunction in the progression of MASLD."
+  ],
+  "title": "Mitochondrial GpC and CpG DNA hypermethylation cause metabolic stress induced mitophagy and cholestophagy [RNA-seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

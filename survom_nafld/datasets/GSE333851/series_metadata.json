@@ -1,0 +1,26 @@
+{
+  "accession": "GSE333851",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE333851",
+  "last_update_date": "Jun 04 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We applied DBiT-GPT to 16 HCC FFPE blocks: 6 tumor regions and 4 matched non-tumor background liver regions from 6 patients with non\u2013metabolic dysfunction-associated steatohepatitis hepatocellular carcinoma (non\u2013MASH-HCC), and 6 tumor regions from another 6 patients with MASH-associated HCC. These blocks had been archived for 2 to 8 years before profiling.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1472674"
+  ],
+  "sample_count": 32,
+  "submission_date": "May 29 2026",
+  "summary": [
+    "Glycosylation is a relatively underexplored aspect of the central dogma of biology, yet a key determinant of biological function and encodes disease-associated cellular states. However spatial glycomics is limited primarily by workflows that are costly, specialized, or insufficiently informative for conformation-dependent motifs. To address the need for a deep, cost-effective, and portable spatial glycomics technology, we developed spatial-GPT, a multimodal lectin-based platform for the simultaneous profiling of glycans, proteins, and transcripts from same-slide archival FFPE tissues. By combining DBiT-GPT sequencing with CODEX-GP imaging, spatial-GPT provides robust glycan detection in long-stored specimens, cost-effective multiplexing, and ascription of glycan motifs to cellular identity, pathology, and gene-regulatory programs at subcellular spatial resolution. Applied to human liver disease, spatial-GPT resolved glyco-codes of steatosis, fibrosis, cirrhosis, and hepatocellular carcinoma (HCC) subtypes, identified tumor-like glycan remodeling in premalignant regions, revealed conserved HCC-associated glycan programs, and uncovered glycan-defined immune and stromal neighborhoods across tissue microarrays. Spatial-GPT offers a practical extension of pathology, unlocking the glycan dimension on the same tissue section to expose a granularity that may be otherwise obscured by morphology, protein markers, or transcriptomics alone."
+  ],
+  "title": "Spatial Glyco-Codes Define Human Liver Pathology and Progression",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Other"
+  ]
+}

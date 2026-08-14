@@ -1,0 +1,29 @@
+{
+  "accession": "GSE253380",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE253380",
+  "last_update_date": "Dec 23 2024",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "To investigate the effect of ACMSD inhibition, mouse primary hepatocytes were treated with ACMSD inhibitor TLC-065 for 6, 12, and 24h. The effects of TLC-065 were tested in human liver organoid models of steatohepatitis.",
+  "platform_ids": [
+    "GPL23227",
+    "GPL23479"
+  ],
+  "pubmed_ids": [
+    "39181211"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1065436"
+  ],
+  "sample_count": 48,
+  "submission_date": "Jan 16 2024",
+  "summary": [
+    "Recent findings reveal the importance of tryptophan-initiated de novo nicotinamide adenine dinucleotide (NAD+) synthesis in the liver, a process previously considered secondary to biosynthesis from nicotinamide. Here we show that inhibiting \u03b1-amino-\u03b2-carboxymuconate-\u03b5-semialdehyde decarboxylase (ACMSD) promotes de novo NAD+ synthesis and reduces DNA damage ex vivo, in vivo and in human liver organoid (HLO) models. In mouse models of MASLD/MASH, de novo NAD+ biosynthesis is suppressed, and transcriptomic DNA damage signatures correlate with disease severity; In humans, Mendelian randomization-based genetic analysis suggests a notable impact of genomic stress on liver disease susceptibility. Therapeutic inhibiting ACMSD in mice elevates liver NAD+ and reverses MASLD/MASH, mitigating fibrosis, inflammation and DNA damage. Similar outcomes are recapitulated in HLO models of steatohepatitis and DNA damage. Our findings highlight the benefits of ACMSD inhibition for boosting hepatic NAD+ and genomic protection, indicating its therapeutic promise in liver diseases marked by NAD+ and genomic stress."
+  ],
+  "title": "ACMSD inhibition corrects fibrosis, inflammation, and DNA damage in MASLD/MASH",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

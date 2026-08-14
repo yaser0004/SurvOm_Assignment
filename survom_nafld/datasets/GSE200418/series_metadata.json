@@ -1,0 +1,28 @@
+{
+  "accession": "GSE200418",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200418",
+  "last_update_date": "Aug 08 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "99 samples from human precision cut liver slices treated incrementally with sugar, insulin and lipids. Small human liver wedges were collected from 7 human donors following partial resection, donor liver resizing or when livers were unsuitable for transplantation. These experiments were approved by the Medical Ethical Committee of the University Medical Centre Groningen. Liver tissue was stored in University of Wisconsin preservation solution (UW, 4 \u00b0C).  We prepared eight different media i.e. CTR: Control with 25mM Glucose, G: 36mM Glucose, F: 25mM Glucose + 5mM Fructose, GF: 36mM Glucose + 5mM Fructose, GFI: GF + 1nM Insulin, GFIO: GFI + 480uM Oleic acid, GIP: GFI + 240uM Palmitic acid, GFIPO: GFI + 480uM Oleic acid + 240uM Palmitic acid) and cultured PCLSs from each donor for 24h and 48h. From the 112 biological samples, 13 samples did not provide sufficient RNA & data quality for further processing.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "37208356"
+  ],
+  "relations": [
+    "SubSeries of: GSE200419",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA824481"
+  ],
+  "sample_count": 99,
+  "submission_date": "Apr 07 2022",
+  "summary": [
+    "Progression of non-alcoholic fatty liver disease (NAFLD) to non-alcoholic steatohepatitis (NASH) is a major cause of end-stage liver diseases. There is a high need for predictive human ex vivo models to translate preclinical findings for potential new NAFLD drugs to human disease. About a decade ago, precision cut liver slices (PCLSs) have been established as an ex vivo assay for humans and other organisms. The molecular and functional baseline characteristics of PCLSs have been extensively described previously. In the present study, we provide a comprehensive RNA-Seq based molecular characterization of a new assay for NAFLD that induces steatosis in human and mouse PCLSs culture by incremental supplementation of sugars (glucose and fructose), insulin, and fatty acids (palmitate, oleate). Independent of the triglyceride levels of the human donor liver organs at baseline, the nutrient over-supplementation leads to an increase of triglyceride synthesis and cytokine release to the culture supernatant and thus recapitulates hallmark features of steatosis and inflammation in NAFLD. The mirrored design of human vs. mouse liver slices cultured at the exact same conditions allows a comprehensive assessment of donor variability and the contribution of time vs. nutrient factors to the overall observed molecular pattern and the investigation of conserved and species-specific transcriptional pathways that are involved in steatosis and inflammation of the liver."
+  ],
+  "title": "Transcriptomic profiling of induced steatosis in human precision-cut liver slices",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

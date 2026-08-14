@@ -1,0 +1,27 @@
+{
+  "accession": "GSE307517",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE307517",
+  "last_update_date": "Nov 03 2025",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Investigate the gene expression differences in HFD mice treated with gA-28c (2.5mg/kg) every two weeks",
+  "platform_ids": [
+    "GPL35109",
+    "GPL35959"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1321903"
+  ],
+  "sample_count": 12,
+  "submission_date": "Sep 09 2025",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD) is a chronic disorder that threatens global health, yet current treatments lack efficacy and patient compliance. Antisense oligonucleotides (ASOs) offer advantages for chronic metabolic diseases through precision targeting and long-acting effects; however, rational design remains a key barrier to drug development. Here, we established an integrated Gapmer ASO design platform that incorporates SNP filtering, secondary structure prediction, off-target minimization, RNase H cleavage efficiency, and animal model compatibility to systematically identify potent ASO candidates. Targeting acyl-CoA synthetase long-chain family member 4 (ACSL4), we screened a focused panel of candidates and identified a highly efficient ASO that suppressed ACSL4 expression and reduced lipid droplet accumulation in HepG2 cells. Conjugation with N-acetylgalactosamine (GalNAc) yielded gA-28c, which achieved efficient hepatocyte uptake and robust ACSL4 knockdown at low doses (2.5 mg/kg) in vivo, with durable activity for at least 14 days and no detectable hepatotoxicity. In a chronic high-fat diet (HFD) mouse model, gA-28c markedly suppressed hepatic ACSL4, ameliorated steatosis, and restored near-normal liver histology, phenocopying ACSL4 knockout. Unexpectedly,gA-28c also normalized dyslipidemia, significantly lowering circulating cholesterol and lipoproteins, a therapeutic effect not previously observed with genetic ACSL4 depletion. Mechanistically, ACSL4 silencing by gA-28c downregulated lipid metabolic pathways and enhanced triglyceride turnover. Collectively, these findings establish gA-28c as a potent, liver-targeted, and long-acting therapeutic candidate that not only alleviates hepatic steatosis but also improves systemic lipid metabolism, underscoring the promise of ASO therapy for MASLD and hyperlipidemia"
+  ],
+  "title": "ClinASO: a guideline for rapid drug discovery of gapmer antisense oligonucleotidess",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "accession": "GSE143319",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE143319",
+  "last_update_date": "Sep 15 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We compared 1) Metabolically healthy obese (MHO, n=15) vs metabolically unhealthy obese (MUO, n=15) people, and 2) before vs. after weight loss (n=10).",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "32099031"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA600013",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP240641"
+  ],
+  "sample_count": 50,
+  "submission_date": "Jan 08 2020",
+  "summary": [
+    "Insulin resistance increases patient\u2019s risk of developing type 2 diabetes (T2D), nonalcoholic  steatohepatitis (NASH) and a host of other comorbidities including  cardiovascular disease and cancer. At the molecular level, insulin exerts its function  through the insulin receptor (IR), a transmembrane receptor tyrosine kinase. Data from  human genetic studies have shown that Grb14 functions as a negative modulator of IR  activity, and germline Grb14-knockout (KO) mice have improved insulin signaling in liver  and muscle tissues. Here, we show that Grb14 knockdown in the liver and the heart with  an AAV-shRNA (Grb14-shRNA) improves glucose homeostasis in diet-induced obese (DIO)  mice. A previous report has shown that germline deletion of Grb14 in mice results in  cardiac hypertrophy and decreased systolic function, effects that could severely limit the  therapeutic potential of targeting Grb14. In this report, we demonstrate that there are  no significant changes in hemodynamic function as measured by echocardiography in DIO  Grb14 and DIO sham mice for a period of four months. While additional studies are  needed to further establish efficacy and to de-risk potential negative cardiac effects in  pre-clinical heart failure models, our data support inhibiting Grb14 to treat diabetes and  related conditions."
+  ],
+  "title": "Inhibition of Grb14, a negative modulator of insulin signaling,  improves glucose homeostasis without causing cardiac dysfunction",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

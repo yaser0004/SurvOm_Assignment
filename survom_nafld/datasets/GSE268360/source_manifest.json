@@ -1,0 +1,64 @@
+{
+  "accession": "GSE268360",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268360",
+  "gsm_accessions": [
+    "GSM8290092",
+    "GSM8290093",
+    "GSM8290094",
+    "GSM8290095",
+    "GSM8290096",
+    "GSM8290097",
+    "GSM8290098",
+    "GSM8290099",
+    "GSM8290100",
+    "GSM8290101",
+    "GSM8290102",
+    "GSM8290103",
+    "GSM8290104",
+    "GSM8290105",
+    "GSM8290106",
+    "GSM8290107",
+    "GSM8290108",
+    "GSM8290109"
+  ],
+  "platform_accessions": [
+    "GPL30173"
+  ],
+  "sources": [
+    {
+      "bytes": 3572,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:25Z",
+      "sha256": "88cae69e1331f0bd11e6ba5e8e211df1e08944d2d84cd90a4cdb66c7fe3edf19",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE268nnn/GSE268360/soft/GSE268360_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290092/suppl/GSM8290092_H_M_Normal_1.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290093/suppl/GSM8290093_H_M_Normal_2.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290094/suppl/GSM8290094_H_M_Normal_3.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290095/suppl/GSM8290095_H_F_Normal_1.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290096/suppl/GSM8290096_H_F_Normal_2.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290097/suppl/GSM8290097_H_F_Normal_3.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290098/suppl/GSM8290098_H_M_Moderate_MAFLD_1.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290099/suppl/GSM8290099_H_M_Moderate_MAFLD_2.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290100/suppl/GSM8290100_H_M_Moderate_MAFLD_3.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290101/suppl/GSM8290101_H_M_Severe_MAFLD_1.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290102/suppl/GSM8290102_H_M_Severe_MAFLD_2.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290103/suppl/GSM8290103_H_M_Severe_MAFLD_3.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290104/suppl/GSM8290104_H_F_Mild_MAFLD_1.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290105/suppl/GSM8290105_H_F_Mild_MAFLD_2.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290106/suppl/GSM8290106_H_F_Mild_MAFLD_3.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290107/suppl/GSM8290107_H_F_Moderate_MAFLD_1.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290108/suppl/GSM8290108_H_F_Moderate_MAFLD_2.genes.results.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8290nnn/GSM8290109/suppl/GSM8290109_H_F_Moderate_MAFLD_3.genes.results.gz"
+  ],
+  "tool_version": "0.1.0"
+}

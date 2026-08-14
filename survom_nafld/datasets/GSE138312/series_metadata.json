@@ -1,0 +1,25 @@
+{
+  "accession": "GSE138312",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138312",
+  "last_update_date": "Jun 30 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "iPSC were generated from peripheral blood mononuclear cells from 16 healthy control subjects and 21 patients with biopsy-proven NAFLD.  iPSC from all 37 subjects were differentiated to hepatocytes (iPSC-Heps).  RNA from iPSC and iPSC-Heps were analyzed independently using the Illumina HiSeq 3000 Sequencing System.",
+  "platform_ids": [
+    "GPL21290"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA575498"
+  ],
+  "sample_count": 74,
+  "submission_date": "Oct 02 2019",
+  "summary": [
+    "We report that the transcriptomic profiles of iPSC-Heps from NAFLD patients are distinct from those of healthy controls. This is in contrast to the transcriptomic profiles of the parent iPSC, which are similar between NAFLD patients and healthy controls."
+  ],
+  "title": "Transcriptomic analysis of induced pluripotent stem cells (iPSC) and differentiated hepatocytes (iPSC-Heps) from a cohort of healthy subjects and patients with nonalcoholic fatty liver disease (NAFLD)",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

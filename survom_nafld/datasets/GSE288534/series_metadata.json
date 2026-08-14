@@ -1,0 +1,29 @@
+{
+  "accession": "GSE288534",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE288534",
+  "last_update_date": "Apr 10 2025",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "To induce hepatocyte senescence, Huh7 cells were treated with the CDK4/6 inhibitor palbociclib (1uM) for 8 days. To test the effects of Dp44mT on senescent Huh7 cells, the cells were treated with Dp44mT or vehicle for 48h. To test the effects of DpC on MASLD, 10-week-old C57BL/6J male mice were fed CDA-HFD for 10 weeks, and DpC (5 mg/kg) or vehicle (10% cavitron\u2122 w7 hp7 pharma cyclodextrin) was given by gavage twice a week for the last 4 weeks (CDAHFD-Veh: n=7; CDAHFD-DpC: n=6). RNA was extracted and subjected to RNA-seq.",
+  "platform_ids": [
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "40155379"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1218242"
+  ],
+  "sample_count": 24,
+  "submission_date": "Feb 01 2025",
+  "summary": [
+    "Senescent hepatocytes accumulate in metabolic dysfunction-associated steatotic liver disease (MASLD) and are linked to worse clinical outcomes. However, their heterogeneity and lack of specific markers have made them difficult to target therapeutically. Here, we define a senescent hepatocyte gene signature (SHGS) using in vitro and in vivo models and show that it tracks with MASLD progression/regression across mouse models and large human cohorts. Single-nucleus RNA-sequencing and functional studies reveal that SHGS+ hepatocytes originate from p21+ cells, lose key liver functions and release factors that drive disease progression. One such factor, GDF15, increases in circulation alongside SHGS+ burden and disease progression. Through chemical screening, we identify senolytics that selectively eliminate SHGS+ hepatocytes and improve MASLD in mice. Notably, SHGS enrichment also correlates with dysfunction in other organs. These findings establish SHGS+ hepatocytes as key drivers of MASLD and highlight a potential therapeutic strategy for targeting senescent cells in liver disease and beyond."
+  ],
+  "title": "Targeting Senescent Hepatocytes for Treatment of Metabolic Dysfunction-associated Steatotic Liver Disease and Multi-organ Dysfunction",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

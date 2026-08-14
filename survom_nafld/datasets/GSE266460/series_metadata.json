@@ -1,0 +1,27 @@
+{
+  "accession": "GSE266460",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE266460",
+  "last_update_date": "Mar 26 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "DMSO-differentiated HepaRG cells were transfected with siRNAs against STAT3 or/and PTPRD. Cells were cultured for 48 h and subsequently treated with free-fatty acids (800 \u00b5M oleic acid and 400 \u00b5M palmitic acid) for 24 h. Total RNA was extracted from the samples using the Direct-zol kit (Zymo Research) in order to perform RNA-seq.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "40124988"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1107225"
+  ],
+  "sample_count": 6,
+  "submission_date": "May 02 2024",
+  "summary": [
+    "Background & Aims: Protein tyrosine phosphatase delta (PTPRD) is suppressed in several diseases including HCV infection. To identify hepatic pathways responsive to PTPRD function and their role in non-viral liver disease, we analyzed liver transcriptomic and clinical data from patients and established a Ptprd-deficient liver disease mouse model. Methods: Healthy patients were classified according to hepatic PTPRD expression and transcriptomic analysis was performed to identify signaling pathways associated with low PTPRD levels. We combined an animal model for metabolic dysfunction-associated steatohepatitis (MASH) with genetically impaired PTPRD expression (Ptprd+/-) to assess its impact on the liver transcriptome and metabolic function. Identified pathways were validated by perturbation studies in primary human hepatocytes and differentiated HepaRG cells. Substrate specificity was validated by pull-down assay. The clinical relevance was explored in a cohort of patients with fatty liver disease by ranking individuals according to hepatic PTPRD expression and analyzing its association with metabolic disease markers. Results: In healthy individuals and Ptprd+/- mice, PTPRD levels associated with hepatic glucose/lipid metabolism and peroxisomal function. Hepatic PTPRD expression is impaired in metabolic liver disease. Moreover, we revealed PTPRD as a STAT3 phosphatase in the liver, which is a regulator of peroxisomal function. Silencing of STAT3 in HepaRG cells treated with free-fatty acids was able to rescue the expression of genes implicated in lipid metabolism. During MASH, low hepatic PTPRD led to increased liver steatosis in the Ptprd+/- animals and pronounced unfolded protein response, which impacts insulin signaling. Silencing of PTPRD in PHH blunted insulin-induced AKT phosphorylation. In line with this, obese patients with low hepatic PTPRD expression exhibit increased levels of clinical markers associated with metabolic disease. Conclusion: Our data suggest an important regulatory role of the hepatic PTPRD-STAT3 axis in maintaining glucose/lipid homeostasis and how its impaired expression is associated with clinical manifestations of metabolic liver disease."
+  ],
+  "title": "Protein tyrosine phosphatase delta is a STAT3-phosphatase and suppressor of metabolic liver disease (HepaRG cells).",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

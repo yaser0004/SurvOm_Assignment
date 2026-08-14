@@ -1,0 +1,27 @@
+{
+  "accession": "GSE217235",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217235",
+  "last_update_date": "Jan 18 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Single cell RNA-seq of FACS sorted liver memory CD45RA\u2212 CD4+ T cells from 3 NAFLD and 3 NASH patients.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "36625344"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA897938"
+  ],
+  "sample_count": 6,
+  "submission_date": "Nov 03 2022",
+  "summary": [
+    "Single cell RNA-seq of liver CD4+ T cells from NAFLD and NASH patients."
+  ],
+  "title": "Multi cytokine producing liver CD4+ T cells characterize the liver of NASH patients",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "accession": "GSE325645",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE325645",
+  "last_update_date": "Jun 17 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Peripheral blood NK cells were isolated from patients with CHB and CHB-MASLD and subjected to bulk RNA sequencing. The study included biological replicates from each group. Differential gene expression analysis was performed to compare transcriptomic profiles between CHB and CHB-MASLD, followed by pathway enrichment analysis to identify immune and inflammatory programs associated with metabolic dysfunction.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1441399"
+  ],
+  "sample_count": 7,
+  "submission_date": "Mar 23 2026",
+  "summary": [
+    "Clinical evidence suggests that coexistence of metabolic dysfunction-associated steatotic liver disease (MASLD) and chronic hepatitis B (CHB) is associated with more severe liver disease progression, but the underlying immune mechanisms remain incompletely understood. In this study, RNA sequencing was performed on peripheral natural killer (NK) cells isolated from patients with CHB and CHB-MASLD to characterize transcriptomic alterations associated with metabolic dysfunction. Differential expression and pathway analyses were used to identify immune activation programs and candidate signaling pathways linked to NK-cell remodeling in CHB-MASLD."
+  ],
+  "title": "Transcriptomic profiling of NK cells in CHB and CHB-MASLD",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

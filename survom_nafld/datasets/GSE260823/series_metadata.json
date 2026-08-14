@@ -1,0 +1,27 @@
+{
+  "accession": "GSE260823",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE260823",
+  "last_update_date": "Mar 18 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Transcriptomic analysis of co-culture generated  lipid-associated macrophages (LAMs) and naive macrophages co-cultured with untreated hepatic cells (referred to as the Control, Ctrl group) by RNA sequencing (RNA-seq). There are six samples in the study which belonged to two groups, each groups contains three samples.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "41810434"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1083573"
+  ],
+  "sample_count": 6,
+  "submission_date": "Mar 04 2024",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD) is characterized by profound remodeling of hepatic macrophages, including the emergence of lipid-associated macrophages (LAMs). However, the mechanisms through which LAMs promote fibrosis and their key molecular drivers remain elusive."
+  ],
+  "title": "Transcriptomic analysis of co-culture generated lipid-associated macrophages (LAMs)",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

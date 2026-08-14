@@ -1,0 +1,26 @@
+{
+  "accession": "GSE179886",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE179886",
+  "last_update_date": "Apr 13 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "scRNA-seq of patient/donor-derived PBMCs",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA745465",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP327859"
+  ],
+  "sample_count": 2,
+  "submission_date": "Jul 11 2021",
+  "summary": [
+    "Cardiovascular complications are major causes of death in non-alcoholic fatty liver disease (NAFLD) but the underlying endothelial pathophysiology remains understudied. Here, we cultivated blood outgrowth endothelial cells (BOECs) from NAFLD patients and healthy controls. Our transcriptomic analysis revealed that NAFLD BOECs were activated with chemokine hallmarks, in particular, enhanced CXCL12 was confirmed in arterial tissues of mouse NAFLD models. Immunoprofiling by single-cell analysis further uncovered T cell intensification and potentially T-helper type 1 inflammatory reactions in NAFLD. In evaluating CXCL12-CXCR4 axis in chemotaxis, CXCR4 antagonist (AMD3100) substantially modulated the migration of CD4+ Tcells, natural killer cells and monocytes towards NAFLD BOECs, which was not observed in healthy control coculture. We found that NAFLD and healthy BOECs might preferentially recruit distinct subsets of immune cells, as a result of unique chemokine ligand-receptor interactions. Finally, we enumerated two folds more circulating endothelial cells, a biomarker of vascular injury, in NAFLD patients than healthy subjects. Our work provides insights for modulation of endothelial-immune crosstalk as an avenue for mitigating endothelial dysfunction in NAFLD."
+  ],
+  "title": "Endothelial-immune crosstalk contributes to vasculopathy in nonalcoholic fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

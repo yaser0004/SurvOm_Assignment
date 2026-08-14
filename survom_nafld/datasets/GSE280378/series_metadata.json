@@ -1,0 +1,25 @@
+{
+  "accession": "GSE280378",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE280378",
+  "last_update_date": "Nov 29 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "To investigate similarities between MASH human bioprinted tissues and two previous studies of transcriptomic differences between human MASH livers and human healthy livers, MASH tissues were bioprinted using primary liver cells and treated with a MASH induction cocktail. Healthy controls followed the same protocol but were not treated with a MASH induction cocktail.",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1178128"
+  ],
+  "sample_count": 22,
+  "submission_date": "Oct 26 2024",
+  "summary": [
+    "Non-alcoholic steatohepatitis (NASH) represents a significant and growing public health concern worldwide, characterized by hepatic steatosis, inflammation, and varying degrees of fibrosis. In vitro models of NASH play a crucial role in elucidating the underlying mechanisms of disease pathogenesis, identifying potential therapeutic targets, and evaluating the efficacy of pharmacological interventions. Several preclinical models of MASH have been developed and are being used extensively to study these areas. While standard cell culture models allow for elucidation of certain molecular pathways involved in MASH pathogenesis, they lack three-dimensional architecture and cellular heterogeneity observed in native liver tissue, potentially limiting their physiological relevance and inability to fully capture the multifactorial nature of the disease Precision cut liver slices from MASH livers retain the complex multicellular architecture of the liver including hepatocyte arrangement, sinusoidal structure, and cellular interactions, but the metabolism deteriorates over a short period of time (usually reported as 2 days). Human liver organoids from iPSCs (induced pluripotent stem cells) retain the genetics of the patients but fail to fully differentiate into hepatocytes or have the liver architecture. Human liver spheroids incubated in a MASH cocktail develop several phenotypic characteristics of a MASH liver, but the small spheroid size precludes extensive histological comparisons to MASH livers. Microphysiological systems (MPS) or \u201cliver on a chip\u201d in which 3D cultures are perfused, maintain many of the physiological functions of the liver owing to precise control over microenvironmental parameters, including fluid flow, nutrient gradients, and mechanical cues. However, MPS are difficult to scale up and have not been developed to reproduce a MASH phenotype.  In comparison, bioprinted liver tissues for MASH have many advantages. Organovo\u2019s 3D bioprinted liver tissues are comprised of all major primary liver cells including hepatocytes, endothelial cells, stellates and Kupffer cells, mixed in physiologically relevant ratios. These cells are then bioprinted in precise pre-defined liver specific geometries to recapitulate complexity of the hepatic microenvironment.. This mimicking of tissue architecture enables more accurate representation of cellular interactions, spatial organization, and microenvironmental cues crucial for MASH pathogenesis. The liver tissues developed using this method maintain differentiation and metabolism over several weeks. In this paper, we further demonstrated that upon treatment with a MASH induction cocktail, these liver tissues respond accurately by developing steatosis and fibrosis Tissue response varies depending in response to the complexity of the MASH cocktail."
+  ],
+  "title": "Induction of MASH in Three-Dimensional Bioprinted Human Liver Tissue",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

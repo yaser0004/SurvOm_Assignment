@@ -1,0 +1,52 @@
+{
+  "accession": "GSE253493",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE253493",
+  "gsm_accessions": [
+    "GSM8021665",
+    "GSM8021666",
+    "GSM8021667",
+    "GSM8021668",
+    "GSM8021669",
+    "GSM8021670",
+    "GSM8021671",
+    "GSM8021672",
+    "GSM8021673",
+    "GSM8021674",
+    "GSM8021675",
+    "GSM8021676"
+  ],
+  "platform_accessions": [
+    "GPL21290"
+  ],
+  "sources": [
+    {
+      "bytes": 3068,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:26Z",
+      "sha256": "19dc09b2c29266155cdc333c6fe817d1e07314a2d6dec9b441d25a866a58cbe9",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE253nnn/GSE253493/soft/GSE253493_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021665/suppl/GSM8021665_CJ5657_S1.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021666/suppl/GSM8021666_CJ5657_S2.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021667/suppl/GSM8021667_CJ5657_S3.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021668/suppl/GSM8021668_CJ5657_S4.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021669/suppl/GSM8021669_CJ5657_S5.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021670/suppl/GSM8021670_CJ5657_S6.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021671/suppl/GSM8021671_YM7160_S7.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021672/suppl/GSM8021672_YM7160_S8.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021673/suppl/GSM8021673_YM7160_S9.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021674/suppl/GSM8021674_YM7160_S10.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021675/suppl/GSM8021675_YM7160_S11.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8021nnn/GSM8021676/suppl/GSM8021676_YM7160_S12.txt.gz"
+  ],
+  "tool_version": "0.1.0"
+}

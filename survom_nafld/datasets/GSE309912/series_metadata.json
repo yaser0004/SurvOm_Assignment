@@ -1,0 +1,28 @@
+{
+  "accession": "GSE309912",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE309912",
+  "last_update_date": "Aug 05 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Primary human LSECs (HHSEC) treated with vehicle, 500\u00b5M PA, 800\u00b5M PA or 800 \u00b5M PA+LY, overnight. Total RNA was prepared for bulk RNA-sequencing.",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "42084928",
+    "41983905"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1363984"
+  ],
+  "sample_count": 12,
+  "submission_date": "Nov 14 2025",
+  "summary": [
+    "Background: Liver sinusoidal endothelial cells (LSECs) acquire a proinflammatory phenotype in metabolic dysfunction-associated steatohepatitis (MASH), characterized by elevated adhesion molecules and inflammatory mediators\u2014a process termed lipotoxic endotheliopathy. However, the molecular drivers of this transformation remain incompletely defined. Methods: We employed complementary models of lipotoxicity and MASH, including palmitate-treated primary human LSECs (in vitro), cultured precision-cut liver slices from normal human and mice liver with MASH-inducing media as well as MASH mice (ex vivo), and diet-induced MASH models (in vivo). Results: GeoMx digital spatial profiling of human MASH livers revealed enriched proinflammatory and fibrogenic signaling between LSECs and myeloid cells. Among the top upregulated genes and ligand-receptor pairs was ICAM1, whose expression correlated with disease severity and was increased in human MASH by immunostaining. ATAC-seq on primary mouse LSECs showed enhanced chromatin accessibility at the Icam1 promoter in MASH. Chromatin immunoprecipitation confirmed enrichment of the active epigenetic mark H3K27ac and BRD4 binding at the ICAM1 promoter in human LSECs under lipotoxic stress. Mechanistically, we identified the GSK3\u03b2/c-Jun/BRD4 axis as a key regulator of ICAM1 induction in LSECs. In vivo, ICAM1-neutralizing antibody or endothelial-specific epigenetic suppression reduced hepatic inflammation, injury, and fibrosis in MASH mice. Conclusion: ICAM1 is epigenetically upregulated in LSECs during lipotoxic stress and promotes myeloid cell recruitment in MASH. Targeting the epigenetic regulation of ICAM1 may offer a novel therapeutic strategy for treating human MASH."
+  ],
+  "title": "Bulk RNA-seq Toxic Lipid-induced Epigenetic Activation of ICAM1 in Liver Sinusoidal Endothelium Regulates Myeloid-Driven Fibro-inflammatory Response in MASH",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

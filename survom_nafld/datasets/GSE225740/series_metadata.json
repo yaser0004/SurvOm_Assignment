@@ -1,0 +1,27 @@
+{
+  "accession": "GSE225740",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE225740",
+  "last_update_date": "Mar 19 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We utilize RNA-seq for 93 liver biopsies with histologically staged NAFLD Activity Score (NAS), fibrosis stage, and steatohepatitis (NASH).",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "36927865"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA937251"
+  ],
+  "sample_count": 93,
+  "submission_date": "Feb 21 2023",
+  "summary": [
+    "This study aims to determine if patients with NAFLD are at risk for altered drug response by characterizing changes in hepatic mRNA expression of genes mediating drug disposition (pharmacogenes) across the histological NAFLD severity spectrum."
+  ],
+  "title": "Clinically Important Alterations in Pharmacogene Expression in Histologically Severe Nonalcoholic Fatty Liver Disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

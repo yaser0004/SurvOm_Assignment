@@ -1,0 +1,28 @@
+{
+  "accession": "GSE248320",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE248320",
+  "last_update_date": "Jan 31 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA was extracted from steatotic cells treated with LysTTT-5'tRF mimic or NC (two replicates per treatment). 150,000 cells/ml were plated and 24 hours later medium was replaced with oleic acid (OA)-rich medium prepared as described in the manuscript. 24 hours after this cells were transfected with tRF mimic oligonucleotide or negative control (IDT, Syntezza Bioscience) using HiPerFect transfection reagent (Qiagen, 301705) and harvested after an additional 24 hours.",
+  "platform_ids": [
+    "GPL30173"
+  ],
+  "pubmed_ids": [
+    "38141848"
+  ],
+  "relations": [
+    "SubSeries of: GSE248321",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1043211"
+  ],
+  "sample_count": 4,
+  "submission_date": "Nov 20 2023",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) involves hepatic accumulation of intracellular lipid droplets via incompletely understood processes. Here, we report distinct and cooperative NAFLD roles of LysTTT-5\u2019tRF transfer RNA fragments and microRNA miR-194-5p. Unlike lean animals, dietary-induced NAFLD mice showed concurrent hepatic decrease of both LysTTT-5\u2019tRF and miR-194-5p levels, which were restored following miR-132 antisense oligonucleotide treatment which suppresses hepatic steatosis. Moreover, exposing human-derived Hep G2 cells to oleic acid for 7 days co-suppressed miR-194-5p and LysTTT-5\u2019tRF levels while increasing lipid accumulation. Importantly, transfecting fattened cells with a synthetic LysTTT-5\u2019tRF mimic elevated mRNA levels of the metabolic regulator \u03b2-Klotho while decreasing triglyceride amounts by 30% within 24 hours. In contradistinction, antisense suppression of miR-194-5p induced accumulation of its novel target, the NAFLD-implicated lipid droplet-coating PLIN2 protein. Further, two out of 15 steatosis-alleviating screened drug-repurposing compounds, Danazol and Latanoprost, elevated miR-194-5p or LysTTT-5\u2019tRF levels. The different yet complementary roles of miR-194-5p and LysTTT-5\u2019tRF offer new insights into the complex roles of small non-coding RNAs and the multiple pathways involved in NAFLD pathogenesis."
+  ],
+  "title": "Lysine tRNA fragments and miR-194-5p co-regulate hepatic steatosis via \u03b2-Klotho and Perilipin 2 (RNA)",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

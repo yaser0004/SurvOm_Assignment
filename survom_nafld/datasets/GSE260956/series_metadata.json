@@ -1,0 +1,29 @@
+{
+  "accession": "GSE260956",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE260956",
+  "last_update_date": "Mar 04 2026",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "RNA-seq analysis on mouse livers treated with HFHC, AMLN or ND and on Huh7 cells stably transfected with RYK and treated with GPNMB ECD for 8 h",
+  "platform_ids": [
+    "GPL30209",
+    "GPL30215"
+  ],
+  "pubmed_ids": [
+    "41708863"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1084732"
+  ],
+  "sample_count": 8,
+  "submission_date": "Mar 06 2024",
+  "summary": [
+    "The goals of this study are to define the moelcular events in NASH and to determine the role of GPNMB and RYK in NASH development"
+  ],
+  "title": "Hepatic GPNMB aggravates NASH through binding to RYK [RNA-Seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

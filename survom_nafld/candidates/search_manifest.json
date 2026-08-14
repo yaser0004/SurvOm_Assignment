@@ -1,0 +1,7 @@
+{
+  "accession_count": 200,
+  "hit_count": 200,
+  "query": "NAFLD AND \"Homo sapiens\"[Organism] AND \"expression profiling by high throughput sequencing\"[DataSet Type]\n(MASLD OR MASH OR NASH) AND \"Homo sapiens\"[Organism] AND \"expression profiling by high throughput sequencing\"[DataSet Type] AND liver[All Fields]",
+  "timestamp": "2026-08-13T04:32:28Z",
+  "tool_version": "0.1.0"
+}

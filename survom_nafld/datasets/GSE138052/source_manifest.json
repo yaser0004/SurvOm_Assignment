@@ -1,0 +1,40 @@
+{
+  "accession": "GSE138052",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138052",
+  "gsm_accessions": [
+    "GSM4097456",
+    "GSM4097457",
+    "GSM4097458",
+    "GSM4097459",
+    "GSM4097460",
+    "GSM4097461"
+  ],
+  "platform_accessions": [
+    "GPL20301"
+  ],
+  "sources": [
+    {
+      "bytes": 2340,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:24Z",
+      "sha256": "d7af268e1ddf09c0783b74042e2ae3dc5c5918253990a0a7bdefc9846d5e1238",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE138nnn/GSE138052/soft/GSE138052_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4097nnn/GSM4097456/suppl/GSM4097456_Control_1.hg19.counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4097nnn/GSM4097457/suppl/GSM4097457_Control_2.hg19.counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4097nnn/GSM4097458/suppl/GSM4097458_Control_3.hg19.counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4097nnn/GSM4097459/suppl/GSM4097459_LPO_1.hg19.counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4097nnn/GSM4097460/suppl/GSM4097460_LPO_2.hg19.counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM4097nnn/GSM4097461/suppl/GSM4097461_LPO_3.hg19.counts.txt.gz"
+  ],
+  "tool_version": "0.1.0"
+}

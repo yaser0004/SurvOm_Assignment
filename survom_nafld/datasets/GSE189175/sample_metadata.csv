@@ -1,0 +1,7 @@
+gsm,canon__disease,canon__sex,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__Sex,raw__condition,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM5695736,NAFLD,Female,Adjacent non-tumor,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL30982,Female,NAFLD,Adjacent non-tumor,SRA,Liver,,,S1_ant
+GSM5695737,NAFLD,Female,Tumor,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL30982,Female,NAFLD,Tumor,SRA,Liver,,,S1_hcc
+GSM5695738,NASH,Female,Adjacent non-tumor,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL30982,Female,NASH,Adjacent non-tumor,SRA,Liver,,,S2_ant
+GSM5695739,NASH,Female,Tumor,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL30982,Female,NASH,Tumor,SRA,Liver,,,S2_hcc
+GSM5695740,NASH,Female,Adjacent non-tumor,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL30982,Female,NASH,Adjacent non-tumor,SRA,Liver,,,S3_ant
+GSM5695741,NASH,Female,Tumor,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL30982,Female,NASH,Tumor,SRA,Liver,,,S3_hcc

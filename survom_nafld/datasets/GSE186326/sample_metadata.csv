@@ -1,0 +1,5 @@
+gsm,canon__tissue,canon__treatment,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell type,raw__donor,raw__tissue,raw__treatment,sample_type,source_name,sra_relation,supplementary_files,title
+GSM5643804,liver,DMSO,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,kupffer,1,liver,DMSO,SRA,sorted kupffer cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12724906,,Donor 1 DMSO
+GSM5643805,liver,DPI,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,kupffer,1,liver,DPI,SRA,sorted kupffer cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12724907,,Donor 1 DPI
+GSM5643806,liver,DMSO,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,kupffer,2,liver,DMSO,SRA,sorted kupffer cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12724908,,Donor 2 DMSO
+GSM5643807,liver,DPI,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,kupffer,2,liver,DPI,SRA,sorted kupffer cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12724909,,Donor 2 DPI

@@ -1,0 +1,28 @@
+{
+  "accession": "GSE207889",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207889",
+  "last_update_date": "Jan 02 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "hPSC-derived HLOs cultured on an orbital shaker (OS) were stimulated with TGF-\u03b21 (10 ng/ml) or PA (500 \u00b5M) for five days and subjected to scRNAseq at day 25. Additionally, naive (untreated) HLOs cultured on ultra-low attachment (ULA) plates were analyzed by scRNAseq at day 21 and day 34 of the differentiation protocol.",
+  "platform_ids": [
+    "GPL24676",
+    "GPL30173"
+  ],
+  "pubmed_ids": [
+    "37962490"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA857590"
+  ],
+  "sample_count": 19,
+  "submission_date": "Jul 11 2022",
+  "summary": [
+    "Chronic liver injury promotes fibrosis, which can progress to cirrhosis, a major cause of morbidity and mortality worldwide. Resolving the cell-type-specific transcriptional changes orchestrating this transformation remains challenging. Recent advances in differentiation protocols allow the generation of multi-lineage human liver organoids (HLOs) from human pluripotent stem cells (hPSCs), providing a new model system to study evolving liver injury. We differentiated hPSCs into HLOs and defined optimal 3D culture conditions for liver injury induction. We modeled steatohepatitis through treatment with palmitic acid (PA) and fibrotic injury through treatment with transforming growth factor beta 1 (TGF-\u03b21). For each injury type, we evaluated the development of fibrosis and inflammation by monitoring changes in morphology, gene expression, and histology. We then performed single-cell RNA-sequencing (scRNA-seq) to investigate cell-type diversity in healthy organoids at different time-points and to understand how TGF-\u03b21- and PA-mediated injury affects each cell type. We observed transcriptional response signatures in injured HLOs to be both cell-type- and injury-specific. TGF-\u03b21 treatment expanded hepatic stellate cell (HSC)-like populations and remodeled cell-cycle patterning. Gene set scoring revealed increased fibroblast activity with TGF-\u03b21 treatment, while PA treatment was associated with inflammatory activity. Differential gene expression analysis at the subpopulation level showed induced profibrotic and extracellular matrix-remodeling pathways with TGF-\u03b21 and non-alcoholic fatty liver disease (NAFLD) expression signatures with PA treatment. Evaluation of receptor and ligand expression defined hepatocyte-, cholangiocyte-, and HSC-like cell-cell interactions induced upon TGF-\u03b21 treatment, an effect not observed with PA treatment. Tracing the changes at receptor-ligand pair resolution revealed specific COL1A1-Integrin complex interactions with TGF-\u03b21 treatment and inflammation-specific interactions including CXCR7 and HLA-C with PA treatment. Treatment of HLOs with PA and TGF-\u03b21 also demonstrated a sequential increase in expression of gene sets that predict clinical disease progression in non-alcoholic steatohepatitis (NASH). Our results demonstrate the applicability of hPSC-derived HLOs as a dynamic in vitro 3D human liver model system for the study of fibrotic and inflammatory liver injury."
+  ],
+  "title": "Stem cell-derived human liver organoids to model the progression of inflammatory and fibrotic injury in non-alcoholic fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

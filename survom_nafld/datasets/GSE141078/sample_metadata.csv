@@ -1,0 +1,7 @@
+gsm,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__sirna,sample_type,source_name,sra_relation,supplementary_files,title
+GSM4194617,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL16791,siNREP,SRA,HepG2 cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX7223715,,siN_1
+GSM4194618,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL16791,siNREP,SRA,HepG2 cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX7223716,,siN_2
+GSM4194619,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL16791,siNREP,SRA,HepG2 cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX7223717,,siN_3
+GSM4194620,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL16791,Scramble,SRA,HepG2 cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX7223718,,siS_1
+GSM4194621,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL16791,Scramble,SRA,HepG2 cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX7223719,,siS_2
+GSM4194622,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL16791,Scramble,SRA,HepG2 cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX7223720,,siS_3

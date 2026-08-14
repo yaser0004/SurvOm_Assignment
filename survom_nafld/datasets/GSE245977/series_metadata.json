@@ -1,0 +1,27 @@
+{
+  "accession": "GSE245977",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245977",
+  "last_update_date": "Oct 15 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Comparative gene expression profiling analysis of RNA-seq data for PCLS treated with anti-Gremlin-1 or Isotype control antibodies.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "39361025"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1030913"
+  ],
+  "sample_count": 12,
+  "submission_date": "Oct 22 2023",
+  "summary": [
+    "Gremlin-1 has been implicated in liver fibrosis in metabolic dysfunction-associated steatohepatitis (MASH) via inhibition of bone-morphogenetic protein (BMP) signalling and has thereby been identified as a potential therapeutic target. Using human cirrhotic precision-cut liver slices (PCLS) as an ex vivo model systems of MASH fibrosis, we show that neutralisation of Gremlin-1 activity with monoclonal therapeutic antibodies does not reduce liver inflammation or liver fibrosis. Overall, our findings suggest a redundant role for Gremlin-1 in the pathogenesis of liver fibrosis, which is unamenable to therapeutic targeting."
+  ],
+  "title": "The effect of anti-Gremlin-1 treatment on human cirrhotic precision-cut liver slices",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "accession": "GSE138052",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE138052",
+  "last_update_date": "Jan 09 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "mRNA profiles were generated for ES-derived hepatocyte-like cells following treatment with lactate (10 mM), pyruvate (1 mM) and octanoate (2 mM) to induce intracellular lipid accumulation, resulting in a NAFLD-like phenotype",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "33409477"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA574350",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP223474"
+  ],
+  "sample_count": 6,
+  "submission_date": "Sep 26 2019",
+  "summary": [
+    "The goal of this study was to determine the changes to cellular transcriptional programs following induction of intracellular lipid accumulation, with the aim of confirming the utility of this model for exploring mechanisms underlying the pathogenesis of NAFLD. Comparisons with other publically available data confirm that the alterations we observe in mRNA expression are similar to those observed in both humans and rodents."
+  ],
+  "title": "mRNA sequencing analysis of a novel model of 'NAFLD in a Dish'",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

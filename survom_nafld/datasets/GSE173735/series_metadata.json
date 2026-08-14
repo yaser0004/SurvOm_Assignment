@@ -1,0 +1,32 @@
+{
+  "accession": "GSE173735",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE173735",
+  "last_update_date": "Jul 13 2022",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Liver tissue was obtained from healthy subjects and NASH patients suffering from obesity and diabetes. In addition, lipotoxicity was investigated in FL83B mouse hepatocytes that were stimulated with bovine serum albumin (BSA) or BSA conjugated with the saturated fatty acid palmitate (PAL) for 24 h. RNA-seq and ATAC-seq was performed with human liver tissue and mouse hepatocytes following PAL stimulation.",
+  "platform_ids": [
+    "GPL18573",
+    "GPL19057",
+    "GPL24247"
+  ],
+  "pubmed_ids": [
+    "35798791"
+  ],
+  "relations": [
+    "SubSeries of: GSE173736",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA726931",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP318203"
+  ],
+  "sample_count": 38,
+  "submission_date": "May 03 2021",
+  "summary": [
+    "Non-alcoholic fatty liver disease is continuum of disorders among which non-alcoholic steatohepatitis (NASH) is particularly associated with a negative prognosis. Hepatocyte lipotoxicity is one of the main pathogenic factors of liver fibrosis and NASH. However, the molecular mechanisms regulating this process are poorly understood. Here, we integrated transcriptomic and chromatin accessibility analyses from human liver and mouse hepatocytes to identify lipotoxicity-sensitive transcription factors. We found that several transcription factors that were activated in liver from NASH patients and by mouse hepatocyte lipotoxicity. Notably, the gene expression linked to lipotoxicity closely correlated with transcriptional patters in fibrosis progression in NASH patients. Collectively, our findings uncovered novel molecular insights into lipotoxicity-induced NASH."
+  ],
+  "title": "Transcriptional regulation of liver lipotoxicity in non-alcoholic steatohepatitis [RNA-seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

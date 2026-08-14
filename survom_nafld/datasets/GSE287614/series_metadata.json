@@ -1,0 +1,28 @@
+{
+  "accession": "GSE287614",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE287614",
+  "last_update_date": "Feb 27 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "The medium was changed the following day and cells were incubated in the same low FBS medium with addition of TGF-\u03b2 (Gibco, PHG9214), for 24h (qPCR), 4 and 7 days (RNA-seq).",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39998893"
+  ],
+  "relations": [
+    "SubSeries of: GSE267145",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1213817"
+  ],
+  "sample_count": 28,
+  "submission_date": "Jan 21 2025",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) - characterized by excess accumulation of fat in the liver - now affects one third of the world\u2019s population. As NAFLD progresses, extracellular matrix components including collagen accumulate in the liver causing tissue fibrosis, a major determinant of disease severity and mortality. To identify transcriptional regulators of fibrosis, we computationally inferred the activity of transcription factors (TFs) relevant to fibrosis by profiling the matched transcriptomes and epigenomes of 108 human liver biopsies from a deeply-characterized cohort of patients spanning the full histopathologic spectrum of NAFLD. CRISPR-based genetic knockout of the top 100 TFs identified ZNF469 as a regulator of collagen expression in primary human hepatic stellate cells (HSCs). Gain- and loss-of-function studies established that ZNF469 regulates collagen genes and genes involved in matrix homeostasis through direct binding to gene bodies and regulatory elements. By integrating multiomic large-scale profiling of human biopsies with extensive experimental validation we demonstrate that ZNF469 is a transcriptional regulator of collagen in HSCs. Overall, these data nominate ZNF469 as a previously unrecognized determinant of NAFLD-associated liver fibrosis."
+  ],
+  "title": "The transcription factor ZNF469 regulates collagen production in liver fibrosis [RNA-Seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

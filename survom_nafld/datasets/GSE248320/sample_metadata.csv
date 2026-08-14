@@ -1,0 +1,5 @@
+gsm,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,sample_type,source_name,sra_relation,supplementary_files,title
+GSM7911529,NextSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL30173,Hep G2,SRA,Hep G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX22588784,,"Steatotic Hep G2 cells treated with LysTTT-5'tRF mimic, sample 1"
+GSM7911530,NextSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL30173,Hep G2,SRA,Hep G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX22588785,,"Steatotic Hep G2 cells treated with LysTTT-5'tRF mimic, sample 2"
+GSM7911531,NextSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL30173,Hep G2,SRA,Hep G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX22588786,,"Steatotic Hep G2 cells treated with negative control, sample 3"
+GSM7911532,NextSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL30173,Hep G2,SRA,Hep G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX22588787,,"Steatotic Hep G2 cells treated with negative control, sample 4"

@@ -1,0 +1,250 @@
+# Validation report: GSE244832
+
+Multi-Modal Comparison of human Hepatic Stellate Cells identifies novel therapeutic targets for Metabolic Dysfunction-Associated Steatotic Liver Disease
+
+<!-- computed -->
+Sample count: 36
+
+## Checks
+
+| id | status | observed |
+|---|---|---|
+| sample_count | PASS | 36 samples |
+| organism_consistency | PASS | Homo sapiens 36/36 |
+| source_tissue | PASS | liver-pattern source 36/36 |
+| library_strategy | WARN | mixed strategies: ATAC-seq 18/36, RNA-Seq 18/36 |
+| library_source | WARN | library_source: genomic 18/36, transcriptomic single cell 18/36 |
+| library_selection | WARN | mixed library_selection: cDNA 18/36, other 18/36 |
+| instrument_model | WARN | mixed instruments: Illumina NextSeq 500 18/36, Illumina NovaSeq 6000 18/36 |
+| metadata_completeness | WARN | no disease/diagnosis/group/stage-type canonical field reported anywhere |
+| disease_relevance | WARN | disease term found only in series-level text, not corroborated by sample metadata |
+| single_cell_or_spatial | FAIL | cell-resolved signal in sample metadata: Nuclei were isolat, cellranger, single nucleus, snRNA (36 sample(s)) |
+| material_type | INFO | series prose mentions spheroid; sample metadata does not corroborate |
+| expression_data_availability | INFO | raw sequencing only (https://www.ncbi.nlm.nih.gov/sra?term=SRX22021595, https://www.ncbi.nlm.nih.gov/sra?term=SRX22021596, https://www.ncbi.nlm.nih.gov/sra?term=SRX22021597, https://www.ncbi.nlm.nih.gov/sra?term=SRX22021598, https://www.ncbi.nlm.nih.gov/sra?term=SRX22021599, and 31 more (see sample_metadata.csv)) |
+| series_matrix | INFO | present, metadata-only (GSE244832-GPL18573_series_matrix.txt.gz); samples are SRA-type with zero data rows |
+| raw_sra_availability | INFO | SRA/BioProject links recorded, not downloaded: https://www.ncbi.nlm.nih.gov/sra?term=SRX22021595, https://www.ncbi.nlm.nih.gov/sra?term=SRX22021596, https://www.ncbi.nlm.nih.gov/sra?term=SRX22021597, https://www.ncbi.nlm.nih.gov/sra?term=SRX22021598, https://www.ncbi.nlm.nih.gov/sra?term=SRX22021599, and 31 more (see sample_metadata.csv) |
+
+## Canonical field distributions
+
+- **tissue**: liver (36)
+
+## Field presence
+
+- tissue: 36/36 (canon: tissue)
+
+## Evidence for WARN/FAIL checks
+
+### library_strategy (WARN)
+### library_source (WARN)
+### library_selection (WARN)
+### instrument_model (WARN)
+### metadata_completeness (WARN)
+### disease_relevance (WARN)
+- GSE244832 / Series_title: matched `Metabolic Dysfunction-Associated Stea` in "Multi-Modal Comparison of human Hepatic Stellate Cells identifies novel therapeutic targets for Metabolic Dysfunction-Associated Steatotic Liver Disease"
+- GSE244832 / Series_summary: matched `Metabolic dysfunction-associated stea` in "Background and aims: Metabolic dysfunction-associated steatotic liver disease (MASLD) progresses from steatosis (Metabolic dysfunction-associated steatotic liver, MASL) to Metabolic dysfunction-associ"
+- GSE244832 / Series_overall_design: matched `MASH` in "18 single nucleus ATACseq samples, 18 single nucleus RNAseq samples from human MASH, MASL, NORMAL livers."
+### single_cell_or_spatial (FAIL)
+- GSM7830541 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830541 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830541 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830542 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830542 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830542 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830543 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830543 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830543 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830544 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830544 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830544 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830545 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830545 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830545 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830546 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830546 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830546 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830547 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830547 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830547 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830548 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830548 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830548 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830549 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830549 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830549 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830550 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830550 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830550 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830551 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830551 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830551 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830552 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830552 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830552 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830553 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830553 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830553 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830554 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830554 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830554 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830555 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830555 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830555 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830556 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830556 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830556 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830557 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830557 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830557 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830558 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830558 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830558 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830559 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830559 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830559 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830560 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830560 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830560 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830561 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830561 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830561 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830562 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830562 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830562 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830563 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830563 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830563 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830564 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830564 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830564 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830565 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830565 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830565 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830566 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830566 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830566 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830567 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830567 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830567 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830568 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830568 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830568 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830569 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830569 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830569 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830570 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830570 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830570 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830571 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830571 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830571 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830572 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830572 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830572 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830573 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830573 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830573 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830574 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830574 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830574 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830575 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830575 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830575 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830576 / Sample_extract_protocol_ch1: matched `Nuclei were isolat` in "Nuclei were isolated from frozen liver tissue using gentleMACS dissociation (Miltenyi). ~50-70 mg of frozen liver tissue was suspended in 1 ml of MACS dissociation buffer consisting of 5 mM CaCl2 (G-B"
+- GSM7830576 / Sample_extract_protocol_ch1: matched `single nucleus` in "For single nucleus ATAC-seq, unsorted nuclei were used as input for single nucleus ATAC-seq using combinatorial barcoding. Approximately 15,000 nuclei were loaded onto the Chromium controller (10x Gen"
+- GSM7830576 / Sample_extract_protocol_ch1: matched `single nucleus` in "single nucleus ATAC-seq, single nucleus RNA-seq"
+- GSM7830541 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830541 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830542 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830542 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830543 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830543 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830544 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830544 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830545 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830545 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830546 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830546 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830547 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830547 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830548 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830548 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830549 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830549 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830550 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830550 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830551 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830551 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830552 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830552 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830553 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830553 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830554 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830554 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830555 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830555 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830556 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830556 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830557 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830557 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830558 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830558 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830559 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830559 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830560 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830560 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830561 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830561 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830562 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830562 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830563 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830563 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830564 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830564 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830565 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830565 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830566 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830566 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830567 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830567 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830568 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830568 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830569 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830569 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830570 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830570 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830571 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830571 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830572 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830572 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830573 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830573 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830574 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830574 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830575 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830575 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830576 / Sample_data_processing: matched `cellranger` in "Sequencing reads were demultiplexed (cellranger mkfastq) and processed (cellranger count) using the Cell Ranger software package v3.0.2 (10x Genomics). Reads were aligned to the human reference hg38 ("
+- GSM7830576 / Sample_data_processing: matched `snRNA` in "Supplementary files format and content: snRNA-seq: hLIVER_processed_files.tar.gz. Contains sparse matrix file containing raw counts (one file for all samples), csv files containing gene names and cell"
+- GSM7830559 / Sample_title: matched `snRNA` in "JB_288, snRNAseq"
+- GSM7830560 / Sample_title: matched `snRNA` in "JB_289, snRNAseq"
+- GSM7830561 / Sample_title: matched `snRNA` in "JB_290, snRNAseq"
+- GSM7830562 / Sample_title: matched `snRNA` in "JB_303, snRNAseq"
+- GSM7830563 / Sample_title: matched `snRNA` in "JB_304, snRNAseq"
+- GSM7830564 / Sample_title: matched `snRNA` in "JB_305, snRNAseq"
+- GSM7830565 / Sample_title: matched `snRNA` in "JB_317, snRNAseq"
+- GSM7830566 / Sample_title: matched `snRNA` in "JB_318, snRNAseq"
+- GSM7830567 / Sample_title: matched `snRNA` in "JB_319, snRNAseq"
+- GSM7830568 / Sample_title: matched `snRNA` in "JB_320, snRNAseq"
+- GSM7830569 / Sample_title: matched `snRNA` in "JB_321, snRNAseq"
+- GSM7830570 / Sample_title: matched `snRNA` in "JB_322, snRNAseq"
+- GSM7830571 / Sample_title: matched `snRNA` in "JB_336, snRNAseq"
+- GSM7830572 / Sample_title: matched `snRNA` in "JB_337, snRNAseq"
+- GSM7830573 / Sample_title: matched `snRNA` in "JB_338, snRNAseq"
+- GSM7830574 / Sample_title: matched `snRNA` in "JB_339, snRNAseq"
+- GSM7830575 / Sample_title: matched `snRNA` in "JB_340, snRNAseq"
+- GSM7830576 / Sample_title: matched `snRNA` in "JB_341, snRNAseq"
+
+Decision: REJECT
+
+Reasons:
+- single_cell_or_spatial: cell-resolved assay; not bulk transcriptomics (cell-resolved signal in sample metadata: Nuclei were isolat, cellranger, single nucleus, snRNA (36 sample(s)))
+<!-- /computed -->

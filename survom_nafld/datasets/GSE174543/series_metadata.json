@@ -1,0 +1,27 @@
+{
+  "accession": "GSE174543",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174543",
+  "last_update_date": "Mar 12 2024",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "mRNA profiles of humanized mice fed a regular diet, humanized NASH fibrosis mice treated with vehicle control and humanized NASH fibrosis mice treated with CLDN1 mAb",
+  "platform_ids": [
+    "GPL25431"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA730507",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP320107"
+  ],
+  "sample_count": 10,
+  "submission_date": "May 17 2021",
+  "summary": [
+    "Six-week old Fah\u2212/\u2212/Rag2\u2212/\u2212/Il2rg \u2212/\u2212 (FRG) \u2013NOD breeding mice were intravenously injected with 1.5 x 10^9 plaque forming units (pfu) of an adenoviral vector encoding the secreted form of the human urokinase-like plasminogen activator (Ad-uPA). Forty-eight hours later, 10^6 PHH were injected intrasplenically. Successfully transplanted mice were fed with CDA-HFD for 16 weeks and then treated with humanized CLDN1 specific mAb 500\u00a0\u00b5g or vehicle for additional 8 weeks. RNA was extracted from non-tumorous liver tissue of 4 NASH fibrosis mice treated with CLDN1 mAb, 3 vehicle Control treated NASH fibrosis mice as well as 3 humanized mice fed by regular diet. Libraries were sequenced on the Illumina HiSeq 4000 as Single-Read 50 base reads."
+  ],
+  "title": "Genome-wide RNAseq of liver tissue derived from humanized mice fed by CDA-HFD and treated with CLDN1 mAb or vehicle Control",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

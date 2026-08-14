@@ -1,0 +1,27 @@
+{
+  "accession": "GSE261297",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE261297",
+  "last_update_date": "May 07 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "To investigate the transcriptional changes induced by PNPLA3-I148M, we established Hep3B cell lines expressing endogenous PNPLA3 (WT) or mutant PNPLA3-I148M (I148M). We then performed gene expression profiling obtained from RNA-Seq of the two cell lines with no treatment and treated with oleic acid for 0.5, 1, 2, 4, and 24 h. We compared the gene expression profiles between the cell lines under each treatment condition.",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "38657050"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1086450"
+  ],
+  "sample_count": 60,
+  "submission_date": "Mar 11 2024",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD), recently renamed metabolic dysfunction-associated steatotic liver disease (MASLD), is a progressive metabolic disorder that begins with aberrant triglyceride accumulation in the liver and can lead to cirrhosis and cancer. A common variant in the gene PNPLA3, encoding the protein PNPLA3-I148M, is the strongest known genetic risk factor for MASLD. Despite its discovery twenty years ago, the function of PNPLA3, and now the role of PNPLA3-I148M, remain unclear. In this study, we sought to dissect the biogenesis of PNPLA3 and PNPLA3-I148M and  characterize changes induced by endogenous expression of the disease-causing variant. Contrary to bioinformatic predictions and prior studies with overexpressed proteins, we demonstrate here that PNPLA3 and PNPLA3-I148M are not endoplasmic reticulum-resident transmembrane proteins. To identify their intracellular associations, we generated a paired set of isogenic human hepatoma cells expressing PNPLA3 and PNPLA3-I148M at endogenous levels. Both proteins were enriched in lipid droplet, Golgi, and endosomal fractions. Purified PNPLA3 and PNPLA3-I148M proteins associated with phosphoinositides commonly found in these compartments. Despite a similar fractionation pattern as the wild-type variant, PNPLA3-I148M induced morphological changes in the Golgi apparatus, including increased lipid droplet-Golgi contact sites, which were also observed in I148M-expressing primary human patient hepatocytes. In addition to lipid droplet accumulation, PNPLA3-I148M expression caused significant proteomic and transcriptomic changes that resembled all stages of liver disease. Cumulatively, we validate an endogenous human cellular system for investigating PNPLA3-I148M biology and identify the Golgi apparatus as a central hub of PNPLA3-I148M-drivencellular change."
+  ],
+  "title": "The fatty liver disease-causing protein PNPLA3-I148M alters lipid droplet-Golgi dynamics",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

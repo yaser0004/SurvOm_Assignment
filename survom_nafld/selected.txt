@@ -1,0 +1,7 @@
+GSE135251  flagship multicenter cohort, largest classic design, full NAFL/NASH F0-F4 spectrum
+GSE213621  largest cohort in the pool (368 samples), fibrosis-staged; manually resolved from MANUAL_REVIEW (see README)
+GSE174478  Japanese NASH cohort, full F0-F4 fibrosis spectrum; adds ethnic/geographic diversity
+GSE162694  NASH fibrosis severity with cell-type composition deconvolution; adds methodological diversity
+GSE281797  obese patients, no-pathology-to-early-MASLD spectrum; adds early-stage disease focus
+GSE167523  independent NAFLD cohort, previously vetted; adds an independent validation cohort
+GSE150026  Tesamorelin randomized trial in HIV-associated NAFLD; adds a distinct clinical population and an interventional design

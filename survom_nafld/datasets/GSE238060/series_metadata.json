@@ -1,0 +1,29 @@
+{
+  "accession": "GSE238060",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE238060",
+  "last_update_date": "Dec 19 2024",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "For HepaRG cell lines, cells were divided into two groups, including HepaRG-NC and HepaRG-HSD17B13 overexpression group. Cells were calculated and RNA samples were extracted from 1 \u00d7 10^6 HepaRG cells using trizol. CDNA libraries were prepared using TruSeq PE Cluster Kit v3-cBot-HS (Illumina) according to the manufacturer\u2019s instructions. Murine hepatocytes were divided into NC and human HSD17B13 overexpression groups. Cells were calculated and RNA samples were extracted for RNA seq.",
+  "platform_ids": [
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38692847"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA997902"
+  ],
+  "sample_count": 12,
+  "submission_date": "Jul 24 2023",
+  "summary": [
+    "Loss-of-function variants in 17-beta hydroxysteroid dehydrogenase 13 (HSD17B13) are associated with decreased inflammation in human chronic liver disease. The underlying mechanism by which HSD17B13 promotes liver inflammation remains largely elusive. Here we find that HSD17B13 undergoes liquid-liquid phase separation (LLPS) around lipid droplets (LDs) in the liver of NASH patients. Dimerization of HSD17B13 drives LLPS formation and regulates its enzyme activity. HSD17B13 LLPS promotes leukocyte adhesion and fibrinogen expression in hepatocytes via activating autocrine platelet activating factor (PAF) signaling. Importantly, adeno-associated viral (AAV)-mediated xeno-expression of human HSD17B13 promotes liver inflammation in Hsd17b13-/- mice induced by high fat diet/carbon tetrachloride treatment. In conclusion, HSD17B13 LLPS triggers liver inflammation via promoting PAF-mediated leukocyte adhesion. Targeting HSD17B13 phase transition would be a promising approach to treat liver inflammation in chronic liver disease."
+  ],
+  "title": "HSD17B13 liquid-liquid phase separation activates autocrine platelet-activating factor signaling in NASH",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

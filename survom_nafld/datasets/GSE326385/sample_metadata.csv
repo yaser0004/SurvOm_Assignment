@@ -1,0 +1,19 @@
+gsm,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__cell type,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM9630293,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714933,,Con_1
+GSM9630294,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714934,,con_2
+GSM9630295,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714935,,Con_3
+GSM9630296,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714936,,Model_1
+GSM9630297,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714937,,Model_2
+GSM9630298,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714938,,Model_3
+GSM9630299,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714939,,FUCO-0.5_1
+GSM9630300,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714940,,FUCO-0.5_2
+GSM9630301,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714941,,FUCO-0.5_3
+GSM9630302,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714942,,FUCO-1_1
+GSM9630303,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714943,,FUCO-1_2
+GSM9630304,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714944,,FUCO-1_3
+GSM9630305,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714945,,FUCO-2_1
+GSM9630306,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714946,,FUCO-2_2
+GSM9630307,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714947,,FUCO-2_3
+GSM9630308,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714948,,RES_1
+GSM9630309,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714949,,RES_2
+GSM9630310,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,Hep3B,liver cancer cells,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32714950,,RES_3

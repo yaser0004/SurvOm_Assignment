@@ -1,0 +1,35 @@
+{
+  "accession": "GSE160022",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160022",
+  "last_update_date": "Feb 17 2021",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Refer to individual Series",
+  "platform_ids": [
+    "GPL21273",
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "33586673"
+  ],
+  "relations": [
+    "SuperSeries of: GSE160016",
+    "SuperSeries of: GSE160017",
+    "SuperSeries of: GSE160020",
+    "SuperSeries of: GSE160021",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA672169"
+  ],
+  "sample_count": 31,
+  "submission_date": "Oct 25 2020",
+  "summary": [
+    "This SuperSeries is composed of the SubSeries listed below."
+  ],
+  "title": "TREM2 sustains macrophage-hepatocyte metabolic coordination in NAFLD and sepsis",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Non-coding RNA profiling by high throughput sequencing"
+  ]
+}

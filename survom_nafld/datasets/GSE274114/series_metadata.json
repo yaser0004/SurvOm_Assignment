@@ -1,0 +1,33 @@
+{
+  "accession": "GSE274114",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE274114",
+  "last_update_date": "Nov 01 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Formalin-fixed paraffin-embedded (FFPE) core liver biopsies, archived as part of routine diagnostics at Erasmus MC, were selected from patients at the outpatient clinic of the Erasmus MC Rotterdam. HBeAg-negative chronic hepatitis B (ENEG) patients with high viral loads and ALT levels were selected in this study. In addition, two cohorts of patients with biopsy-proven metabolic dysfunction-associated steatohepatitis (MASH) with and without concomitant ENEG were selected in this study. Liver fibrosis was determined by histology and transient elastography. Patients had no or minimal liver fibrosis at the time of inclusion (maximum of \u2264F2, <7.0 kPa). Patients were not pregnant and received neither antiviral treatment prior to biopsy, nor had any co-existing primary liver disease, nor were they co-infected with HCV, HEV, HDV or HIV. Liver biopsies of healthy individuals were collected to determine their eligibility as altruistic liver donors. Total RNA isolation of FFPE liver biopsies and library preparation were performed as described previously (Montanari NR et al. Multi-parametric analysis of human livers reveals variation in intrahepatic inflammation across phases of chronic hepatitis B infection. J Hepatol. 2022 Aug;77(2):332-343. PMID: 35218813).",
+  "platform_ids": [
+    "GPL20301",
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1144975"
+  ],
+  "sample_count": 39,
+  "submission_date": "Aug 06 2024",
+  "summary": [
+    "Background & Aims: Chronic HBV patients with concomitant metabolic dysfunction-associated steatohepatitis (MASH) have been shown to develop more advanced fibrosis faster with more severe liver disease as compared to patients with chronic HBV alone. However, our understanding of the underlying mechanisms is limited.  Here we study how MASH co-morbidity impact immune activity in the liver of patients with chronic HBV infection.",
+    "",
+    "Methods: Bulk RNA sequencing was performed on liver biopsies from patients with only MASH (n=10), only HBeAg-negative chronic HBV (ENEG; n=11), combined MASH/ENEG (n=9) and healthy controls (n=9). Biopsies with no or minimal fibrosis (\u2264F2) were selected to avoid confounding effects of fibrosis. We compared whole transcriptome data from patients with MASH/ENEG to those with ENEG alone to determine the impact of MASH co-morbidity on chronic hepatitis B.",
+    "",
+    "Results: There is a high degree of overlap of liver gene expression profiles in patients with only ENEG versus those with only MASH compared to healthy controls, suggesting a largely shared mechanism of liver dysfunction and immune activity for these distinct conditions. In patients with ENEG, MASH co-morbidity significantly reduced interferon pathway activity (NES=2.03, p.adj=0.0251), the expression of ISGs (e.g., IFIT2, IFI27, IFITM1, IFI6), and macrophage gene signatures (e.g., MARCO, CD163, CD5L, CD63), when compared to patients with ENEG alone.",
+    "",
+    "Conclusions: Transcriptomic profiling of the liver suggests that MASH negatively impacts ISGs expression in the liver of patients with ENEG, which may affect antiviral immune pathways, viral replication and inflammatory responses resulting in an increased risk of advanced fibrosis in patients with chronic hepatitis B. Our study provides valuable insights for guiding future research aimed at developing effective, tailored strategies for managing patients with both conditions.",
+    ""
+  ],
+  "title": "Metabolic dysfunction-associated steatohepatitis reduces interferon and macrophage liver gene signatures in chronic HBV patients",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

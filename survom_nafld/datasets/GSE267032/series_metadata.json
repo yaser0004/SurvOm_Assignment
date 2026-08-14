@@ -1,0 +1,28 @@
+{
+  "accession": "GSE267032",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267032",
+  "last_update_date": "Jul 09 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Bulk RNA-seq samples were collected from white blood cells from healthy controls and MAFLD/MASH patients",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "40257301"
+  ],
+  "relations": [
+    "SubSeries of: GSE267195",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1109377"
+  ],
+  "sample_count": 35,
+  "submission_date": "May 08 2024",
+  "summary": [
+    "Background & Aims: Metabolic dysfunction associated steatotic liver disease (MAFLD) progresses to steatohepatitis (MASH) and is a major cause of liver cirrhosis. In the early disease stage, liver inflammation is absent. However, the early involvement of the peripheral immune cell compartments in disease progression is poorly understood and single cell profiles of peripheral immune cells in MAFLD/MASH are not known. Methods: MAFLD/MASH patients and healthy volunteers have been prospectively enrolled into a cross-sectional study characterized by White Blood bulk RNA-Seq."
+  ],
+  "title": "Bulk White Blood Cells in MAFLD/MASH",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

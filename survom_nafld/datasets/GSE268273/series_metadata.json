@@ -1,0 +1,28 @@
+{
+  "accession": "GSE268273",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268273",
+  "last_update_date": "Oct 23 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Comparative gene expression analysis of RNA-seq data from freshly frozen liver biopsies of IMID-NAFLD and classic-NAFLD patients.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39411649"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1116068"
+  ],
+  "sample_count": 109,
+  "submission_date": "May 24 2024",
+  "summary": [
+    "Growing evidence suggests an increased prevalence of nonalcoholic fatty liver disease (NAFLD) in the context of immune-mediated inflammatory diseases (IMIDs).",
+    "We aimed to clinically and mechanistically characterize a prospective cohort of IMID-NAFLD patients compared to classic-NAFLD patients."
+  ],
+  "title": "Clinical and molecular characterization of steatotic liver disease in the setting of immune-mediated inflammatory diseases",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

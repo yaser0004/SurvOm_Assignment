@@ -1,0 +1,25 @@
+{
+  "accession": "GSE272035",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE272035",
+  "last_update_date": "Jul 10 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "66 liver samples form heaptocellular carcinoma (HCC) patients and 5 normal liver samples were obtained form the Taiwan Liver Cancer Network (TLCN) for RNA sequencing to identify biomarkers related to HCC.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1134752"
+  ],
+  "sample_count": 71,
+  "submission_date": "Jul 11 2024",
+  "summary": [
+    "Hepatocellular carcinoma (HCC) is a leading cause of cancer deaths globally. Understanding its mechanisms is crucial, despite advancements in gene identification. To address the variability of transcriptome data across cohorts and assess the impact of single gene on pathways, we developed a Gene community-Regulated Pathways (GReP) method with an Integrated Gene Community score. Using The Cancer Genome Atlas and the Taiwan Liver Cancer Network cohorts, GReP identified 531 consensus genes and 137 pathways across four categories: central dogma, metabolism, immune, and metastasis. GReP then identified potential biomarkers and categorized patients into metabolic HCC (mostly males with alcoholism and NAFLD) and viral HCC (prone to cirrhosis and HBV/HCV infection) groups, linking genotypes (gene categories) and phenotypes (clinical data) to uncover distinct mechanisms. This approach can be expanded across diverse cohorts to expedite the discovery of promising targets and therapeutic interventions for various diseases."
+  ],
+  "title": "Gene community-regulated pathway analysis successfully deciphers pathogenesis and biomarkers of viral versus metabolic hepatocellular carcinoma",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

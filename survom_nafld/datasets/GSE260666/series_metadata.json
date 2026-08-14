@@ -1,0 +1,27 @@
+{
+  "accession": "GSE260666",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE260666",
+  "last_update_date": "Nov 28 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-seq data of liver tissues of 10 NAFLD patients and 6 controls.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38812509"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1082656"
+  ],
+  "sample_count": 16,
+  "submission_date": "Mar 01 2024",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) comprises a collection of chronic liver disorders distinguished by the excessive accumulation of lipids within hepatocytes and the presence of steatosis. It covers a range of liver conditions that vary from simple steatosis (non-alcoholic fatty liver, NAFL) to non-alcoholic steatohepatitis (NASH). In this study, hepatic gene expression was compared among 6 patients with NAFL, 4 with NASH, and 6 healthy controls. All of these samples were collected prior to the liver transplantation procedure. Subsequently, differential genes were identified through comparative analysis of sequencing results, and target genes potentially related to the pathogenesis of NAFLD were further investigated. Numerous potential target genes and pathways have been identified in NAFLD, providing potential targets for therapeutic interventions."
+  ],
+  "title": "Differential analysis of gene expression in liver tissues of patients with nonalcoholic fatty liver disease and controls.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

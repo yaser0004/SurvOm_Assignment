@@ -1,0 +1,36 @@
+{
+  "accession": "GSE253186",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE253186",
+  "gsm_accessions": [
+    "GSM8016107",
+    "GSM8016108"
+  ],
+  "platform_accessions": [
+    "GPL18573"
+  ],
+  "sources": [
+    {
+      "bytes": 2186,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:20Z",
+      "sha256": "7971d64feb85a90d96e57ca37281e17e4b6da6b79ba56257429e54a21aa88c38",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE253nnn/GSE253186/soft/GSE253186_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8016nnn/GSM8016107/suppl/GSM8016107_Org_16_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8016nnn/GSM8016107/suppl/GSM8016107_Org_16_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8016nnn/GSM8016107/suppl/GSM8016107_Org_16_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8016nnn/GSM8016108/suppl/GSM8016108_Org_18_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8016nnn/GSM8016108/suppl/GSM8016108_Org_18_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8016nnn/GSM8016108/suppl/GSM8016108_Org_18_matrix.mtx.gz"
+  ],
+  "tool_version": "0.1.0"
+}

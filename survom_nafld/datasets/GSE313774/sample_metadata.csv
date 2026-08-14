@@ -1,0 +1,34 @@
+gsm,canon__tissue,canon__treatment,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__batch,raw__cell line,raw__cell type,raw__tissue,raw__treatment,sample_type,source_name,sra_relation,supplementary_files,title
+GSM9375169,liver,Condition 1,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 1,SRA,liver,,,NG-A0648_1
+GSM9375170,liver,Condition 1,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 1,SRA,liver,,,NG-A0648_2
+GSM9375171,liver,Condition 1,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 1,SRA,liver,,,NG-A0648_3
+GSM9375172,liver,Condition 1,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 1,SRA,liver,,,NG-A0648_13
+GSM9375173,liver,Condition 1,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 1,SRA,liver,,,NG-A0648_14
+GSM9375174,liver,Condition 1,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 1,SRA,liver,,,NG-A0648_25
+GSM9375175,liver,Condition 1,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 1,SRA,liver,,,NG-A0648_26
+GSM9375176,liver,Condition 2,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 2,SRA,liver,,,NG-A0648_4
+GSM9375177,liver,Condition 2,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 2,SRA,liver,,,NG-A0648_5
+GSM9375178,liver,Condition 2,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 2,SRA,liver,,,NG-A0648_6
+GSM9375179,liver,Condition 2,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 2,SRA,liver,,,NG-A0648_16
+GSM9375180,liver,Condition 2,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 2,SRA,liver,,,NG-A0648_17
+GSM9375181,liver,Condition 2,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 2,SRA,liver,,,NG-A0648_18
+GSM9375182,liver,Condition 2,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 2,SRA,liver,,,NG-A0648_28
+GSM9375183,liver,Condition 2,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 2,SRA,liver,,,NG-A0648_29
+GSM9375184,liver,Condition 2,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 2,SRA,liver,,,NG-A0648_30
+GSM9375185,liver,Condition 1 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 1 + Ins,SRA,liver,,,NG-A0648_7
+GSM9375186,liver,Condition 1 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 1 + Ins,SRA,liver,,,NG-A0648_8
+GSM9375187,liver,Condition 1 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 1 + Ins,SRA,liver,,,NG-A0648_19
+GSM9375188,liver,Condition 1 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 1 + Ins,SRA,liver,,,NG-A0648_20
+GSM9375189,liver,Condition 1 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 1 + Ins,SRA,liver,,,NG-A0648_21
+GSM9375190,liver,Condition 1 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 1 + Ins,SRA,liver,,,NG-A0648_31
+GSM9375191,liver,Condition 1 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 1 + Ins,SRA,liver,,,NG-A0648_32
+GSM9375192,liver,Condition 1 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 1 + Ins,SRA,liver,,,NG-A0648_33
+GSM9375193,liver,Condition 2 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 2 + Ins,SRA,liver,,,NG-A0648_9
+GSM9375194,liver,Condition 2 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 2 + Ins,SRA,liver,,,NG-A0648_10
+GSM9375195,liver,Condition 2 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,12/13/2022,primary,hepatocyte,liver,Condition 2 + Ins,SRA,liver,,,NG-A0648_11
+GSM9375196,liver,Condition 2 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 2 + Ins,SRA,liver,,,NG-A0648_22
+GSM9375197,liver,Condition 2 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 2 + Ins,SRA,liver,,,NG-A0648_23
+GSM9375198,liver,Condition 2 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,1/24/2023,primary,hepatocyte,liver,Condition 2 + Ins,SRA,liver,,,NG-A0648_24
+GSM9375199,liver,Condition 2 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 2 + Ins,SRA,liver,,,NG-A0648_34
+GSM9375200,liver,Condition 2 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 2 + Ins,SRA,liver,,,NG-A0648_35
+GSM9375201,liver,Condition 2 + Ins,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,3/29/2023,primary,hepatocyte,liver,Condition 2 + Ins,SRA,liver,,,NG-A0648_36

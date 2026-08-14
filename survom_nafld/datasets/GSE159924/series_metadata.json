@@ -1,0 +1,31 @@
+{
+  "accession": "GSE159924",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159924",
+  "last_update_date": "Sep 15 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "In this study, we evaluated gene expression of proteins involved in regulating adipose tissue remodeling in subcutaneous adipose tissue obtained from 1) lean with normal IHTG content and glucose tolerance (Lean-NL, n=12); ii) obese with normal IHTG content and glucose tolerance (Ob-NL, n=21); and iii) obese with NAFLD and prediabetes (Ob-NAFLD, n=24).",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "33743554"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA670900",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP288300"
+  ],
+  "sample_count": 57,
+  "submission_date": "Oct 23 2020",
+  "summary": [
+    "BACKGROUND AND AIMS: It is proposed that impaired expansion of subcutaneous adipose tissue (SAT), caused in part by an increase in adipose tissue fibrosis, redirects fatty acids to the liver and other organs, leading to ectopic lipid accumulation and insulin resistance. We therefore evaluated whether a decrease in SAT expandability, assessed by measuring SAT lipogenesis (triglyceride production), and an increase in SAT fibrogenesis (collagen production) are associated with nonalcoholic fatty liver disease (NAFLD) and insulin resistance in people with obesity.",
+    "APPROACH AND RESULTS: In vivo SAT lipogenesis and fibrogenesis, the expression of SAT genes involved in extracellular matrix (ECM) formation, and insulin sensitivity were assessed in three groups stratified by adiposity, insulin sensitivity and intrahepatic triglyceride (IHTG) content: 1) healthy lean (Lean-NL; n=12); 2) obese with normal IHTG content and normal glucose tolerance (Ob-NL; n=25); and 3) obese with NAFLD and abnormal glucose metabolism (Ob-NAFLD; n=25). Abdominal SAT total triglyceride synthesis rates were greater in the Ob-NL (65.9\u00b14.6 g/wk) and Ob-NAFLD (71.1\u00b16.7 g/wk) than the Lean-NL group (16.2\u00b12.8 g/wk), without a difference between the obese groups. Abdominal SAT collagen synthesis rate and the composite expression of collagen genes progressively increased from Lean-NL to Ob-NL to Ob-NAFLD and were greater in the Ob-NAFLD than the Ob-NL group (P<0.05). Collagen synthesis rate and the composite expression of collagen genes correlated with factors that regulate collagen production, including circulating insulin and fibrogenic factors in SAT (all P<0.001).",
+    "CONCLUSIONS: Adipose tissue lipogenesis and expandability are not impaired in people with obesity and NAFLD. However, SAT fibrogenesis and extracellular matrix remodeling are greater in people with obesity and NAFLD than in those with obesity and normal IHTG content.",
+    "ClinicalTrials.gov number: NCT02706262."
+  ],
+  "title": "Increased adipose tissue fibrogenesis, not impaired expandability, is associated with nonalcoholic fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

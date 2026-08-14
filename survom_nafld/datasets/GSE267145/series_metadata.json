@@ -1,0 +1,42 @@
+{
+  "accession": "GSE267145",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267145",
+  "last_update_date": "Feb 27 2025",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Refer to individual Series",
+  "platform_ids": [
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39998893"
+  ],
+  "relations": [
+    "SuperSeries of: GSE266650",
+    "SuperSeries of: GSE266939",
+    "SuperSeries of: GSE267119",
+    "SuperSeries of: GSE267120",
+    "SuperSeries of: GSE267121",
+    "SuperSeries of: GSE267122",
+    "SuperSeries of: GSE267123",
+    "SuperSeries of: GSE267124",
+    "SuperSeries of: GSE267125",
+    "SuperSeries of: GSE269412",
+    "SuperSeries of: GSE287614",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1109849"
+  ],
+  "sample_count": 508,
+  "submission_date": "May 09 2024",
+  "summary": [
+    "This SuperSeries is composed of the SubSeries listed below."
+  ],
+  "title": "The transcription factor ZNF469 regulates collagen production in liver fibrosis",
+  "type": [
+    "Other",
+    "Expression profiling by high throughput sequencing",
+    "Genome binding/occupancy profiling by high throughput sequencing"
+  ]
+}

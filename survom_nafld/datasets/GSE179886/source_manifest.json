@@ -1,0 +1,36 @@
+{
+  "accession": "GSE179886",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE179886",
+  "gsm_accessions": [
+    "GSM5436516",
+    "GSM5436517"
+  ],
+  "platform_accessions": [
+    "GPL24676"
+  ],
+  "sources": [
+    {
+      "bytes": 2770,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:23Z",
+      "sha256": "51115a4eb8a9a8f45fc031dcd0712a04dde1eef356d2ae04fda5b308b44eb88f",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE179nnn/GSE179886/soft/GSE179886_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5436nnn/GSM5436516/suppl/GSM5436516_FLV_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5436nnn/GSM5436516/suppl/GSM5436516_FLV_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5436nnn/GSM5436516/suppl/GSM5436516_FLV_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5436nnn/GSM5436517/suppl/GSM5436517_Healthy_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5436nnn/GSM5436517/suppl/GSM5436517_Healthy_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM5436nnn/GSM5436517/suppl/GSM5436517_Healthy_matrix.mtx.gz"
+  ],
+  "tool_version": "0.1.0"
+}

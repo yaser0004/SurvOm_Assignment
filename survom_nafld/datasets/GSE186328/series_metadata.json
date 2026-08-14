@@ -1,0 +1,29 @@
+{
+  "accession": "GSE186328",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE186328",
+  "last_update_date": "Feb 14 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "FAC-sorted CD45+ immune cells from human livers from healthy donors and NAFLD patiehts. Single cells were applied to single cell RNAseq.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38280848"
+  ],
+  "relations": [
+    "SubSeries of: GSE186329",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA773406",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP342581"
+  ],
+  "sample_count": 6,
+  "submission_date": "Oct 21 2021",
+  "summary": [
+    "Single-cell RNAseq analysis of liver cells from NASH and cirrhosis patients has identified the presence of TREM2+ disease-associated macrophages (DAMs) in the liver that display lower expression of metabolic genes. To determine whether the DAMs are also present in patient with mild NFALD, we performed scRNAseq of freshly isolated immune cells from liver biopsies of 3 healthy donors and 3 mild NFALD patients. Kupffer cells were specifically focused."
+  ],
+  "title": "Activation of GPR3-b-Arrestin2-PKM2 by DPI enhanced glycolysis in kupffer cells [single-cell RNA-seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

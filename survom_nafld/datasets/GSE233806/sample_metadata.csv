@@ -1,0 +1,5 @@
+gsm,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__cell type,sample_type,source_name,sra_relation,supplementary_files,title
+GSM7437129,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,HKCI2 cell line,NAFLD-HCC,SRA,HKCI2 cell line,https://www.ncbi.nlm.nih.gov/sra?term=SRX20550764,,SHL2-nc-1_FRAS202423559-1r
+GSM7437131,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,HKCI2 cell line,NAFLD-HCC,SRA,HKCI2 cell line,https://www.ncbi.nlm.nih.gov/sra?term=SRX20550765,,SHL2-nc-2_FRAS202423560-1r
+GSM7437132,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,HKCI2 cell line,NAFLD-HCC,SRA,HKCI2 cell line,https://www.ncbi.nlm.nih.gov/sra?term=SRX20550766,,SHL2-sh2_FRAS202423561-1r
+GSM7437134,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,HKCI2 cell line,NAFLD-HCC,SRA,HKCI2 cell line,https://www.ncbi.nlm.nih.gov/sra?term=SRX20550767,,SHL2-sh3_FRAS202423562-1r

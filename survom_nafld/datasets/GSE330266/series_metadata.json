@@ -1,0 +1,27 @@
+{
+  "accession": "GSE330266",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE330266",
+  "last_update_date": "Aug 11 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Fresh-frozen human liver samples from control individuals and patients with MASLD were profiled using the 10x Genomics platform to generate single-nucleus RNA-seq (snRNA-seq) datasets.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "42154541"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1463256"
+  ],
+  "sample_count": 10,
+  "submission_date": "May 07 2026",
+  "summary": [
+    "Aging drives systemic metabolic dysfunction (SMD) and increases the risk of chronic illnesses such as metabolic dysfunction\u2013associated steatotic liver disease (MASLD) and chronic kidney disease (CKD). However, mechanisms that connect aging to multi-organ deterioration are poorly understood. In this study, we identify hepatocyte Hedgehog signaling as a central regulator of ferroptosis.  Using  mice with hepatocyte-specific deletion of Smoothened (Smo), a key Hedgehog pathway component, we show that loss of hepatocyte Hedgehog signaling induces ferroptotic stress, lipid peroxidation, and cellular senescence. These changes were sufficient to cause spontaneous MASLD and to trigger secondary kidney injury. Smo deletion also disrupted systemic iron balance, increased hepatocyte production of the angiotensinogen, and reduced liver perfusion. Similar responses (iron dysregulation, vascular dysfunction, and reduced Hedgehog signaling) were observed in patients with MASLD and advanced fibrosis. Inhibition of ferroptosis with ferrostatin-1 reversed hepatocyte senescence, restored hepatic blood flow, and improved both liver and kidney injury in Smo-deficient mice. Overall, these findings show that hepatocyte Hedgehog signaling preserves liver homeostasis by restraining ferroptotic stress and coordinating iron-dependent vasoactive pathways. The results reveal an unrecognized aging-related communication axis between liver and kidney and identify the Hedgehog\u2013ferroptosis pathway as a promising therapeutic target for age-associated metabolic diseases."
+  ],
+  "title": "Hepatocyte Hedgehog Signaling Controls Ferroptosis to Alleviate Aging-related Organ Dysfunction",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

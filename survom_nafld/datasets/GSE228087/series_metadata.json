@@ -1,0 +1,28 @@
+{
+  "accession": "GSE228087",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE228087",
+  "last_update_date": "May 01 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Human monocytes isolated from healthy donors were differentiated into monocyte-derived macrophages with M-CSF and polarized with either IL4+IL13 or LPS+IFN-gamma for 24h",
+  "platform_ids": [
+    "GPL11154"
+  ],
+  "pubmed_ids": [
+    "38638443"
+  ],
+  "relations": [
+    "SubSeries of: GSE228088",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA948022"
+  ],
+  "sample_count": 16,
+  "submission_date": "Mar 23 2023",
+  "summary": [
+    "Chronic liver diseases as non-alcoholic steatohepatitis (NASH)-induced cirrhosis are characterized by an increasing accumulation of stressed, damaged, or dying hepatocytes. Hepatocyte damage triggers the activation of resident immune cells, such as Kupffer cells (KC), as well as the recruitment of immune cells from the circulation towards areas of inflammation. After infiltration, monocytes differentiate into monocyte-derived macrophages (MoMF) which are functionally distinct from resident KC. We herein aim to compare in vitro signatures of polarized macrophages and activated hepatic stellate cells (HSC) with ex vivo derived disease signatures from human NASH. Secondly, we investigate the effects of the secretome of primary human monocytes, macrophages and NK cells on HSC activation, as in particular monocytes and macrophages have often been linked to liver fibrosis progression. IL-4 and IL-13 treatment induced TGF-\u03b21 secretion by macrophages. However, the supernatant transfer did not induce HSC activation. Interestingly, PMA-activated macrophages showed a strong induction of the fibrosis response genes COL10A1 and CTGF, while supernatant of IL-4/IL-13 treated monocytes induced the upregulation of COL3A1 in HSC. Supernatant of PMA-activated NK cells had the strongest effect on COL10A1 induction in HSC, while IL-15 stimulated NK cells reduced the expression of COL1A1 and CTGF. These data indicate that other factors, aside the well-known cytokines and chemokines, are potentially stronger contributors to activation of HSCs and induction of a fibrotic response, indicating a more diverse and complex role of monocytes, macrophages and NK cells in liver fibrosis progression."
+  ],
+  "title": "Monocyte-derived Macrophages",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

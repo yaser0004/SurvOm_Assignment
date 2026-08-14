@@ -1,0 +1,30 @@
+{
+  "accession": "GSE148849",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148849",
+  "last_update_date": "Jan 04 2021",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Liver samples from mice fed a normal diet or fed an FFD and treated with vehicle or an ACC inhibitor.",
+  "platform_ids": [
+    "GPL17021",
+    "GPL24014"
+  ],
+  "pubmed_ids": [
+    "32376414"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA625957",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP256921"
+  ],
+  "sample_count": 74,
+  "submission_date": "Apr 17 2020",
+  "summary": [
+    "BACKGROUND & AIMS: Nonalcoholic steatohepatitis (NASH) is a chronic liver disease characterized by hepatic lipid accumulation, inflammation, and progressive fibrosis. Acetyl-CoA carboxylase (ACC) catalyzes the rate-limiting step of de novo lipogenesis and regulates fatty-acid beta-oxidation in hepatocytes. ACC inhibition reduces hepatic fat content and markers of liver injury in NASH patients; however, the effect of ACC inhibition on liver fibrosis has not been reported. METHODS: A direct role for ACC in fibrosis was evaluated by measuring de novo lipogenesis, procollagen production, gene expression, glycolysis, and mitochondrial respiration in hepatic stellate cells (HSCs) in the absence or presence of small-molecule inhibitors of ACC. ACC inhibitors were evaluated in rodent models of liver fibrosis induced by diet or the hepatotoxin, DEN. Fibrosis and hepatic steatosis were evaluated by histological and biochemical assessments. RESULTS: In TGF-beta-stimulated HSCs, ACC inhibition reduced activation and collagen production independent of mitochondrial beta-oxidation by blocking de novo lipogenesis. ACC inhibition prevented a metabolic switch necessary for induction of glycolysis and oxidative phosphorylation during HSC activation. Consistent with this direct anti-fibrotic mechanism in HSCs, ACC inhibition reduced liver fibrosis in a rat CDHFD model and in response to chronic DEN-induced liver injury that lacked hepatic lipid accumulation. CONCLUSIONS: In addition to reducing lipid accumulation in hepatocytes, ACC inhibition also directly impairs the pro-fibrogenic activity of HSCs. Small molecule inhibitors of ACC may reduce liver fibrosis by both reducing lipotoxicity in hepatocytes and directly reducing HSC activation, providing a mechanistic rationale for the treatment of patients with advanced liver fibrosis due to NASH."
+  ],
+  "title": "Gene Expression Analysis of the response to ACC inhibition",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

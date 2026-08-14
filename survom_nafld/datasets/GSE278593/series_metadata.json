@@ -1,0 +1,27 @@
+{
+  "accession": "GSE278593",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE278593",
+  "last_update_date": "Aug 20 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Hepatic stellate cell (HSC) line LX-2 (Merck Sigma-Aldrich, #SCC064) was cultured with DMEM and 2% fetal bovine serum (FBS). After incubation without FBS for 18 hours, cells were treated with IGFBP-7 (100ng/mL, R&D, #1334-B7) or phosphate-buffered saline and were incubated for an additional 24 hours. The total RNA of the treated cells was extracted using TRI Reagent (Sigma-Aldrich) and subjected to RNA sequencing. Library preparation was performed using NEBNext Ultra II Directional RNA Library Prep Kit for Illumina (New England Biolabs) and sequencing was performed with NovaSeq 6000, according to the manufacturer\u2019s instructions.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "40262132"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1168053"
+  ],
+  "sample_count": 6,
+  "submission_date": "Oct 02 2024",
+  "summary": [
+    "Hepatic fibrosis is the strongest contributor to hepatocarcinogenesis in metabolic dysfunction-associated steatotic liver disease (MASLD); however, the underlying mechanisms have yet to be fully elucidated. In 94 human MASLD biopsy samples, artificial intelligence-based morphological phenotyping of hepatic fiber and multi-omics analyses revealed that insulin growth factor-binding protein 7 (IGFBP-7) secreted from senescent periportal endothelial cells might transform stellate cells into a hepatocarcinogenesis-promoting phenotype. To test the effect of IGFBP-7 on HSC, a hepatic stellate cell line, LX-2, was cultured with recombinant IGFBP-7 (100ng/mL), resulting in their transformation to a more activated form than the control."
+  ],
+  "title": "IGFBP-7 transforms hepatic stellate cells into an HCC-promoting phenotype in MASLD.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

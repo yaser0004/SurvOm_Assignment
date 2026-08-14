@@ -1,0 +1,7 @@
+gsm,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,sample_type,source_name,sra_relation,supplementary_files,title
+GSM8125060,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,THP-1,SRA,THP-1,https://www.ncbi.nlm.nih.gov/sra?term=SRX23831353,,"THP-1, Control, rep1"
+GSM8125061,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,THP-1,SRA,THP-1,https://www.ncbi.nlm.nih.gov/sra?term=SRX23831354,,"THP-1, Control, rep2"
+GSM8125062,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,THP-1,SRA,THP-1,https://www.ncbi.nlm.nih.gov/sra?term=SRX23831355,,"THP-1, Control, rep3"
+GSM8125063,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,THP-1,SRA,THP-1,https://www.ncbi.nlm.nih.gov/sra?term=SRX23831356,,"THP-1, LAMs, rep1"
+GSM8125064,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,THP-1,SRA,THP-1,https://www.ncbi.nlm.nih.gov/sra?term=SRX23831357,,"THP-1, LAMs, rep2"
+GSM8125065,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,THP-1,SRA,THP-1,https://www.ncbi.nlm.nih.gov/sra?term=SRX23831358,,"THP-1, LMAs, rep3"

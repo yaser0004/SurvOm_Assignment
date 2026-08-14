@@ -1,0 +1,29 @@
+{
+  "accession": "GSE173671",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE173671",
+  "last_update_date": "Sep 27 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "To investigate the functional effects of nizatidine on liver immune cells, we isolated CD45+ leucocytes from liver tissues of patients with advanced liver disease and HCC and treated the immune cell population with nizatidine or vehicle control. We then analyzed the effect of the compound by scRNA-Seq.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "34535664"
+  ],
+  "relations": [
+    "SubSeries of: GSE66843",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA726566",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP318040"
+  ],
+  "sample_count": 2,
+  "submission_date": "Apr 30 2021",
+  "summary": [
+    "Abstract: Chronic liver disease and hepatocellular carcinoma (HCC) are life-threatening with limited treatment options. The lack of clinically relevant/tractable experimental models hampers therapeutic discovery. We developed a simple and robust human liver cell-based system modeling a clinical prognostic liver signature (PLS) predicting long-term liver disease progression toward HCC. Using the PLS as a readout, followed by validation in NASH-HCC animal models and patient-derived tumorspheroids, we identified nizatidine, a histamine receptor H2 (HRH2) blocker, for treatment of advanced liver disease and HCC chemoprevention. Perturbation studies combined with scRNA-Seq analyses of patient liver tissues uncovered HRH2+, CLEC5Ahigh, MARCOlow liver macrophages and hepatocytes as nizatidine targets. The PLS model combined with scRNA-Seq of patient tissues enables discovery of urgently needed targets and therapeutics for treatment of advanced liver disease and cancer prevention."
+  ],
+  "title": "A human liver cell-based system modeling a clinical prognostic liver signature combined with single-cell RNA-Seq for discovery of liver disease therapeutics",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "accession": "GSE289433",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE289433",
+  "last_update_date": "Mar 10 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Primary human Hepatic Stellate Cells isolated from four donors were activated by plating and transfected with scrambled siRNA or siRNA targeting REST. RNA was isolated 12 days following transfection and plating.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "41606712"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1222899"
+  ],
+  "sample_count": 8,
+  "submission_date": "Feb 12 2025",
+  "summary": [
+    "Activation of hepatic stellate cells (HSC) is a key component in the progression of metabolic dysfunction-associated steatotic liver disease (MASLD) to metabolic-associated steatohepatitis (MASH) and hepatocellular carcinoma (HCC). Targeting HSC activation to prevent MASH and HCC pathogenesis showed promise in mouse models, suggesting that development of therapeutic strategies to abrogate HSC activation could be a promising approach to combat liver disease. Metabolic alterations were suggested to play a pivotal role in HSC activation, yet the mechanisms linking these processes have not been fully elucidated. Here we observe a key role of the RE1-silencing transcription factor (REST) in linking HSC activation, lipid utilization, and mitochondrial metabolism, suggesting that REST is a mechanistic link between HSC metabolism and activation."
+  ],
+  "title": "Transcription factor REST regulates activation and growth of human Hepatic Stellate Cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

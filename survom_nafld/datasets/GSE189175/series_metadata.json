@@ -1,0 +1,29 @@
+{
+  "accession": "GSE189175",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE189175",
+  "last_update_date": "Jan 31 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Snap-frozen archived liver biopsies from tumor and adjacent non-tumor resections were processed from 3 patients with fatty liver disease and HCC (n=3 paired; n=6 total). Nuclei were isolated into a suspension and immediately processed with the 10X Chromium platform following the Single Cell 3' v3 protocol for library preparation. Libraries were then sequenced on an Illumina novaSeq 6000.",
+  "platform_ids": [
+    "GPL30982"
+  ],
+  "pubmed_ids": [
+    "35581624",
+    "37224770",
+    "38991381"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA781850"
+  ],
+  "sample_count": 6,
+  "submission_date": "Nov 19 2021",
+  "summary": [
+    "Hepatocellular carcinoma (HCC) is the fourth leading cause of cancer-related death world-wide. The prevalence of non-alcoholic fatty liver disease (NAFLD) has been rising, along with an increase in NAFLD-related HCC.  To investigate cell-type composition in NAFLD and HCC, we performed single-nucleus RNA-seq (snRNA-seq) of patients with fatty liver disease in order to transcriptionally characterize cell-types in an unbiased manner. Out data reveal a large amount of heterogeneity in hepatocyte populations, as well as recovering all expected liver cell-types."
+  ],
+  "title": "Single-nucleus RNA-seq of NASH HCC liver tissue",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

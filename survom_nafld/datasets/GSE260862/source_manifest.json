@@ -1,0 +1,33 @@
+{
+  "accession": "GSE260862",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE260862",
+  "gsm_accessions": [
+    "GSM8125776",
+    "GSM8125777",
+    "GSM8125778",
+    "GSM8125779",
+    "GSM8125780",
+    "GSM8125781"
+  ],
+  "platform_accessions": [
+    "GPL24676"
+  ],
+  "sources": [
+    {
+      "bytes": 3013,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:20Z",
+      "sha256": "28c775869d1a3bd8d5110e023e165012e04f30efbc3841dfcde54c58aadc7f3a",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE260nnn/GSE260862/soft/GSE260862_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [],
+  "tool_version": "0.1.0"
+}

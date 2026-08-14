@@ -1,0 +1,49 @@
+{
+  "accession": "GSE233808",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233808",
+  "gsm_accessions": [
+    "GSM7437129",
+    "GSM7437131",
+    "GSM7437132",
+    "GSM7437134",
+    "GSM7437135",
+    "GSM7437136",
+    "GSM7437137",
+    "GSM7437138",
+    "GSM7437139",
+    "GSM7437140",
+    "GSM7437141",
+    "GSM7437142"
+  ],
+  "platform_accessions": [
+    "GPL20301",
+    "GPL24676"
+  ],
+  "sources": [
+    {
+      "bytes": 2719,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:20Z",
+      "sha256": "dea687f80d1efd8bf47fd7e2ad740d537a598bd8aa8c57c9fcaa6e775b49fe3c",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE233nnn/GSE233808/soft/GSE233808_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7437nnn/GSM7437135/suppl/GSM7437135_rmdup_fastp15_SHL2-nc-1-inputAligned.sortedByCoord.out_normalized.bw",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7437nnn/GSM7437136/suppl/GSM7437136_rmdup_fastp15_SHL2-nc-1-IPAligned.sortedByCoord.out_normalized.bw",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7437nnn/GSM7437137/suppl/GSM7437137_rmdup_fastp15_SHL2-nc-2-inputAligned.sortedByCoord.out_normalized.bw",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7437nnn/GSM7437138/suppl/GSM7437138_rmdup_fastp15_SHL2-nc-2-IPAligned.sortedByCoord.out_normalized.bw",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7437nnn/GSM7437139/suppl/GSM7437139_rmdup_fastp15_SHL2-sh2-inputAligned.sortedByCoord.out_normalized.bw",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7437nnn/GSM7437140/suppl/GSM7437140_rmdup_fastp15_SHL2-sh2-IPAligned.sortedByCoord.out_normalized.bw",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7437nnn/GSM7437141/suppl/GSM7437141_rmdup_fastp15_SHL2-sh3-inputAligned.sortedByCoord.out_normalized.bw",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM7437nnn/GSM7437142/suppl/GSM7437142_rmdup_fastp15_SHL2-sh3-IPAligned.sortedByCoord.out_normalized.bw"
+  ],
+  "tool_version": "0.1.0"
+}

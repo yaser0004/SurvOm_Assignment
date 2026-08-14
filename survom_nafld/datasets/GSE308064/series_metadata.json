@@ -1,0 +1,25 @@
+{
+  "accession": "GSE308064",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE308064",
+  "last_update_date": "Mar 05 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-seq dataset of neutrophis and lneutrophil extracellular trapping network intervening in human liver stellate cell LX-2",
+  "platform_ids": [
+    "GPL23227"
+  ],
+  "pubmed_ids": [
+    "41480748"
+  ],
+  "relations": [],
+  "sample_count": 6,
+  "submission_date": "Sep 15 2025",
+  "summary": [
+    "Neutrophils play a pivotal role in the progression of metabolic-associated steatohepatitis (MASH) by mediating inflammatory responses. However, the heterogeneity of neutrophil subsets in MASH and their specific contributions to disease progression remain unclear. In this study, analysis of liver biopsies from 265 patients revealed a strong association between elevated neutrophil counts and MASH severity, particularly fibrosis. Five distinct neutrophil subsets were identified in human liver tissue, with PAD4\u207a neutrophils serving as key drivers in MASH progression. Mechanistically, PAD4\u207a neutrophils generate neutrophil extracellular traps (NETs) and activate hepatic stellate cells via the TAOK1-dependent MAPK signaling pathway. Inhibition of PAD4\u207a neutrophils in vivo attenuated the progression of liver fibrosis without exacerbating liver injury. Collectively, these findings elucidate the pivotal involvement of PAD4\u207a neutrophils in MASH progression and identify them as promising therapeutic targets for mitigating fibrosis and inflammation."
+  ],
+  "title": "PAD4\u207a Neutrophils Promote Hepatic Stellate Cell Activation and Accelerate MASH Fibrosis Progression via NETs-DNA/TAOK1/MAPK Pathways",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

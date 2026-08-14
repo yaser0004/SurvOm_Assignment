@@ -1,0 +1,32 @@
+{
+  "accession": "GSE192741",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE192741",
+  "last_update_date": "Apr 06 2024",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Single cell RNA Seq = Liver CD45+ and CD45- cells derived from mice fed a standard diet (SD) or western diet (WD; fat, cholesterol and sugar). Liver CD45+ and CD45- cells derived from healthy and obese humans.",
+  "platform_ids": [
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "35021063",
+    "36304458"
+  ],
+  "relations": [
+    "SubSeries of: GSE192742",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA793008",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP352825"
+  ],
+  "sample_count": 15,
+  "submission_date": "Dec 29 2021",
+  "summary": [
+    "Analysis of CITE-seq data , Nuclei RNA-seq data and single cell RNA-seq data on CD45+ and CD45- cells isolated from the livers of mice fed a standard diet (SD) or western diet (WD; fat, cholesterol and sugar), from healthy and steatotic human livers, from hamster liver, pig liver, chicken liver, monkey liver and zebrafish liver. We also performed Spatial Transcriptomics analysis on heatlhy mouse livers, NAFLD mouse livers, healthy human livers and steatotic human livers."
+  ],
+  "title": "Spatial proteogenomics reveals distinct and evolutionarily-conserved hepatic macrophage niches (spatial)",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

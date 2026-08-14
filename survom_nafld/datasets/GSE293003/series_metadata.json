@@ -1,0 +1,25 @@
+{
+  "accession": "GSE293003",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE293003",
+  "last_update_date": "Jul 30 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "HepG2 WT and FoxO1-KO cells were cultured in Dulbecco's modified Eagle's medium supplemented with 10% fetal bovine serum and 1% antibiotic . The cells were collected for transcriptome sequencing after treatment with 1\u03bcg/mL LPS for 24 h.",
+  "platform_ids": [
+    "GPL34284"
+  ],
+  "pubmed_ids": [
+    "40695937"
+  ],
+  "relations": [],
+  "sample_count": 6,
+  "submission_date": "Mar 26 2025",
+  "summary": [
+    "The transcription factor Forkhead box protein O1 (FoxO1) is a well-established regulator of glucose and lipid metabolism, yet its role in metabolic dysfunction-associated steatohepatitis (MASH) pathogenesis remains debated. This study investigates hepatocyte-specific FoxO1 mechanisms driving hepatic inflammation in MASH. Using hepatocyte-specific FoxO1-knockout (KO) mice fed a methionine-choline-deficient diet and LPS-treated FoxO1-KO cells, we demonstrate FoxO1 depletion exacerbates hepatic inflammation, ballooning degeneration, and upregulates TNF-alpha, CXCL8, and CXCL2 in vivo and in vitro. Transcriptomics linked FoxO1 deficiency to enriched pro-inflammatory pathways and suppressed cysteine/methionine metabolism."
+  ],
+  "title": "Hepatocyte FoxO1 depletion exacerbates hepatic inflammation in MASH",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

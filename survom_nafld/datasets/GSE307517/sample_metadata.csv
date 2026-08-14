@@ -1,0 +1,13 @@
+gsm,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM9225863,liver,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Mus musculus,GPL35959,,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX30408912,,HFD-replicate_1
+GSM9225864,liver,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Mus musculus,GPL35959,,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX30408913,,HFD-replicate_2
+GSM9225865,liver,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Mus musculus,GPL35959,,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX30408914,,HFD-replicate_3
+GSM9225866,liver,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Mus musculus,GPL35959,,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX30408915,,HFD-SG34-48-replicate_1
+GSM9225867,liver,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Mus musculus,GPL35959,,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX30408916,,HFD-SG34-48-replicate_2
+GSM9225868,liver,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Mus musculus,GPL35959,,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX30408917,,HFD-SG34-48-replicate_3
+GSM9241120,,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL35109,Hep-G2,,SRA,Hep-G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX30504244,,Hep-G2_replicate_1
+GSM9241121,,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL35109,Hep-G2,,SRA,Hep-G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX30504245,,Hep-G2_replicate_2
+GSM9241122,,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL35109,Hep-G2,,SRA,Hep-G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX30504246,,Hep-G2_replicate_3
+GSM9241123,,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL35109,Hep-G2,,SRA,Hep-G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX30504247,,Hep-G2_SG34-48-replicate_1
+GSM9241124,,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL35109,Hep-G2,,SRA,Hep-G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX30504248,,Hep-G2_SG34-48-replicate_2
+GSM9241125,,GenoLab M,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL35109,Hep-G2,,SRA,Hep-G2,https://www.ncbi.nlm.nih.gov/sra?term=SRX30504249,,Hep-G2_SG34-48-replicate_3

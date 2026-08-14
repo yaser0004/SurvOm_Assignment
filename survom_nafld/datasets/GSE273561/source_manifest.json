@@ -1,0 +1,68 @@
+{
+  "accession": "GSE273561",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273561",
+  "gsm_accessions": [
+    "GSM8432342",
+    "GSM8432343",
+    "GSM8432344",
+    "GSM8432345",
+    "GSM8432346",
+    "GSM8432347",
+    "GSM8432348",
+    "GSM8432349",
+    "GSM8432350",
+    "GSM8432351",
+    "GSM8432352",
+    "GSM8432353",
+    "GSM8432354",
+    "GSM8443184",
+    "GSM8443185",
+    "GSM8443186",
+    "GSM8443187",
+    "GSM8443188",
+    "GSM8443189",
+    "GSM8443190",
+    "GSM8443191",
+    "GSM8443192",
+    "GSM8443193",
+    "GSM8443194",
+    "GSM8443195",
+    "GSM8443196",
+    "GSM8443197"
+  ],
+  "platform_accessions": [
+    "GPL24247",
+    "GPL24676"
+  ],
+  "sources": [
+    {
+      "bytes": 5044,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:26Z",
+      "sha256": "a9e5aa0a5b7922786530669f733d8904eca3ead567ab1b2eb5177cca1ad76b86",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE273nnn/GSE273561/soft/GSE273561_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432342/suppl/GSM8432342_A624_filtered_feature_bc_matrix.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432342/suppl/GSM8432342_A624_molecule_info.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432342/suppl/GSM8432342_A624_raw_feature_bc_matrix.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432343/suppl/GSM8432343_A625_filtered_feature_bc_matrix.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432343/suppl/GSM8432343_A625_molecule_info.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432343/suppl/GSM8432343_A625_raw_feature_bc_matrix.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432344/suppl/GSM8432344_A757_filtered_feature_bc_matrix.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432344/suppl/GSM8432344_A757_molecule_info.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432344/suppl/GSM8432344_A757_raw_feature_bc_matrix.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432345/suppl/GSM8432345_A894_filtered_feature_bc_matrix.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432345/suppl/GSM8432345_A894_molecule_info.h5",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8432nnn/GSM8432345/suppl/GSM8432345_A894_raw_feature_bc_matrix.h5"
+  ],
+  "tool_version": "0.1.0"
+}

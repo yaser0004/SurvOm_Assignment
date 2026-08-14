@@ -1,0 +1,45 @@
+{
+  "accession": "GSE275942",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE275942",
+  "gsm_accessions": [
+    "GSM8488418",
+    "GSM8488419",
+    "GSM8488420",
+    "GSM8488421",
+    "GSM8488422",
+    "GSM8488423",
+    "GSM8488424",
+    "GSM8488425",
+    "GSM8490658",
+    "GSM8582601",
+    "GSM8582602"
+  ],
+  "platform_accessions": [
+    "GPL28330",
+    "GPL29480"
+  ],
+  "sources": [
+    {
+      "bytes": 5453,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:25Z",
+      "sha256": "5fba0938da253efd99f717f6ee7e4861d75a7aceb375bd30fdfe543bcf670228",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE275nnn/GSE275942/soft/GSE275942_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8490nnn/GSM8490658/suppl/GSM8490658_YJlab_chip_S001_hepatic_mm9p_cpm.bw",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8582nnn/GSM8582601/suppl/GSM8582601_Human_HSC_Male_RNA_experssion.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8582nnn/GSM8582601/suppl/GSM8582601_Human_HSC_Male_gene_experssion.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8582nnn/GSM8582602/suppl/GSM8582602_Human_HSC_Female_RNA_experssion.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8582nnn/GSM8582602/suppl/GSM8582602_Human_HSC_Female_gene_experssion.txt.gz"
+  ],
+  "tool_version": "0.1.0"
+}

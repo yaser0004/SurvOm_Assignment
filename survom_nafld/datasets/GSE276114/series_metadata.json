@@ -1,0 +1,27 @@
+{
+  "accession": "GSE276114",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276114",
+  "last_update_date": "Mar 17 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "178 snap-frozen explant liver samples and/or biopsies were processed for RNA sequencing on the Illumina NovaSeq6000 system.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39889710"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1154708"
+  ],
+  "sample_count": 177,
+  "submission_date": "Aug 30 2024",
+  "summary": [
+    "While technological advancements have improved our understanding of fibrogenesis, identifying advanced fibrosis in the general population remains challenging due to clinical heterogeneity influenced by underlying causes, comorbidities, and lifestyle factors. A systems-level characterization of metabolic and signaling dysregulation could effectively capture the signatures driving liver fibrosis across different etiologies. In this study, we utilized a data-driven multi-omics approach, encompassing liver transcriptomics and plasma proteomics, to thoroughly characterize patients across the pathological spectrum, from early-stage fibrosis to cirrhosis and associated HCC."
+  ],
+  "title": "Integrative proteo-transcriptomic characterization of advanced fibrosis in chronic liver disease across etiologies",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

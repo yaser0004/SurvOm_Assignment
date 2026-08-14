@@ -1,0 +1,27 @@
+{
+  "accession": "GSE249997",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE249997",
+  "last_update_date": "Nov 05 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "This study examined associations between liver dysfunction and brain health in middle-aged participants with obesity and early-stage metabolic dysfunction-associated steatotic liver disease (MASLD) by measuring brain magnetic resonance imaging (and quatification), neuropsychological tests and characterization of liver biopsies (histological, biochemical and liver RNAseq gene-expression).",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39391513"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1051582"
+  ],
+  "sample_count": 77,
+  "submission_date": "Dec 12 2023",
+  "summary": [
+    "It is unclear whether liver dysfunction is implicated in obesity-related detrimental changes in brain structure and function. This study examineed associations between liver dysfunction and brain health in middle-aged participants with obesity and early-stage metabolic dysfunction-associated steatotic liver disease (MASLD). Using brain magnetic resonance imaging, neuropsychological tests, histological and biochemical characterization of liver biopsies, we showed that specific hallmarks of liver dysfunction (e.g. free cholesterol accumulation, early fibrosis) are associated with increased white matter hyperintensities and larger variations in cerebral blood flow indicating poorer cerebrovascular function. These associations were independent of age, sex, body mass index, diabetes and hypertension and corroborated by independent liver RNA-seq and pathway analysis highlighting the role of liver inflammation and cellular stress. Further associations with circulating IL-6 suggest systemic low-grade inflammation as potential mediator between liver and brain. Hence, in obesity at midlife, cerebrovascular health is independently associated with the pathological state of the liver."
+  ],
+  "title": "Liver dysfunction in obesity is associated with cerebrovascular health independently of diabetes and hypertension.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

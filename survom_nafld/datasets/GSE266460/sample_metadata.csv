@@ -1,0 +1,7 @@
+gsm,canon__tissue,canon__treatment,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__cell type,raw__tissue,raw__treatment,sample_type,source_name,sra_relation,supplementary_files,title
+GSM8247442,Liver,PTPF,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,HepaRG,Hepatocytes,Liver,PTPF,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX24437046,,"Liver, PTPF1"
+GSM8247443,Liver,PTPF,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,HepaRG,Hepatocytes,Liver,PTPF,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX24437047,,"Liver, PTPF2"
+GSM8247444,Liver,PTPF,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,HepaRG,Hepatocytes,Liver,PTPF,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX24437048,,"Liver, PTPF3"
+GSM8247445,Liver,STATF,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,HepaRG,Hepatocytes,Liver,STATF,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX24437049,,"Liver, STATF1"
+GSM8247446,Liver,STATF,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,HepaRG,Hepatocytes,Liver,STATF,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX24437050,,"Liver, STATF2"
+GSM8247447,Liver,STATF,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,HepaRG,Hepatocytes,Liver,STATF,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX24437051,,"Liver, STATF3"

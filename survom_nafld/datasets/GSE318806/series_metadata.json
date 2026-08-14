@@ -1,0 +1,27 @@
+{
+  "accession": "GSE318806",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE318806",
+  "last_update_date": "May 14 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Blood from biological male or female human donors were collected and PBMCs were isolated at UCLA's Virology Core. 100 x 106  blood cells were collected from 3-5 donors with no clinical information. PBMCs were centrifuged at 100 g for 5 minutes then 25 x 107 single cells were seeded onto 10 cm polystyrene treated culture plates (VWR) with 10% adherence and allowed to differentiate into macrophages in the presence of 50 ng*ml-1 Human M-CSF recombinant protein (PeproTech, 300-25-100) in the same RPMI composition above. Cells were provided an additional 5 mL of M-CSF containing media 5 days into differentiation. 7 days after seeding, confluent macrophage cultures were placed under similar senescence inducing conditions using irradiation and doxorubicin (Thermo).",
+  "platform_ids": [
+    "GPL34284"
+  ],
+  "pubmed_ids": [
+    "41991686"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1420657"
+  ],
+  "sample_count": 9,
+  "submission_date": "Feb 09 2026",
+  "summary": [
+    "Cellular senescence drives chronic sterile inflammation during aging via the senescence-associated secretory phenotype (SASP); however, the cell types responsible for this pathology remain poorly defined. Here, we identify p21\u207aTrem2\u207a senescent macrophages as a major source of inflammaging. Using primary mouse and human macrophages, we developed a model of DNA damage and cholesterol-induced senescence and applied multi-omic profiling to fully characterize senescent macrophages. We found that senescent macrophages exhibit a distinctive p21-TREM2 expression profile and SASP, driven in part by type-I interferon signaling via secreted mitochondrial DNA. We also found that senescent macrophage accumulation occurs in aged and MASLD mouse livers and is enriched in human cirrhotic liver tissue. Finally, senolytic treatment targeting senescent macrophages reduced liver inflammation and steatosis in both aged and MASLD mice. Together, these findings establish macrophage senescence as a central driver of chronic inflammation in aging and metabolic liver disease, highlighting a promising, tractable therapeutic target."
+  ],
+  "title": "P21+TREM2+-Senescent Macrophages Fuel Inflammaging and Metabolic Dysfunction-Associated Steatotic Liver Disease. [Blood]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

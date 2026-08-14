@@ -1,0 +1,28 @@
+{
+  "accession": "GSE126798",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126798",
+  "last_update_date": "Jul 02 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Total RNA obtained from HBV infected patient-derived or healthy donor liver organoids",
+  "platform_ids": [
+    "GPL17303"
+  ],
+  "pubmed_ids": [
+    "34328417"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA523341",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP186369"
+  ],
+  "sample_count": 25,
+  "submission_date": "Feb 20 2019",
+  "summary": [
+    "Here we interrogate the potential of human liver organoids as a platform for modeling HBV infection and related tumorigenesis. We show that organoids derived from HBV-infected patients display an aberrant early cancer gene signature, which clusters with the HCC cohort on the TCGA LIHC dataset and away from healthy liver tissue."
+  ],
+  "title": "Human liver organoids; a patient-derived primary model for HBV Infection, Replication and Related Hepatocellular Carcinoma",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "accession": "GSE279791",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE279791",
+  "last_update_date": "Apr 13 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "To invesgate the effect of GCN5 depeltion on gene expression in hepatocytes. GCN5 knockout and wild-type HL-7702 cells were separately seeded into 6-well plates, treated with PAOA for 24 h, and harvested for RNA-seq.",
+  "platform_ids": [
+    "GPL29480"
+  ],
+  "pubmed_ids": [
+    "41698947"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1174692"
+  ],
+  "sample_count": 6,
+  "submission_date": "Oct 18 2024",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) is a burden of global health, yet the mechanism of the disease is not fully elucidated. General control non-repressed protein 5 (GCN5) is histone acetyltransferases. We invesgated the effect of GCN5 deletion on gene expression in a NAFLD cell model."
+  ],
+  "title": "Effect of GCN5 depletion in hepatocytes in NAFLD",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

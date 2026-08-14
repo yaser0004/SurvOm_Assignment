@@ -1,0 +1,25 @@
+{
+  "accession": "GSE317876",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE317876",
+  "last_update_date": "Feb 28 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-seq was performed on human stem cell-derived liver organoids under three experimental paradigms: (i) HB-orgs treated with ATT during differentiation (Day 6), (ii) mature P-hep-orgs treated with ATT to assess maturation, and (iii) P-hep-orgs subjected to FFA-induced steatosis with or without ATT co-treatment. Each condition included biological replicates (n=3). This design aims to define ATT\u2019s transcriptomic impact on hepatic lineage specification, functional maturation, and alleviation of metabolic dysfunction.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1415747"
+  ],
+  "sample_count": 21,
+  "submission_date": "Jan 28 2026",
+  "summary": [
+    "This study presents an integrated transcriptomic analysis establishing Artemisitene (ATT) as a potent modulator for both engineering functional human liver organoids and treating metabolic-associated steatotic liver disease (MASLD). RNA-seq was conducted on stem cell-derived liver organoids under three key conditions: ATT-driven hepatic differentiation, ATT-enhanced functional maturation, and ATT intervention in an FFA-induced MASLD model. ATT robustly promoted hepatic lineage specification and maturation by activating drug metabolism and key transport pathways. Crucially, in the disease model, ATT exerted a therapeutic effect by globally reversing FFA-induced transcriptional dysregulation, specifically by inhibiting lipogenic programs (via genes like SCD1 and MLXIPL) and activating fatty acid oxidation and antioxidant defenses. Gene set enrichment analysis pinpointed the AMPK signaling pathway as a central mechanism mediating these benefits. These findings position ATT as a promising candidate for improving organoid-based liver models and developing novel therapeutics for MASLD."
+  ],
+  "title": "A multi-stage transcriptomic resource of Artemisitene (ATT) for enhancing liver organoid functionality and treating metabolic liver disease.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

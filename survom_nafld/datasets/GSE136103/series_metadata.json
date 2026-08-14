@@ -1,0 +1,32 @@
+{
+  "accession": "GSE136103",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136103",
+  "last_update_date": "Jan 10 2022",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Single-cell transcriptomic data are presented from 5 healthy livers, 5 cirrhotic livers and 4 PBMC samples from cirrhotic patients. We also present single-cell transcriptomic data on hepatic macrophages from healthy mice or mice following chronic carbon tetrachloride administration.",
+  "platform_ids": [
+    "GPL20301",
+    "GPL21103"
+  ],
+  "pubmed_ids": [
+    "31597160",
+    "31722201",
+    "34887405"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA561303",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP218975"
+  ],
+  "sample_count": 26,
+  "submission_date": "Aug 21 2019",
+  "summary": [
+    "We profile the transcriptomes of over 100,000 human single cells, yielding molecular definitions for non-parenchymal cell types present in healthy and cirrhotic human liver. We uncover a novel scar-associated TREM2+CD9+ macrophage subpopulation, which expands in liver fibrosis, differentiates from circulating monocytes, has a corollary population in mouse liver fibrosis and is pro-fibrogenic. We also define novel ACKR1+ and PLVAP+ endothelial cells which expand in cirrhosis, are topographically scar-restricted and enhance leucocyte transmigration. Multi-lineage ligand-receptor modelling of interactions between the novel scar-associated macrophages, endothelial cells and PDGFR\u03b1+ collagen-producing mesenchymal cells reveals intra-scar activity of several pro-fibrogenic pathways including TNFRSF12A, PDGFR and NOTCH signalling. Our work dissects unanticipated aspects of the cellular and molecular basis of human organ fibrosis at a single-cell level, and provides the conceptual framework required to discover rational therapeutic targets in liver cirrhosis."
+  ],
+  "title": "Resolving the fibrotic niche of human liver cirrhosis using single-cell transcriptomics",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,7 @@
+gsm,canon__treatment,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__cell type,raw__genotype,raw__treatment,sample_type,source_name,sra_relation,supplementary_files,title
+GSM7009321,Resinacein S,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,L02,normal human hepatic cells,WT,Resinacein S,SRA,L02,https://www.ncbi.nlm.nih.gov/sra?term=SRX19210969,,Res S-1
+GSM7009322,Resinacein S,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,L02,normal human hepatic cells,WT,Resinacein S,SRA,L02,https://www.ncbi.nlm.nih.gov/sra?term=SRX19210970,,Res S-2
+GSM7009323,Resinacein S,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,L02,normal human hepatic cells,WT,Resinacein S,SRA,L02,https://www.ncbi.nlm.nih.gov/sra?term=SRX19210971,,Res S-3
+GSM7009324,DMSO,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,L02,normal human hepatic cells,WT,DMSO,SRA,L02,https://www.ncbi.nlm.nih.gov/sra?term=SRX19210972,,DMSO-1
+GSM7009325,DMSO,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,L02,normal human hepatic cells,WT,DMSO,SRA,L02,https://www.ncbi.nlm.nih.gov/sra?term=SRX19210973,,DMSO-2
+GSM7009326,DMSO,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,L02,normal human hepatic cells,WT,DMSO,SRA,L02,https://www.ncbi.nlm.nih.gov/sra?term=SRX19210974,,DMSO-3

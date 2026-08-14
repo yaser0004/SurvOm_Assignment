@@ -1,0 +1,21 @@
+gsm,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__ajcc stage,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM5009643,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,651_NT_RNA-seq
+GSM5009644,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 1,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,651_T_RNA-seq
+GSM5009645,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,678_NT_RNA-seq
+GSM5009646,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 1,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,678_T_RNA-seq
+GSM5009647,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,707_NT_RNA-seq
+GSM5009648,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 3,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,707_T_RNA-seq
+GSM5009649,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,715_NT_RNA-seq
+GSM5009650,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 1,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,715_T_RNA-seq
+GSM5009651,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,717_NT_RNA-seq
+GSM5009652,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 1,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,717_T_RNA-seq
+GSM5009653,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,754_NT_RNA-seq
+GSM5009654,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 1,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,754_T_RNA-seq
+GSM5009655,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,796_NT_RNA-seq
+GSM5009656,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 1,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,796_T_RNA-seq
+GSM5009657,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,705_NT_RNA-seq
+GSM5009658,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 3,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,705_T_RNA-seq
+GSM5009659,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,741_NT_RNA-seq
+GSM5009660,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 3,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,741_T_RNA-seq
+GSM5009661,Adjacent non-tumor liver tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,,Adjacent non-tumor liver tissue,SRA,Adjacent non-tumor liver tissue from NAFLD-HCC patient,,,768_NT_RNA-seq
+GSM5009662,Tumor tissue,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL20301,AJCC 3,Tumor tissue,SRA,Tumor tissue from NAFLD-HCC patient,,,768_T_RNA-seq

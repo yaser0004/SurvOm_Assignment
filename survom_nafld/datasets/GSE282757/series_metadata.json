@@ -1,0 +1,25 @@
+{
+  "accession": "GSE282757",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282757",
+  "last_update_date": "Jun 01 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Cross-sectional observational study comparing gut phenotypes in participants with MASLD and disease-free controls.",
+  "platform_ids": [
+    "GPL30173"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1190373"
+  ],
+  "sample_count": 39,
+  "submission_date": "Nov 25 2024",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD) affects ~40% of adults, but causal mechanisms remain elusive. Preclinical models implicate the gut microbiota in MASLD pathogenesis, yet translation to humans is hampered by instability and variability in microbial composition. We addressed these gaps by investigating whether stable, quantitative gut phenotypes including microbiota encroachment are pathological features of MASLD. Sigmoid colon biopsies were collected from participants with and without imaging-defined MASLD. Mucus immunostaining was paired with fluorescent in situ hybridization to image and quantify the distance separating bacteria from the colonic epithelium (i.e., encroachment). Secondary outcomes included intestinal permeability, colon histopathology, and estimates of central and adipose tissue insulin resistance (Adipo-IR). RNA-sequencing was combined with weighted gene network correlation analysis to explore relationships between colonic gene expression and clinical endpoints. Microbiota encroachment did not differentiate participants with MASLD from controls. Circulating lipopolysaccharide and flagellin-specific immunoglobulins (i.e., intestinal permeability), and colon histopathology were similar across cohorts. Adipo-IR and microbiota encroachment were related to a colonic gene network regulating insulin and lipid metabolism. Pathway analysis of this network revealed genes involved in hepatic steatosis and fibrosis, suggesting a gut-adipose-liver crosstalk."
+  ],
+  "title": "Evidence of a gut-adipose-liver axis: microbiota encroachment in metabolic dysfunction-associated steatotic liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

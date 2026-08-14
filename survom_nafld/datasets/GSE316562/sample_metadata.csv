@@ -1,0 +1,16 @@
+gsm,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__cell type,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM9456068,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822212,,NC_1
+GSM9456069,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822213,,NC_2
+GSM9456070,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822214,,NC_3
+GSM9456071,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822215,,FFA_1
+GSM9456072,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822216,,FFA_2
+GSM9456073,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822217,,FFA_3
+GSM9456074,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822218,,FCL_1
+GSM9456075,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822219,,FCL_2
+GSM9456076,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822220,,FCL_3
+GSM9456077,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822221,,FCM_1
+GSM9456078,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822222,,FCM_2
+GSM9456079,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822223,,FCM_3
+GSM9456080,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822224,,FCH_1
+GSM9456081,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822225,,FCH_2
+GSM9456082,liver,Illumina NovaSeq X Plus,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL34284,HepG2,hepatocyte,liver,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31822226,,FCH_3

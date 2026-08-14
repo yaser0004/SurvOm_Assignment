@@ -1,0 +1,25 @@
+{
+  "accession": "GSE234415",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE234415",
+  "last_update_date": "Jun 07 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We treated PCLS from 12 patients with MAFLD with S217879 or Elafibranor (PPAR\u03b1/\u03b4 agonist used as a referent molecule) for two days. We then performed gene expression profiling analysis using data obtained from RNA-seq",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA981204"
+  ],
+  "sample_count": 36,
+  "submission_date": "Jun 07 2023",
+  "summary": [
+    "Background and aims: Oxidative stress triggers nonalcoholic steatohepatitis (NASH) and fibrosis. Previous animal studies demonstrated that the transcription factor NRF2, the master regulator of antioxidant response, protects against NASH and fibrosis. S217879, a new generation NRF2 activator has been recently shown to trigger NASH resolution and to reduce established fibrosis in rodents. Our aim was to evaluate the therapeutic potential of S217879 in human metabolic associated fatty liver disease (MAFLD) and its underlying mechanisms using the relevant experimental 3D model of patient-derived precision cut liver slices (PCLS). Methods: We treated PCLS from 12 patients with MAFLD with S217879 or Elafibranor (PPAR\u03b1/\u03b4 agonist used as a referent molecule) for two days. Safety and efficacy profiles, steatosis, liver injury, inflammation and fibrosis were assessed as well as mechanisms involved in NASH pathophysiology, namely antioxidant response, autophagy and ER-stress. Results: Neither Elafibranor nor S217879 had toxic effects at the tested concentrations on human PCLS with MAFLD. PPAR\u03b1/\u03b4 and NRF2 target genes (PDK4, FGF21 and NQO1, HMOX1, respectively) were strongly upregulated in PCLS in response to Elafibranor and S217879, respectively. Compared to untreated PCLS, Elafibranor and S217879-treated slices displayed lower triglycerides and reduced inflammation (IL-1\u03b2, IL-6, CCL2). Additional inflammatory markers (CCL5, STING, ICAM-1, VCAM-1) were downregulated by S217879. S217879 but not Elafibranor lowered DNA damages (p-H2A.X, RAD51, XRCC1) and apoptosis (cleaved Caspase-3), and inhibited fibrogenesis markers expression (\u03b1-SMA, COL1A1, COL1A2). Such effects were mediated through an improvement of lipid metabolism, activated antioxidant response and enhanced autophagic flux, without effect on ER-stress. Conclusion: This study highlights the therapeutic potential of a new NRF2 activator for NASH using patient-derived PCLS supporting the evaluation of NRF2 activating strategies in clinical trials."
+  ],
+  "title": "A new Nuclear-erythroid-2-Related Factor 2 activator for the treatment of human metabolic associated fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

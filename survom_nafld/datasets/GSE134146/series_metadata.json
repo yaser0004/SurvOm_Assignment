@@ -1,0 +1,26 @@
+{
+  "accession": "GSE134146",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134146",
+  "last_update_date": "Aug 03 2019",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "4 patients with NASH cirrhosis and 4 patients without NAFLD",
+  "platform_ids": [
+    "GPL21825"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA554093"
+  ],
+  "sample_count": 8,
+  "submission_date": "Jul 11 2019",
+  "summary": [
+    "The progression from steatosis to nonalcoholic steatohepatitis (NASH) in nonalcoholic fatty liver disease (NAFLD) patients is one of the major causes of liver-related death worldwide and have limited effective therapies. We comparing the circular RNomics of liver fibroblasts isolated from patients with NAFLD-caused cirrhosis and the ones without NAFLD."
+  ],
+  "title": "circRNA expression profiles of fibroblasts: normal vs. NASH cirrhosis",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Non-coding RNA profiling by array"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "accession": "GSE295362",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE295362",
+  "last_update_date": "Jul 22 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Transcriptome sequencing analysis of LX2 cells after PUM1 knockdown. The control group was LX2 cells without knockdown of PUM1.",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "40689527"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1254274"
+  ],
+  "sample_count": 6,
+  "submission_date": "Apr 22 2025",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD) has become the most common chronic liver disease globally. Abnormal crosstalk between hepatocytes and hepatic stellate cells (HSCs) leads to liver fibrosis and aggravates MASLD. We explored the role of the RNA-binding protein Pumilio in this process."
+  ],
+  "title": "Hepatocyte-derived Pumilio1-enriched exosomes inhibit HSC activation by suppressing tropomyosin-4 translation",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

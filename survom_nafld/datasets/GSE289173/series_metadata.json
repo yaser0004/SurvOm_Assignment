@@ -1,0 +1,27 @@
+{
+  "accession": "GSE289173",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE289173",
+  "last_update_date": "Jul 02 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Frozen liver tissues were processed to generate 10x Genomics-based snRNA-seq data in GENINUS (Seoul, Republic of Korea). Tissues were homogenized, and isolated nuclei was counted using flow cytometry (BD: FACSMelodyTM Cell sorter). 10x Genomics chromium instrument and cDNA synthesis kit v3 were used to generate barcoded cDNA libraries. cDNA library quality was determined using an Agilent Bioanalyzer. Two paired-end sequencing with a read length of 100 bp was performed with Illumina Novaseq6000.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "40562914"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1221860"
+  ],
+  "sample_count": 48,
+  "submission_date": "Feb 10 2025",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD) is increasingly recognized for its medical and socioeconomic impacts, driven by diverse genetic and environmental factors. To address the urgent need for individually tailored therapies, we performed single-cell expression quantitative trait loci (sc-eQTL) analysis on liver biopsies from 25 MASLD patients and 23 controls. This approach identified over 3,500 sc-eQTLs across major liver cell types and cell state-interacting eQTLs (ieQTLs) with significant enrichment for disease heritability (for MASLD trait, ieQTL enrichment odds ratio = 10.27). We integrated transcription factors (TFs) as upstream regulators of ieQTLs, revealing 601 functional units (\u201cquartets\u201d) composed of TFs, cell states, ieSNPs, and ieGenes. From these results, we pinpoint the loss of an eQTL in EFHD1 during hepatocyte maladaptation associated with genotype-specific regulation by FOXO1, further contributing to the risk of MASLD. Our approach underscores the role of eQTL analysis in capturing crucial genetic variations that influence gene expression and clinical outcomes in complex diseases."
+  ],
+  "title": "Single-cell eQTL analysis identifies genetic variation underlying metabolic dysfunction-associated steatohepatitis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

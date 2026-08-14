@@ -1,0 +1,28 @@
+{
+  "accession": "GSE233806",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233806",
+  "last_update_date": "Aug 23 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "To investigate the function of METTL3 in NAFLD-HCC, we established shMETTL3 in HKCI2 cell line, then performed RNA-seq, m6A-seq and ribo-seq",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "37586322"
+  ],
+  "relations": [
+    "SubSeries of: GSE233808",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA978023"
+  ],
+  "sample_count": 4,
+  "submission_date": "May 31 2023",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) is an emerging risk factor of hepatocellular carcinoma (HCC). However, the mechanism and target therapy on NAFLD-HCC are still unclear. Here, we identify that the N6-methyladenosine (m6A) methyltransferase METTL3 promotes NAFLD-HCC. Hepatocyte-specific Mettl3 knockin exacerbated NAFLD-HCC formation while Mettl3 knockout exerted an opposite effect in mice. Single-cell RNA-seq revealed that METTL3 suppressed antitumor immune response by reducing infiltration of Gzmb+ and IFN-\u03b3+ CD8+ T-cell, thereby facilitating immune escape. Mechanistically, METTL3 mediates SCAP mRNA m6A to promote its translation, leading to the activation of cholesterol biosynthesis. This enhanced secretion of cholesterol and cholesteryl esters, lipotoxins that impaired CD8+ T cell function in tumor microenvironment. Targeting of METTL3 by sgRNA, nanoparticle-siRNA, or pharmacological inhibitor (STM2457) in combination with anti-PD1 synergized to reinvigorate cytotoxic CD8+ T cells and mediate tumor regression. Together, METTL3 is a therapeutic target in NAFLD-HCC, especially in conjunction with immune checkpoint blockade (ICB) therapy."
+  ],
+  "title": "RNA N6-methyladenosine methyltransferase METTL3 drives NAFLD-HCC and is a therapeutic target for boosting immunotherapy [RNA-Seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

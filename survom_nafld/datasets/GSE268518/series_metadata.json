@@ -1,0 +1,27 @@
+{
+  "accession": "GSE268518",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268518",
+  "last_update_date": "Mar 13 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "mRNA profiles of duodenum derived organoids from healthy human (controls) and metabolic dysfnction-associated steatohepatitis (MASH) patients",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39996241"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1117492"
+  ],
+  "sample_count": 39,
+  "submission_date": "May 28 2024",
+  "summary": [
+    "Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive disease linked to conditions like fibrosis, cirrhosis, and liver cancer, often resulting in higher mortality rates, primarily due to cardiovascular events. While MASH is closely tied to metabolic syndrome, recent research underscores the importance of the gut-liver axis in its pathogenesis, an aspect less explored in human studies. To address this gap, duodenal epithelial organoids were generated from both MASH and healthy (controls) subjects. Organoid formation efficiency was similar between controls derived epithelial organoids (CDEOs) and MASH derived epithelial organoids (MDEOs) groups. Variability in growth patterns was observed, with MDEOs frequently exhibiting cystic spheroid morphology. MASH-derived organoids displayed altered homeostasis and digestive potential in the duodenal epithelium. Despite potential lineage bias, MDEOs retained their lipid metabolic capacity, possibly mediated by lipid oxidation in stem/progenitor cells. Notably, cell adhesion components were misexpressed in MASH-derived organoids, indicating significant intrinsic alterations in cell-cell adhesion potential compared to controls. However, MDEOs maintained transepithelial electric resistance and leak pathway integrity, indicating that the intestinal epithelial barrier remained functionally intact in MDEOs under tested conditions. This study sheds light on the intricate dynamics of duodenal epithelial alterations in MASH, highlighting potential therapeutic avenues for restoring intestinal homeostasis."
+  ],
+  "title": "Duodenal-derived organoids from MASH patients exhibit altered digestive homeostasis.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

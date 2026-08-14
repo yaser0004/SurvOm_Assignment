@@ -1,0 +1,29 @@
+{
+  "accession": "GSE150026",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE150026",
+  "last_update_date": "Jun 03 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We performed whole transcriptome analysis, and subsequent Gene Set Enrichment Analysis (GSEA) on paired liver biopsies, at baseline and 12 months after treatment  with tesamorelin (n = 18) or placebo (n = 21) on all participants who had available data of sufficient quality.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "32701508",
+    "34006921"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA630952",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP260407"
+  ],
+  "sample_count": 78,
+  "submission_date": "May 07 2020",
+  "summary": [
+    "Nonalcoholic fatty liver disease (NAFLD) is a common comorbidity among people living with HIV with a more aggressive course than in the general population. In a recent randomized placebo-controlled trial, we demonstrated that the growth hormone-releasing hormone analogue tesamorelin reduced liver fat and prevented fibrosis progression in HIV-associated NAFLD over one year. In the current study, we leveraged paired liver biopsy specimens from this trial to identify hepatic gene pathways that are differentially modulated by tesamorelin versus placebo to gain key insights into the biological underpinnings of its clinical effects."
+  ],
+  "title": "Effects of Tesamorelin on Hepatic Transcriptomic Signatures in HIV-Associated NAFLD",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

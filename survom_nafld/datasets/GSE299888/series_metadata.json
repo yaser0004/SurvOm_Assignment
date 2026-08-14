@@ -1,0 +1,27 @@
+{
+  "accession": "GSE299888",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE299888",
+  "last_update_date": "Feb 13 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "The effect of TLC-2716 on lipid accumulation was also evaluated in an induced pluripotent stem cell (iPSC)-derived human liver organoid (HLO) model established from human donors with different genetic backgrounds, including those with a known risk variant for MASH (the glucokinase regulatory protein [GCKR] rs1260326:C>T variant). Mutations in GCKR (GCKRTT) have been associated with increased hepatic DNL and plasma lipids, as well as metabolic diseases including diabetes and MASH. Briefly, the wildtype and GCKR mutation carried HLOs were exposed to high concentrations of oleate for three days to induce a steatotic MASH phenotype (sHLOs) and then treated with TLC-2716 or vehicle.",
+  "platform_ids": [
+    "GPL23227"
+  ],
+  "pubmed_ids": [
+    "41545590"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1277258"
+  ],
+  "sample_count": 12,
+  "submission_date": "Jun 16 2025",
+  "summary": [
+    "Despite advances in lipid-lowering treatment, atherosclerotic cardiovascular disease (ASCVD) remains the leading cause of mortality, underscoring the need for treatments that address residual risk. Targeting both the synthesis and clearance of triglyceride (TG)-rich lipoproteins is a promising approach. Liver X receptor (LXR) inhibition suppresses de novo lipogenesis and enhances clearance of TG-rich lipoproteins, but its clinical utility remains unexplored. Here, we demonstrate the pivotal role of LXR in lipid metabolism and metabolic diseases. In dysmetabolic animal models, LXR inverse agonists reduced plasma TG and cholesterol and improved insulin sensitivity by suppressing LXR activity and intestinal lipid absorption. Given concerns that systemic LXR inhibition may impair reverse cholesterol transport, we developed TLC-2716\u2014an orally-administered, gut- and liver-restricted LXR inverse agonist. In human liver organoids modeling steatohepatitis, TLC-2716 reduced lipid accumulation and downregulated inflammation and fibrotic gene expression. In a Phase 1 clinical trial (NCT05483998), 14-day treatment with TLC-2716 was safe and resulted in placebo-adjusted reductions up to 38.5% in plasma TG and 60.8% in postprandial remnant cholesterol. These results highlight the safety and therapeutic potential of TLC-2716 as a novel treatment for managing dyslipidemia and reducing residual ASCVD risk."
+  ],
+  "title": "Liver-specific LXR inverse agonist restores lipid homeostasis in animal models and humans",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

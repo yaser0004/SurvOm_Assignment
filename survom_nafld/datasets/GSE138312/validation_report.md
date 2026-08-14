@@ -1,0 +1,251 @@
+# Validation report: GSE138312
+
+Transcriptomic analysis of induced pluripotent stem cells (iPSC) and differentiated hepatocytes (iPSC-Heps) from a cohort of healthy subjects and patients with nonalcoholic fatty liver disease (NAFLD)
+
+<!-- computed -->
+Sample count: 74
+
+## Checks
+
+| id | status | observed |
+|---|---|---|
+| sample_count | PASS | 74 samples |
+| organism_consistency | PASS | Homo sapiens 74/74 |
+| source_tissue | WARN | liver-pattern source 0/74 |
+| library_strategy | PASS | RNA-Seq 74/74 |
+| library_source | PASS | transcriptomic 74/74 |
+| library_selection | PASS | cDNA 74/74 |
+| instrument_model | PASS | Illumina HiSeq 3000 74/74 |
+| metadata_completeness | WARN | no disease/diagnosis/group/stage-type canonical field reported anywhere |
+| disease_relevance | PASS | disease/fibrosis terms found in sample metadata (42 sample(s)) |
+| single_cell_or_spatial | PASS | no single-cell/spatial signal detected |
+| material_type | WARN | cell/culture terms in sample metadata: iPSC (74/74 samples) |
+| expression_data_availability | INFO | raw sequencing only (https://www.ncbi.nlm.nih.gov/sra?term=SRX6936046, https://www.ncbi.nlm.nih.gov/sra?term=SRX6936047, https://www.ncbi.nlm.nih.gov/sra?term=SRX6936048, https://www.ncbi.nlm.nih.gov/sra?term=SRX6936049, https://www.ncbi.nlm.nih.gov/sra?term=SRX6936050, and 69 more (see sample_metadata.csv)) |
+| series_matrix | INFO | present, metadata-only (GSE138312_series_matrix.txt.gz); samples are SRA-type with zero data rows |
+| raw_sra_availability | INFO | SRA/BioProject links recorded, not downloaded: https://www.ncbi.nlm.nih.gov/sra?term=SRX6936046, https://www.ncbi.nlm.nih.gov/sra?term=SRX6936047, https://www.ncbi.nlm.nih.gov/sra?term=SRX6936048, https://www.ncbi.nlm.nih.gov/sra?term=SRX6936049, https://www.ncbi.nlm.nih.gov/sra?term=SRX6936050, and 69 more (see sample_metadata.csv) |
+
+## Canonical field distributions
+
+- **sex**: female (42), male (32)
+
+## Field presence
+
+- cell type: 54/74
+- gender: 74/74 (canon: sex)
+- health status: 74/74
+
+## Evidence for WARN/FAIL checks
+
+### source_tissue (WARN)
+### metadata_completeness (WARN)
+### material_type (WARN)
+- GSM4105200 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105201 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105202 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105203 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105204 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105205 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105206 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105207 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105208 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105209 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105210 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105211 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105212 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105213 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105214 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105215 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105216 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105217 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105218 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105219 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105220 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105221 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105222 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105223 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105224 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105225 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105226 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4105227 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105228 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105229 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105230 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105231 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105232 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105233 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105234 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105235 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105236 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105237 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105238 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105239 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105240 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105241 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105242 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105243 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105244 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105245 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105246 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105247 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105248 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105249 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105250 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105251 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105252 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105253 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849524 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849525 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849526 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849527 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849528 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849529 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849530 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849531 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849532 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849533 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849534 / Sample_source_name_ch1: matched `iPSC` in "iPSC"
+- GSM4849535 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849536 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849537 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849538 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849539 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849540 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849541 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849542 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4849543 / Sample_source_name_ch1: matched `iPSC` in "iPSC-Heps"
+- GSM4105200 / Sample_title: matched `iPSC` in "C1iPSC Batch 1"
+- GSM4105201 / Sample_title: matched `iPSC` in "C2iPSC Batch 1"
+- GSM4105202 / Sample_title: matched `iPSC` in "C3iPSC Batch 1"
+- GSM4105203 / Sample_title: matched `iPSC` in "C4iPSC Batch 1"
+- GSM4105204 / Sample_title: matched `iPSC` in "C5iPSC Batch 1"
+- GSM4105205 / Sample_title: matched `iPSC` in "C6iPSC Batch 1"
+- GSM4105206 / Sample_title: matched `iPSC` in "C7iPSC Batch 1"
+- GSM4105207 / Sample_title: matched `iPSC` in "C8iPSC Batch 1"
+- GSM4105208 / Sample_title: matched `iPSC` in "C9iPSC Batch 1"
+- GSM4105209 / Sample_title: matched `iPSC` in "C10iPSC Batch 1"
+- GSM4105210 / Sample_title: matched `iPSC` in "C11iPSC Batch 1"
+- GSM4105211 / Sample_title: matched `iPSC` in "C12iPSC Batch 1"
+- GSM4105212 / Sample_title: matched `iPSC` in "C13iPSC Batch 1"
+- GSM4105213 / Sample_title: matched `iPSC` in "C14iPSC Batch 1"
+- GSM4105214 / Sample_title: matched `iPSC` in "N1iPSC Batch 1"
+- GSM4105215 / Sample_title: matched `iPSC` in "N2iPSC Batch 1"
+- GSM4105216 / Sample_title: matched `iPSC` in "N3iPSC Batch 1"
+- GSM4105217 / Sample_title: matched `iPSC` in "N4iPSC Batch 1"
+- GSM4105218 / Sample_title: matched `iPSC` in "N5iPSC Batch 1"
+- GSM4105219 / Sample_title: matched `iPSC` in "N6iPSC Batch 1"
+- GSM4105220 / Sample_title: matched `iPSC` in "N7iPSC Batch 1"
+- GSM4105221 / Sample_title: matched `iPSC` in "N8iPSC Batch 1"
+- GSM4105222 / Sample_title: matched `iPSC` in "N9iPSC Batch 1"
+- GSM4105223 / Sample_title: matched `iPSC` in "N10iPSC Batch 1"
+- GSM4105224 / Sample_title: matched `iPSC` in "N11iPSC Batch 1"
+- GSM4105225 / Sample_title: matched `iPSC` in "N12iPSC Batch 1"
+- GSM4105226 / Sample_title: matched `iPSC` in "N13iPSC Batch 1"
+- GSM4105227 / Sample_title: matched `iPSC` in "C1iPSC-Heps Batch 1"
+- GSM4105228 / Sample_title: matched `iPSC` in "C2iPSC-Heps Batch 1"
+- GSM4105229 / Sample_title: matched `iPSC` in "C3iPSC-Heps Batch 1"
+- GSM4105230 / Sample_title: matched `iPSC` in "C4iPSC-Heps Batch 1"
+- GSM4105231 / Sample_title: matched `iPSC` in "C5iPSC-Heps Batch 1"
+- GSM4105232 / Sample_title: matched `iPSC` in "C6iPSC-Heps Batch 1"
+- GSM4105233 / Sample_title: matched `iPSC` in "C7iPSC-Heps Batch 1"
+- GSM4105234 / Sample_title: matched `iPSC` in "C8iPSC-Heps Batch 1"
+- GSM4105235 / Sample_title: matched `iPSC` in "C9iPSC-Heps Batch 1"
+- GSM4105236 / Sample_title: matched `iPSC` in "C10iPSC-Heps Batch 1"
+- GSM4105237 / Sample_title: matched `iPSC` in "C11iPSC-Heps Batch 1"
+- GSM4105238 / Sample_title: matched `iPSC` in "C12iPSC-Heps Batch 1"
+- GSM4105239 / Sample_title: matched `iPSC` in "C13iPSC-Heps Batch 1"
+- GSM4105240 / Sample_title: matched `iPSC` in "C14iPSC-Heps Batch 1"
+- GSM4105241 / Sample_title: matched `iPSC` in "N1iPSC-Heps Batch 1"
+- GSM4105242 / Sample_title: matched `iPSC` in "N2iPSC-Heps Batch 1"
+- GSM4105243 / Sample_title: matched `iPSC` in "N3iPSC-Heps Batch 1"
+- GSM4105244 / Sample_title: matched `iPSC` in "N4iPSC-Heps Batch 1"
+- GSM4105245 / Sample_title: matched `iPSC` in "N5iPSC-Heps Batch 1"
+- GSM4105246 / Sample_title: matched `iPSC` in "N6iPSC-Heps Batch 1"
+- GSM4105247 / Sample_title: matched `iPSC` in "N7iPSC-Heps Batch 1"
+- GSM4105248 / Sample_title: matched `iPSC` in "N8iPSC-Heps Batch 1"
+- GSM4105249 / Sample_title: matched `iPSC` in "N9iPSC-Heps Batch 1"
+- GSM4105250 / Sample_title: matched `iPSC` in "N10iPSC-Heps Batch 1"
+- GSM4105251 / Sample_title: matched `iPSC` in "N11iPSC-Heps Batch 1"
+- GSM4105252 / Sample_title: matched `iPSC` in "N12iPSC-Heps Batch 1"
+- GSM4105253 / Sample_title: matched `iPSC` in "N13iPSC-Heps Batch 1"
+- GSM4849524 / Sample_title: matched `iPSC` in "N14iPSC Batch 1"
+- GSM4849525 / Sample_title: matched `iPSC` in "N14iPSC-Heps Batch 1"
+- GSM4849526 / Sample_title: matched `iPSC` in "C15iPSC Batch 1"
+- GSM4849527 / Sample_title: matched `iPSC` in "C16iPSC Batch 2"
+- GSM4849528 / Sample_title: matched `iPSC` in "N15iPSC Batch 2"
+- GSM4849529 / Sample_title: matched `iPSC` in "N16iPSC Batch 2"
+- GSM4849530 / Sample_title: matched `iPSC` in "N17iPSC Batch 2"
+- GSM4849531 / Sample_title: matched `iPSC` in "N18iPSC Batch 2"
+- GSM4849532 / Sample_title: matched `iPSC` in "N19iPSC Batch 2"
+- GSM4849533 / Sample_title: matched `iPSC` in "N20iPSC Batch 2"
+- GSM4849534 / Sample_title: matched `iPSC` in "N21iPSC Batch 2"
+- GSM4849535 / Sample_title: matched `iPSC` in "C15iPSC-Heps Batch 1"
+- GSM4849536 / Sample_title: matched `iPSC` in "C16iPSC-Heps Batch 2"
+- GSM4849537 / Sample_title: matched `iPSC` in "N15iPSC-Heps Batch 2"
+- GSM4849538 / Sample_title: matched `iPSC` in "N16iPSC-Heps Batch 2"
+- GSM4849539 / Sample_title: matched `iPSC` in "N17iPSC-Heps Batch 2"
+- GSM4849540 / Sample_title: matched `iPSC` in "N18iPSC-Heps Batch 2"
+- GSM4849541 / Sample_title: matched `iPSC` in "N19iPSC-Heps Batch 2"
+- GSM4849542 / Sample_title: matched `iPSC` in "N20iPSC-Heps Batch 2"
+- GSM4849543 / Sample_title: matched `iPSC` in "N21iPSC-Heps Batch 2"
+- GSM4105200 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105201 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105202 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105203 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105204 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105205 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105206 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105207 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105208 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105209 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105210 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105211 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105212 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105213 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105214 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105215 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105216 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105217 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105218 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105219 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105220 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105221 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105222 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105223 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105224 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105225 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105226 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC"
+- GSM4105227 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105228 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105229 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105230 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105231 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105232 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105233 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105234 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105235 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105236 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105237 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105238 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105239 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105240 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105241 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105242 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105243 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105244 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105245 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105246 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105247 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105248 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105249 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105250 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105251 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105252 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+- GSM4105253 / Sample_characteristics_ch1: matched `iPSC` in "cell type: iPSC-Heps"
+
+Decision: MANUAL_REVIEW
+
+Reasons:
+- source_tissue: liver-pattern source 0/74
+- metadata_completeness: no disease/diagnosis/group/stage-type canonical field reported anywhere
+- material_type: cell/culture terms in sample metadata: iPSC (74/74 samples)
+<!-- /computed -->

@@ -1,0 +1,18 @@
+gsm,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell type,raw__media,sample_type,source_name,sra_relation,supplementary_files,title
+GSM2358163,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,LGLI,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264036,,BGA0201_372_L10
+GSM2358164,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,LGLI,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264037,,BGA0201_374_L4.D704
+GSM2358165,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,LGLI,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264038,,BGA0201_375_L6.D705
+GSM2358166,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,NASH,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264039,,BGA0201_376_L6.D706
+GSM2358167,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,NASH,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264040,,BGA0201_377_L1.D707
+GSM2358168,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,NASH,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264041,,BGA0201_378_L12
+GSM2358169,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,LGLI,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264042,,BGA0201_300_L1.D702
+GSM2358170,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,LGLI,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264043,,BGA0201_301_L2.D703
+GSM2358171,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,LGLI,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264044,,BGA0201_302_L2.D704
+GSM2358172,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,NASH,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264045,,BGA0201_303_L5.D705
+GSM2358173,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,NASH,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264046,,BGA0201_304_L5.D706
+GSM2358174,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,NASH,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264047,,BGA0201_305_L6.D707
+GSM2358175,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,LGLI,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264048,,BGA0201_444_L8.D703
+GSM2358176,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,LGLI,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264049,,BGA0201_445_L8.D704
+GSM2358177,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,LGLI,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264050,,BGA0201_446_L7.D705
+GSM2358178,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,NASH,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264051,,BGA0201_447_L7.D706
+GSM2358179,Illumina HiSeq 2000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL11154,Hepatocyte,NASH,SRA,HEP Cell,https://www.ncbi.nlm.nih.gov/sra?term=SRX2264052,,BGA0201_448_L3.D707

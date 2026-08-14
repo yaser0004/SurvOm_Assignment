@@ -1,0 +1,44 @@
+{
+  "accession": "GSE334408",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE334408",
+  "gsm_accessions": [
+    "GSM9788195",
+    "GSM9788196",
+    "GSM9788197",
+    "GSM9788198",
+    "GSM9788199",
+    "GSM9788200",
+    "GSM9788201",
+    "GSM9788202"
+  ],
+  "platform_accessions": [
+    "GPL28038"
+  ],
+  "sources": [
+    {
+      "bytes": 4492,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:24Z",
+      "sha256": "de15d580768230645463ccfb73faa1448e0ee61aec16d81a848ba9fc3265214a",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE334nnn/GSE334408/soft/GSE334408_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9788nnn/GSM9788195/suppl/GSM9788195_Tgfb36h_4._counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9788nnn/GSM9788196/suppl/GSM9788196_Tgfb36h_5._counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9788nnn/GSM9788197/suppl/GSM9788197_Tgfb36h_8._counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9788nnn/GSM9788198/suppl/GSM9788198_Tgfb36h_12._counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9788nnn/GSM9788199/suppl/GSM9788199_Tgfb+R300_2._counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9788nnn/GSM9788200/suppl/GSM9788200_Tgfb+R300_4._counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9788nnn/GSM9788201/suppl/GSM9788201_Tgfb+R300_6._counts.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9788nnn/GSM9788202/suppl/GSM9788202_Tgfb+R300_9._counts.txt.gz"
+  ],
+  "tool_version": "0.1.0"
+}

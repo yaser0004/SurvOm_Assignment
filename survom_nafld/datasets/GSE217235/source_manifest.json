@@ -1,0 +1,52 @@
+{
+  "accession": "GSE217235",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE217235",
+  "gsm_accessions": [
+    "GSM6709882",
+    "GSM6709883",
+    "GSM6709884",
+    "GSM6709885",
+    "GSM6709886",
+    "GSM6709887"
+  ],
+  "platform_accessions": [
+    "GPL24676"
+  ],
+  "sources": [
+    {
+      "bytes": 2486,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:21Z",
+      "sha256": "a131ea4aa274aa3509d86abe65165b2a272e5440ec74a3844be460c0c69f5a0b",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE217nnn/GSE217235/soft/GSE217235_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709882/suppl/GSM6709882_S001_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709882/suppl/GSM6709882_S001_genes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709882/suppl/GSM6709882_S001_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709883/suppl/GSM6709883_S003_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709883/suppl/GSM6709883_S003_genes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709883/suppl/GSM6709883_S003_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709884/suppl/GSM6709884_S004_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709884/suppl/GSM6709884_S004_genes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709884/suppl/GSM6709884_S004_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709885/suppl/GSM6709885_S005_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709885/suppl/GSM6709885_S005_genes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709885/suppl/GSM6709885_S005_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709886/suppl/GSM6709886_S006_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709886/suppl/GSM6709886_S006_genes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709886/suppl/GSM6709886_S006_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709887/suppl/GSM6709887_S008_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709887/suppl/GSM6709887_S008_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM6709nnn/GSM6709887/suppl/GSM6709887_S008_matrix.mtx.gz"
+  ],
+  "tool_version": "0.1.0"
+}

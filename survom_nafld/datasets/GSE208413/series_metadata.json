@@ -1,0 +1,27 @@
+{
+  "accession": "GSE208413",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE208413",
+  "last_update_date": "Mar 29 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "translational research",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "36950091"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA859845"
+  ],
+  "sample_count": 57,
+  "submission_date": "Jul 18 2022",
+  "summary": [
+    "While extensive experimental evidence on rodent liver regeneration (LR) exists, in human LR is poorly understood as underlying liver disease significantly complicates this process. Within our analyses, we found that, in contrast to experimental evidence, patients with dysfunctional LR demonstrated an overall stronger transcriptional inflammatory response, higher ICAM-1 induction, intrahepatic neutrophil accumulation and activation upon induction of LR. This was confirmed using spatial transcriptomics and electron microscopy. While circulating cytokine levels were similar between patient with and without dysfunctional LR, baseline levels of Dual Specificity Phosphatase 4 (DUSP4), affecting responsiveness of liver sinusoidal endothelial cells (LSECs) to cytokines, was significantly reduced in patients developing postoperative dysfunctional. In line, NASH mice showed significantly reduced LSEC DUSP4 levels. This indicates that in humans reduced LSEC DUSP4 levels appear to prime the liver for an excessive inflammatory response which results in dysfunctional LR, identifying LSEC DUSP4 as an attractive new therapeutic target to promote LR."
+  ],
+  "title": "EXCESSIVE INFLAMMATION DRIVES POSTOPERATIVE LIVER FAILURE IN HUMANS - mRNA datasets",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

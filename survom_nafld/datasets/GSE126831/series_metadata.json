@@ -1,0 +1,31 @@
+{
+  "accession": "GSE126831",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE126831",
+  "last_update_date": "Apr 17 2019",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "mRNA profiles of either mock or HCV-infected Huh7.5.1dif cells, performed in triplicates and collected every day between days 0 and 10 post infection. HCV infection reached plateau at day 7 post infection (pi). After day 7 pi unspecific effects cannot be excluded.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "30978357"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA523419",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP186406"
+  ],
+  "sample_count": 63,
+  "submission_date": "Feb 20 2019",
+  "summary": [
+    "Background and aims: Hepatitis C virus (HCV) infection is a major cause of liver disease including steatosis, fibrosis and liver cancer. Viral cure cannot fully eliminate the risk of disease progression and hepatocellular carcinoma (HCC) in advanced liver disease. The mechanisms for establishment of infection, liver disease progression and hepatocarcinogenesis are only partially understood. To address these questions, we probed the functional proteogenomic architecture of HCV infection within a hepatocyte-model.",
+    "Methods: Time-resolved HCV infection of hepatocyte-like cells was analyzed by RNA sequencing, proteomics, metabolomics, and leveraged by integrative genomic analyses. Using differential expression, gene set enrichment analyses, and protein-protein interaction mapping we identified pathways relevant for liver disease pathogenesis that we validated in livers of 216 cirrhotic patients with HCV.",
+    "Results: We uncovered marked changes in the protein expression of gene sets involved in innate immunity, metabolism and hepatocarcinogenesis. In infected cells, HCV enhances glucose metabolism and creates a Warburg-like shift of the lactate flux. HCV infection impaired the formation of peroxisomes -organelles required for long-chain fatty acid oxidation- causing intracellular fatty acid accumulation, which is a hallmark of non-alcoholic fatty liver disease (NAFLD). Ex vivo studies confirmed perturbed peroxisomes and revealed an association of hepatic catalase expression with clinical outcomes and phenotypes in HCV-associated cirrhosis, NAFLD and HCC cohorts.",
+    "Conclusion: Our integrative analyses uncover how HCV perturbs the hepatocyte cell circuits to drive chronic liver disease and hepatocarcinogenesis. This proteogenomic atlas of HCV infection provides a model for the discovery of novel drivers for viral- and non-viral induced liver disease."
+  ],
+  "title": "A temporal proteogenomic atlas of HCV-host interactions unravels cell circuits driving viral and metabolic liver disease.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

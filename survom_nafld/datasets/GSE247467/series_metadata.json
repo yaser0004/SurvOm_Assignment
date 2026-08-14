@@ -1,0 +1,27 @@
+{
+  "accession": "GSE247467",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247467",
+  "last_update_date": "May 28 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Using negative selection, we isolated peripheral neutrophils from subjects with biopsy proven mild and sever MASH and control individuals. Total RNA was extracted, DNase treated, and differential gene expression was assessed using next generation RNA sequencing (RNA-Seq) techniques.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "38791066"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1038739"
+  ],
+  "sample_count": 12,
+  "submission_date": "Nov 10 2023",
+  "summary": [
+    "Neutrophils, a major innate immune cell population, are the most abundant circulating white blood cell in humans. They play a crucial role in host defense against infection; however, aberrant neutrophil activation may induce tissue damage via sterile inflammation. Neutrophil accumulation has been identified as a feature of the inflammatory response observed MASH and has been associated with liver fibrosis and cirrhosis. In the present study, we used RNA-Seq analysis of purified neutrophils to characterize their dysregulation in MASH."
+  ],
+  "title": "Transcriptomic characterization of circulating neutrophils isolated from patients with metabolic dysfunction-associated steatohepatitis (MASH), formerly known as nonalcoholic steatohepatitis (NASH).",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

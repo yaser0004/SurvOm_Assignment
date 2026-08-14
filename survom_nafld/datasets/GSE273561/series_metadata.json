@@ -1,0 +1,29 @@
+{
+  "accession": "GSE273561",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE273561",
+  "last_update_date": "Nov 05 2024",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Using unbiased transcriptome methods snRNA-seq and RNA-seq to characterize liver metabolism alterations in mice (WT, Sptbn1+/-, Aldh2-/-, Aldh2-/-Sptbn1+/-) under normal chow diet. Using bulk RNA-seq analysis of human 3D MASH coculture cells to explore the therapeutic effects of targeting Sptbn1.",
+  "platform_ids": [
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39217614"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1142410"
+  ],
+  "sample_count": 27,
+  "submission_date": "Jul 31 2024",
+  "summary": [
+    "Obesity and fatty liver diseases-metabolic dysfunction-associated steatotic liver disease (MASLD and MASH) affect over a third of the global population and are exacerbated in individuals with reduced functional aldehyde dehydrogenase 2 (ALDH2), observed in approximately 560 million people. Current treatment to prevent disease progression to cancer remains inadequate, requiring innovative approaches. We observe that Aldh2-/- and Aldh2-/-Sptbn1+/- (ASKO) mice develop phenotypes of human Metabolic Syndrome (MetS) and MASH with altered lipid metabolism and TGF-\u03b2 signaling, leading to pro-fibrotic and pro-oncogenic phenotypes, which is restored to normal with siRNA to SPTBN1. Significantly, therapeutic inhibition of SPTBN1 blocks MASH and fibrosis in a human 3D MASH model. This study identifies SPTBN1 as a critical regulator of the functional phenotype of toxic aldehyde-induced MASH and a potential therapeutic target."
+  ],
+  "title": "Aldehydes alter TGF-\u03b2 signaling and induce obesity and cancer",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

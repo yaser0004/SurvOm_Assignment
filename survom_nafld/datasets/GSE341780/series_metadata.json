@@ -1,0 +1,25 @@
+{
+  "accession": "GSE341780",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE341780",
+  "last_update_date": "Jul 29 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Herein, we combined hydrodynamic tail vein injection (HDTVi) with the Sleeping Beauty (SB) transposon system and oncogenic drivers to generate mouse MASH-HCC models and longitudinally monitor tumor development. Notably, this HDTVi/SB transposon-based strategy achieves successful MASH associated tumor formation within only 1\u20132 months, drastically shortening the modeling timeline. We recapitulated core MASH-associated pathological features in these mice, including prominent hepatomegaly, elevated circulating liver injury biomarkers, and typical hepatic histologic lesions (hepatocellular ballooning, macrovesicular steatosis, progressive fibrosis), accompanied by robust hepatic inflammatory infiltration. Furthermore, estrogen receptor \u03b1 (ER\u03b1) transcriptionally activates miR-26a, which acts as a critical tumor suppressor to restrain MASH-HCC initiation and progression. Mechanistically, ANKRD52 is a direct, functionally relevant target of miR-26a; this gene accelerates HCC cell proliferation and disease progression via reprogramming hepatic lipid metabolism. In conclusion, our HDTVi/SB transposon-based strategy enables efficient, reliable establishment of murine MASH-HCC models within 1\u20132 months. Moreover, the ER\u03b1-miR-26a-ANKRD52 signaling axis critically modulates the full progression of MASH-HCC.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1504082"
+  ],
+  "sample_count": 6,
+  "submission_date": "Jul 29 2026",
+  "summary": [
+    "The lack of robust mouse models for metabolic dysfunction-associated steatohepatitis-hepatocellular carcinoma (MASH-HCC) severely hinders mechanistic investigation and therapeutic drug development. Conventional MASH-HCC animal models require a lengthy induction period of more than 10 months, greatly limiting high-throughput mechanistic studies and drug screening."
+  ],
+  "title": "ER\u03b1/miR-26a/ANKRD52 axis regulates progression of MASH- associated HCC in HDTVi HCC models",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "accession": "GSE307420",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE307420",
+  "last_update_date": "Feb 16 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "To investigate transcriptomic effects of EVT0185 treatment on activated human hepatic stellate cells (HSCs), bulk RNA-seq data was obtained from LX-2 cells, a human HSC immortalized cell line. Two cell lines were generated from the LX-2 cells: One stably expressing an empty control vector (PRP-empty) or another expressing human SLC27A2 (PRP-SLC27A2). All cells were treated with TGFB1 to induce the activated HSC phenotype, and either DMSO or 30 \u00b5M EVT0185 for 24 hours. Overall, 4 experimental conditions of n = 3 replicates were generated: PRP-empty DMSO; PRP-empty EVT0185; PRP-SLC27A2 DMSO; PRP-SLC27A2 EVT0185.",
+  "platform_ids": [
+    "GPL11154"
+  ],
+  "pubmed_ids": [
+    "41500198"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1321593"
+  ],
+  "sample_count": 12,
+  "submission_date": "Sep 09 2025",
+  "summary": [
+    "Metabolic Dysfunction-Associated Steatohepatitis (MASH) is characterized by liver steatosis and inflammation which lead to fibrosis following hepatic stellate cell (HSC) activation. Acetyl-CoA is fundamental for de novo lipogenesis (DNL) and cholesterol synthesis and can be derived from citrate via ATP citrate lyase (ACLY), or from acetate via acetyl-CoA synthetase (ACSS2). Here, we find that EVT0185, an ACLY and ACSS2 inhibitor, leads to resolution of MASH and fibrosis while lowering insulin and glucose in four distinct mouse models. EVT0185 also reduces fibrosis alone and in combination with semaglutide and more effectively than bempedoic acid in a model not characterized by steatosis or insulin resistance. Spatial transcriptomic and scRNAseq reveal marked downregulation of cholesterol synthesis in HSCs with EVT0185 treatment in vivo and in vitro. These data indicate a critical role for ACLY and ACSS2 in HSCs and suggest further clinical evaluation of EVT0185 for reducing MASH and fibrosis may be warranted."
+  ],
+  "title": "Inhibition of Acetyl-CoA metabolic enzymes by EVT0185 impairs hepatic stellate cell activation and reverses MASH and fibrosis in mouse models.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

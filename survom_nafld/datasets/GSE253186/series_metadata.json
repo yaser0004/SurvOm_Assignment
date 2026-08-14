@@ -1,0 +1,27 @@
+{
+  "accession": "GSE253186",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE253186",
+  "last_update_date": "Nov 26 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "3D InSightTM human liver spheroids (InSphero) composed of hepatocytes (10 donors: 5 males and 5 females), endothelial cells, and macrophages (1 donor). Liver spheroids were maintained in low glucose medium (lean medium) were exposed to 20\u00b5M of PFHpA for 7 days. Control spheroids were cultured in lean medium for the same time. We dissociated spheroids with Trypsin, generating suitable cells for 10x genomics scRNAseq (kit 3\u2019 v3.1).",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "41162609"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1064169"
+  ],
+  "sample_count": 2,
+  "submission_date": "Jan 12 2024",
+  "summary": [
+    "Accumulating evidence suggests that poly- and perfluoroalkyl substances (PFAS), a class of persistent organic pollutants, cause changes in hepatic lipid, amino acid, and glucose metabolism. Our study explores the molecular mechanisms whereby PFHpA disrupts liver metabolism and facilitate NAFLD development."
+  ],
+  "title": "Evaluation of PFHpA impact on liver metabolism using human liver spheroids",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

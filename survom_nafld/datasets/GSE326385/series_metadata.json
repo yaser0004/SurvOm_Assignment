@@ -1,0 +1,27 @@
+{
+  "accession": "GSE326385",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE326385",
+  "last_update_date": "Aug 05 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA seq profiling of fucoxanthin-treated Hep3B steatosis model",
+  "platform_ids": [
+    "GPL34284"
+  ],
+  "pubmed_ids": [
+    "42513107"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1445172"
+  ],
+  "sample_count": 18,
+  "submission_date": "Mar 30 2026",
+  "summary": [
+    "Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease with limited treatment options. Here, we demonstrate that fucoxanthin (FUCO), a natural marine carotenoid, ameliorates MASH by targeting the EGR2-CD36 axis. In FFA-induced hepatocyte models (HepG2, Hep3B, and AML12), FUCO significantly reduced lipid accumulation and inflammatory markers without cytotoxicity. Mechanistic studies revealed that FUCO specifically inhibited fatty acid uptake and transport by downregulating CD36, while TG degradation remained unaffected. RNA sequencing identified EGR2 as a master regulator induced by FFA and suppressed by FUCO. Functional validation showed that EGR2 overexpression completely blocked FUCO's lipid-lowering effects and restored CD36 expression, confirming that FUCO acts through EGR2-dependent CD36 inhibition. Bioinformatic analysis further supported EGR2-mediated regulation of CD36 via TNF and SREBF pathways. Collectively, our findings establish EGR2 as a critical molecular target for FUCO and provide mechanistic insights supporting its clinical development for MASH therapy."
+  ],
+  "title": "Fucoxanthin ameliorates metabolic dysfunction-associated steatohepatitis via suppression of CD36-driven fatty acid uptake",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

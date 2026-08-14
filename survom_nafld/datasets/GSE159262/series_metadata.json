@@ -1,0 +1,26 @@
+{
+  "accession": "GSE159262",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159262",
+  "last_update_date": "Aug 04 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We used a total of 5 samples, as follows: 1 control sample (CTRL) and 4 treated samples, each consisting of a different treatment with free fatty acids.",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA668151",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP286790"
+  ],
+  "sample_count": 5,
+  "submission_date": "Oct 08 2020",
+  "summary": [
+    "We aimed to develop an in vitro system that would recapitulate the key features of Non-Alcoholic Fatty Liver Disease (NAFLD). We took advantage of human pluripotent stem cells to establish complex co-cultures including all the cell types known to be involved in disease progression. Cultures were challenged with free fatty acid, to mimic NAFLD, and transcriptomic analyses were used to confirm the presence of a NAFLD signature."
+  ],
+  "title": "Novel 3D Approach to Model Non-Alcoholic Fatty Liver Disease using human Pluripotent Stem Cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

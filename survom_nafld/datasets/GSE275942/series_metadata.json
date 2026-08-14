@@ -1,0 +1,28 @@
+{
+  "accession": "GSE275942",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE275942",
+  "last_update_date": "Aug 21 2025",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "First, we selected female C57/B6J mice and simulated menopause through ovariectomy, combined with methionine-choline deficient (MCD) diet to induce a metabolic dysfunction-associated steatohepatitis (MASH) model. We then performed HE staining, Sirius Red staining, immunofluorescence staining, and histochemical analysis on liver tissues to evaluate the regulatory role of estrogen in liver fibrosis within the MASH model. Next, we established a hormone-deficient model in male mice via castration surgery to eliminate the effects of endogenous sex hormones on the experiment. We then implanted 17\u03b2-estradiol implants in combination with the choline-deficient, methionine-limited diet to further confirm that estrogen, rather than other substances secreted by the ovaries, influenced liver fibrosis. Subsequently, we identified the types of estrogen receptors expressed in hepatic stellate cells (HSCs) of both humans and mice through immunofluorescence staining and transcriptome sequencing. Building on this, we specifically knocked out the estrogen receptor alpha (ER\u03b1) gene in HSCs of female mice, induced MASH with MCD diet, and again conducted HE staining, Sirius Red staining, immunofluorescence staining, and histochemical analysis on liver tissues to determine whether estrogen directly influences the progression of liver fibrosis by regulating the expression of fibrosis-related factors in HSCs. Finally, we conducted in vitro 17-estradiol induction on HSCs to assess transcriptome changes and performed ChIP-seq analysis using estrogen receptor antibodies to establish the direct regulatory role of estrogen as a transcription factor on fibrosis-related genes in HSCs.",
+  "platform_ids": [
+    "GPL28330",
+    "GPL29480"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1153926"
+  ],
+  "sample_count": 11,
+  "submission_date": "Aug 29 2024",
+  "summary": [
+    "The prevalence and severity of liver fibrosis appear higher in men than in premenopausal women, while postmenopausal women exhibit the worsened disease. However, the pathophysiological mechanism underlying such clinical observations remains incompletely understood. Here, we show that sex hormone depletion in adult female mice exaggerates the model of liver fibrosis, while estradiol replacement in castrated male mice is sufficient to mitigate the disease severity. Transcriptomic analyses and immunohistochemistry then demonstrate that both human and mouse hepatic stellate cells (HSCs), the primary cell type responsible for extracellular fibrous depositions, predominantly express the estrogen receptor 1 (ESR1). Of importance, genetic deletion of ESR1 in mouse HSCs markedly promotes liver fibrosis. Moreover, chromatin immunoprecipitation followed by sequencing (ChIP-seq) and in vitro manipulations reveal that ESR1 can directly target the expression of fibrosis-related genes in HSCs. Together, this study has elucidated a critical aspect of ESR1 signaling in the sexual dimorphism of liver fibrosis."
+  ],
+  "title": "Estrogen Receptor 1 Signaling in Hepatic Stellate Cells Designates Resistance to Liver Fibrosis",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Genome binding/occupancy profiling by high throughput sequencing"
+  ]
+}

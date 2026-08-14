@@ -1,0 +1,28 @@
+{
+  "accession": "GSE168484",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168484",
+  "last_update_date": "Jan 28 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Analysis of differential expression (DE) caused by over expression (mimic) of hsa-miR-20b",
+  "platform_ids": [
+    "GPL11154"
+  ],
+  "pubmed_ids": [
+    "34964438"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA707547",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP309809"
+  ],
+  "sample_count": 6,
+  "submission_date": "Mar 08 2021",
+  "summary": [
+    "Nuclear receptors (NRs) play a crucial role in non-alcoholic fatty liver disease (NAFLD) and have been widely studied(Tran et al. 2018). However, the underlying mechanisms of NR regulation remain largely unclear. Here, we show that miR-20b plays a key role in modulating PPAR\u03b1, a master regulator of nutrient metabolism and energy homeostasis in the pathogenesis of fatty liver(Wahli et al. 1995; Dongiovanni and Valenti 2013). Using network analysis and RNA-seq to determine the correlation between NRs and microRNA in NAFLD patients, we revealed that miR-20b directly targets PPAR\u03b1. The expression of miR-20b was remarkably upregulated in free fatty acid (FA)-treated hepatocytes and the livers of both obesity-induced mice and NAFLD patients. Overexpression of miR-20b dramatically increased hepatic lipid accumulation and plasma triglyceride levels. Furthermore, miR-20b significantly reduced fatty acid oxidation and mitochondrial biogenesis by directly targeting PPAR\u03b1. Fenofibrate, a specific agonist of PPAR\u03b1, lost its ability to ameliorate hepatic steatosis in miR-20b-introduced mice. Finally, inhibition of miR-20b dramatically increased FA oxidation and uptake, resulting in improved insulin sensitivity and a decrease in NAFLD progression. Taken together, these results demonstrate that the novel miR-20b directly targets PPAR\u03b1, plays a significant role in hepatic lipid metabolism, and presents an opportunity for the development of novel therapeutics for NAFLD."
+  ],
+  "title": "Hepatic miR20b promotes nonalcholic fatty liver diseases by targeting PPAR\u03b1",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

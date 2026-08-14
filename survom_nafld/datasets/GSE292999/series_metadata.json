@@ -1,0 +1,27 @@
+{
+  "accession": "GSE292999",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE292999",
+  "last_update_date": "Sep 17 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Primary human HSCs and spheroids were treated with or without IVA337, then RNA-sequencing were performed with these samples.",
+  "platform_ids": [
+    "GPL29480"
+  ],
+  "pubmed_ids": [
+    "40712710"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1242327"
+  ],
+  "sample_count": 14,
+  "submission_date": "Mar 26 2025",
+  "summary": [
+    "Metabolic dysfunction-associated steatohepatitis (MASH), an advanced stage of metabolic dysfunction-associated steatotic liver disease (MASLD), is characterized by significant hepatic fibrosis and inflammation. The pan-peroxisome proliferator-activated receptor (pan-PPAR) agonist IVA337 (lanifibranor) has demonstrated potential as an anti-MASH therapeutic, although its mechanisms of action remain incompletely understood. This study explores the effects and mechanisms of IVA337 using two distinct MASH models: 2D primary human hepatic stellate cells (HSCs) stimulated with TGF\u00df1, and 3D liver spheroids comprising primary hepatocytes, HSCs, and nonparenchymal cells. In TGF\u00df1-stimulated HSCs, IVA337 effectively suppressed the expression of fibrosis-related genes, including PAI1, COL1A1, and SMA, as well as the inflammatory gene IL-6. We successfully established 3D mouse and human liver spheroid models of MASH, characterized by reduced lipid content and elevated fibrotic gene expression. IVA337 treatment not only attenuated fibrotic gene expression but also restored lipid content in the MASH spheroids, as evidenced by BODIPY staining. Immunostaining further confirmed a reduction in SMA and collagen levels following IVA337 treatment. Bulk RNA sequencing and Gene Ontology (GO) analysis revealed lipid metabolism-related genes as key effectors downstream of IVA337. Additionally, IVA337 modulated multiple signaling pathways, including IL-17, TNF, NF-kappa B, PI3K-AKT, and MAPK. Collectively, these findings demonstrate that IVA337 effectively mitigates fibrosis development in both 2D and 3D MASH models by restoring lipid homeostasis and regulating crucial fibrotic and inflammatory pathways."
+  ],
+  "title": "Peroxisome Proliferator-activated Receptor Agonist IVA337 Alleviates Inflammation",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

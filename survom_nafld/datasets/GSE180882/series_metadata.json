@@ -1,0 +1,28 @@
+{
+  "accession": "GSE180882",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE180882",
+  "last_update_date": "Mar 06 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Hepatically differentiated organoids from 3 healthy livers (FDD,FLD,MLD) and 8 diseased livers (NASH1-6, AC and CF) were subjected to RNA seq. In addition liver samples correponding to NASH5 and NASH6 organoids were also squenced",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "33901295"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749873",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP329969"
+  ],
+  "sample_count": 45,
+  "submission_date": "Jul 26 2021",
+  "summary": [
+    "Background and Aims: Nonalcoholic steatohepatitis (NASH) will soon become the leading cause of liver transplantation in the US and is  also associated with increased COVID-19 mortality. Currently, there are no FDA approved drugs available that slow NASH progression or address NASH liver involvement in COVID-19. Since animal models cannot fully recapitulate human NASH, we hypothesized that stem cells isolated directly from end-stage NASH patient liver may address current knowledge gaps in human NASH pathology.  Approach and Results: We devised methods allowing derivation, proliferation, hepatic differentiation and extensive characterization of bipotent ductal organoids from irreversibly damaged NASH patient liver. The transcriptomes of organoids derived from NASH liver, but not healthy liver show significant upregulation of pro-inflammatory and cytochrome p450-related pathways, as well as of known liver fibrosis and tumor markers, with the degree of upregulation being NASH patient-specific."
+  ],
+  "title": "Transcriptome characterization of organoids derived from healthy and irreversibly damaged NASH patient liver",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

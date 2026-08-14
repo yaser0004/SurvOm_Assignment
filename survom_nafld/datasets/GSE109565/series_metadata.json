@@ -1,0 +1,29 @@
+{
+  "accession": "GSE109565",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109565",
+  "last_update_date": "Jul 24 2019",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Differentiated HepaRGTM cells (HPR 116) were purchased from Biopredic International. The cells were kept in the general purpose medium until day 8, when the culture becomes well organized and includes well-delineated trabeculae and many canaliculi-like structures. Three concentrations of the PCB were then tested from day 8 to day 14, in order to cover a wide range of biological effects, starting from low environmental exposures (100 pM) to high concentrations of (1 uM), with an intermediate concentration (10 nM). Three concentrations of glyphosate, or one concentration of the Roundup herbicide (Grand Travaux +) were also tested in the same system.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "29947894",
+    "30128299"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA431399",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP131375"
+  ],
+  "sample_count": 40,
+  "submission_date": "Jan 24 2018",
+  "summary": [
+    "We provide here the alterations in gene expression profiles of HepaRG cells, a validated model for cellular steatosis, exposed to three concentration of the polychlorinated biphenyl (PCB) 126, one of the most potent chemical inducing NAFLD. Additionnally, three concentration of the pesticide active ingredient glyphosate were tested. This ultimately suggested sensitive biomarkers of exposure. A gene ontology analysis showed hallmarks of an activation of the AhR receptor by dioxin-like compounds. Our study provides grounds for the development of molecular signatures of fatty liver diseases to rapidly assess toxic effects of chemicals in the HepaRG cell line."
+  ],
+  "title": "Identification of transcriptome and metabolome signatures of fatty liver disease in HepaRG cells exposed to PCB 126 and glyphosate",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

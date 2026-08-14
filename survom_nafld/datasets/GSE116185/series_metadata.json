@@ -1,0 +1,29 @@
+{
+  "accession": "GSE116185",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116185",
+  "last_update_date": "Jan 04 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "hiPSCs, differentiated into functional hepatocytes that exhibited classic hepatocyte-associated bio-functions, were subjected to lipid overload and challenged with acute induced-ER stress developed a steatotic phenotype used to model hepatic steatosis in vitro. The quantification of lipid induction was performed by fluorescent high-content imaging.",
+  "platform_ids": [
+    "GPL18460"
+  ],
+  "pubmed_ids": [
+    "30254132",
+    "33334026"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA477582",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP151159"
+  ],
+  "sample_count": 4,
+  "submission_date": "Jun 22 2018",
+  "summary": [
+    "Our study reports a phenotypic approach to model hepatic steatosis in induced pluripotent stem cell-derived hepatocytes"
+  ],
+  "title": "A NAFLD Model Created By Endoplasmic Reticulum Stress Response-Associated Steatosis in Human Induced Pluripotent Stem Cell-Derived Hepatocytes",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

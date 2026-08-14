@@ -1,0 +1,27 @@
+{
+  "accession": "GSE253493",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE253493",
+  "last_update_date": "Jul 04 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Human primary HSCa were thawed in Human Stellate Cell Growth Media (Lonza) and seeded at a density of 4,000-5,000 cells/cm2 on a Collagen I coated plate using the growth media above. The medium is changed every other day. Cryopreserved, immortalized LX-2 cells were obtained from Millipore. The standard procedure was followed by the manufacturer's instructions for thawing, splitting, and freezing of the cell line. For TGF\u03b2 treatment, 10ng/ml of reconstituted TGF\u03b2 was added to the media. Cells were treated for 24 hours before collecting for RNA isolation.",
+  "platform_ids": [
+    "GPL21290"
+  ],
+  "pubmed_ids": [
+    "38921831"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1065892"
+  ],
+  "sample_count": 12,
+  "submission_date": "Jan 17 2024",
+  "summary": [
+    "Liver fibrosis stands as the most prominent predictor of overall mortality in non-alcoholic steatohepatitis (NASH). The fibrotic liver features excessive deposition of extracellular matrix (ECM), primarily produced from \"activated\" hepatic stellate cells (HSCs). Whereas targeting HSC in fibrosis therapeutics shows promise, the current identification of human genetic regulators driving HSC activation is far from complete. This knowledge gap largely emanates from the limited understanding of the vast array of long non-coding RNAs (lncRNAs). Analyzing differentially regulated human lncRNAs under various regulatory patterns often provides the most practical means to inform their function. To get human lncRNA regulators in driving HSC activation, we cultured both primary human stellate cells and LX-2 cells. Then, we treated them with TGFb to mimic the activation process in vitro. Differentially expressed lncRNAs can be obtained from RNAseq results, which may guide the characterization of lncRNAs relevant to HSC activation."
+  ],
+  "title": "RNA-Seq experiment of primary hepatic stellate cells (HSCs) and LX-2 cell line treated with TGFb",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "accession": "GSE290642",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE290642",
+  "last_update_date": "Jul 23 2026",
+  "organisms": [
+    "Homo sapiens",
+    "Sus scrofa"
+  ],
+  "overall_design": "This study was designed to analyze the distribution of different cell types and gene expression in fibrotic and healthy liver tissues obtained through surgical biopsy",
+  "platform_ids": [
+    "GPL20795",
+    "GPL22918"
+  ],
+  "pubmed_ids": [
+    "41794026"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1229477"
+  ],
+  "sample_count": 36,
+  "submission_date": "Feb 27 2025",
+  "summary": [
+    "Investigation of ROCK2 distribution and expression in NPC subpopulations of fibrotic and healthy human and minipig livers."
+  ],
+  "title": "Selective targeting of endothelial and perivascular ROCK2 reverses liver fibrosis in  pigs and human patients",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

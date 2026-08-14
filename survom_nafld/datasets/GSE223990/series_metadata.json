@@ -1,0 +1,27 @@
+{
+  "accession": "GSE223990",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE223990",
+  "last_update_date": "May 01 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Comparative gene expression profiling analysis of RNA-seq data for Resinacein S treated human-normal-liver-cell line L02 compared to DMSO groups.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "36866057"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA929272"
+  ],
+  "sample_count": 6,
+  "submission_date": "Jan 29 2023",
+  "summary": [
+    "In order to investigate the hub regulated genes of Resinacein S against NAFLD in human liver cells, we treated the normal human hepatic cell line L02 with Resinacein S and detected the gene expression profiles by RNA-Seq."
+  ],
+  "title": "Network Pharmacology-based analysis of Resinacein S against non-alcoholic fatty liver disease by modulating lipid metabolism",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

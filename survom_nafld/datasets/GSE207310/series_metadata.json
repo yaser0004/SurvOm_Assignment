@@ -1,0 +1,27 @@
+{
+  "accession": "GSE207310",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE207310",
+  "last_update_date": "Jan 24 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "30 RNAlater and snap-frozen samples were processed for RNA sequencing on the Illumina NovaSeq6000 platform",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "36687468"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA854662"
+  ],
+  "sample_count": 30,
+  "submission_date": "Jun 30 2022",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) and its progressive form, non-alcoholic steatohepatitis (NASH), are the hepatic manifestations of metabolic syndrome. Histological assessment of liver biopsies is the gold standard for diagnosis of NASH. A Liver biopsy is resource heavy and can lead to complications such as bleeding and, moreover, does not fully capture the tissue heterogeneity of the fibrotic liver. Therefore, non-invasive biomarkers that can reflect an integrated state of the liver is highly needed to improve diagnosis and sampling bias. Hepatic stellate cells (HSCs) are central in development of hepatic fibrosis, a hallmark of NASH. Secreted HSC-specific proteins may, therefore, reflect disease state in the NASH liver and thereby serve as non-invasive diagnostic biomarkers. We performed RNA-sequencing on liver biopsies from a discovery cohort (n = 30) of histological characterised obese patients (body mass index > 35 kg/m2) to identify and evaluate HSC-specific genes encoding secreted proteins. Bioinformatical analysis was used to identify potential biomarkers and their expression at single-cell resolution. We validated our findings by single-molecule fluorescence in situ hybridization (smFISH) and ELISA to detect mRNA in liver tissue and protein levels in plasma, respectively. Hepatic expression of SPARC-related modular calcium-binding protein 2 (SMOC2) was increased in NASH (steatosis \u2265 1, lobular inflammation \u2265 1, and hepatocyte ballooning \u2265 1) compared no-NAFLD (p.adj < 0.001). Single-cell RNA-sequencing data indicated SMOC2 expression by HSCs, which was validated using smFISH. Moreover, plasma SMOC2 was elevated in NASH compared to no-NAFLD (p < 0.001) with a predictive accuracy of AUROC 0.88. In conclusion, we propose increased SMOC2 in plasma reflects HSC activation, a key cellular event associated with NASH progression, and may serve as a non-invasive biomarker of NASH."
+  ],
+  "title": "Stellate cell expression of SPARC-related modular calcium-binding protein 2 is associated with human non-alcoholic fatty liver disease severity",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

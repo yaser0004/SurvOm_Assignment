@@ -1,0 +1,28 @@
+{
+  "accession": "GSE205881",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205881",
+  "last_update_date": "Apr 06 2025",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Control: mRNA prepared from normal livers, NASH livers, or HCCs of mice maintained in steady 12 hour light/12 hour dark (24 hrLD) cycles (n=4/ZT/group); CJ (chronic jet lag): mRNA prepared from livers or HCCs of mice treated with one 8-hr phase advance each Monday followd by an 8-hr phase delay on each Thursday (n=4/ZT in CJ NASH group and n=6/ZT in CJ HCC group). h-Liver: humanized liver (only hepatocytes in the livers are human origin); h-HCC: humanized HCC (only malignant hepatocytes in tumors are human origin).",
+  "platform_ids": [
+    "GPL16512"
+  ],
+  "pubmed_ids": [
+    "37890720"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA847988"
+  ],
+  "sample_count": 66,
+  "submission_date": "Jun 10 2022",
+  "summary": [
+    "RNAseq analysis that will help to define 1) the circadian dysfunction induced liver transcriptome that drives fatty liver disease induced hepatocarcinogenesis in a humanized mouse model; 2) the currently unknown circadian profile of NASH and HCC gene signatures specifically associated with human hepatocytes and liver or tumor microenvironment. These gene signatures will significantly advance our understanding of the mechanism of spontaneous HCC and have important preclinic values for developing novel therapeutic strategies for prevention and treatment of HCC in humans."
+  ],
+  "title": "RNA Sequencing Facilitates Quantitative Analysis of Humanized Normal Livers, NASH Livers, and HCC Transcriptomes",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

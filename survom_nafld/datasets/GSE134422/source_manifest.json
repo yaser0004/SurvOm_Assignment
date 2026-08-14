@@ -1,0 +1,42 @@
+{
+  "accession": "GSE134422",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134422",
+  "gsm_accessions": [
+    "GSM3946327",
+    "GSM3946328",
+    "GSM3946329",
+    "GSM3946330",
+    "GSM3946331",
+    "GSM3946332",
+    "GSM3946333"
+  ],
+  "platform_accessions": [
+    "GPL18573"
+  ],
+  "sources": [
+    {
+      "bytes": 3763,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:27Z",
+      "sha256": "a5d04e5815846274473f6291d6812a7f363c83b8da0b18dea63203b7b41c17d7",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE134nnn/GSE134422/soft/GSE134422_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3946nnn/GSM3946327/suppl/GSM3946327_HH025_normal_genome.ucsc.bedGraph.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3946nnn/GSM3946328/suppl/GSM3946328_HH027_normal_genome.ucsc.bedGraph.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3946nnn/GSM3946329/suppl/GSM3946329_HH036_normal_genome.ucsc.bedGraph.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3946nnn/GSM3946330/suppl/GSM3946330_HH038_NASH_genome.ucsc.bedGraph.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3946nnn/GSM3946331/suppl/GSM3946331_HH039_NASH_genome.ucsc.bedGraph.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3946nnn/GSM3946332/suppl/GSM3946332_HH040_AlcoholicCirrhosis_genome.ucsc.bedGraph.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM3946nnn/GSM3946333/suppl/GSM3946333_HH041_AlcoholicCirrhosis_genome.ucsc.bedGraph.gz"
+  ],
+  "tool_version": "0.1.0"
+}

@@ -1,0 +1,27 @@
+{
+  "accession": "GSE336962",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE336962",
+  "last_update_date": "Jul 01 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Human endothelial EA.hy926 cells were exposed to PFOA under short-term (48 h, micromolar concentrations:1, 10 and 100 \u00b5M PFOA; control:0.05% DMSO) and long-term (6 and 12 weeks, nanomolar concentrations: 1, 10 and 100 nM PFOA; control:0.05% DMSO) exposure conditions. Total RNA was isolated and subjected to RNA sequencing to characterize concentration-dependent transcriptomic responses. Experiment was done in biological triplicates. Transcriptomic data were used for benchmark dose-response modeling and derivation of transcriptomic benchmark concentrations (BMCs), which were subsequently converted to human equivalent doses (HEDs) through physiologically based toxicokinetic (PBTK) modeling for human health risk assessment.",
+  "platform_ids": [
+    "GPL28038"
+  ],
+  "pubmed_ids": [
+    "40752167"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1483636"
+  ],
+  "sample_count": 36,
+  "submission_date": "Jun 29 2026",
+  "summary": [
+    "Current human health risk assessment for perfluorooctanoic acid (PFOA) has proven inadequate due to a lack of innovative approaches. Here, we applied benchmark dose-response modeling to derive benchmark concentrations (BMCs) for apical and transcriptomic changes in human endothelial cells EA.hy926 following both high-concentration short-term (48 h) and human-relevant long-term (6 and 12 weeks) PFOA exposures. BMCs were translated into human equivalent doses (HEDs) using a physiologically based toxicokinetic model. Long-term exposure produced sensitive biological responses: 10th percentile HEDs for apical and transcriptomic data were 0.59 and 3.84 ng/kg bw/week, respectively, both below the estimated U.S. general population exposure level (9.91 ng/kg bw/week). Predicted 10th percentile HED thresholds in individuals with certain conditions were: end-stage renal disease 0.50 ng/kg bw/week, moderate to severe reductions in glomerular filtration rate 0.18\u20131.00 ng/kg bw/week, cirrhosis class A 0.18 ng/kg bw/week, NAFLD 0.79 ng/kg bw/week, and class 1 obesity 0.43 ng/kg bw/week, compared to healthy individuals (1.18 ng/kg bw/week), suggesting that PFOA can elicit adverse effects in endothelial cells at exposure levels below those currently experienced by the general population. Given the global prevalence of health conditions investigated in this study, a substantial portion of the population may face increased vulnerability to PFOA-induced health effects."
+  ],
+  "title": "Advancing probabilistic risk assessment of perfluorooctanoic acid through integration of in vitro data and physiologically based toxicokinetic modeling coupled with population-specific analysis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

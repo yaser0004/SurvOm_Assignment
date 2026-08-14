@@ -1,0 +1,7 @@
+gsm,canon__diagnosis,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell type,raw__diagnosis,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM5643817,healthy,liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,immune,healthy,liver,SRA,liver immune cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12727804,,Healthy 3
+GSM5643818,NAFLD,liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,immune,NAFLD,liver,SRA,liver immune cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12727805,,NAFLD 1
+GSM5643819,NAFLD,liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,immune,NAFLD,liver,SRA,liver immune cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12727806,,NAFLD 2
+GSM5643820,NAFLD,liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,immune,NAFLD,liver,SRA,liver immune cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12727807,,NAFLD 3
+GSM5643821,healthy,liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,immune,healthy,liver,SRA,liver immune cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12727808,,Healthy 1
+GSM5643822,healthy,liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,immune,healthy,liver,SRA,liver immune cells,https://www.ncbi.nlm.nih.gov/sra?term=SRX12727809,,Healthy 2

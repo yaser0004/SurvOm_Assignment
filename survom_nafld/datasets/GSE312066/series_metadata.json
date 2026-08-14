@@ -1,0 +1,25 @@
+{
+  "accession": "GSE312066",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE312066",
+  "last_update_date": "Mar 16 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Desigh agenetically encoded bifunctional enzyme that mitigates NADH redox imbalance and clear Gro3P-linked lipotoxicity via engineered Gro3P-Glycerol shunt",
+  "platform_ids": [
+    "GPL20795"
+  ],
+  "pubmed_ids": [
+    "41699300"
+  ],
+  "relations": [],
+  "sample_count": 8,
+  "submission_date": "Dec 01 2025",
+  "summary": [
+    "Dihydroxyacetone phosphate (DHAP), glycerol-3-phosphate (Gro3P) and reduced/oxidized nicotinamide adenine dinucleotide (NADH/NAD+) are key metabolites of the Gro3P shuttle system that forms a redox circuit, allowing transfer of reducing equivalents between cytosol and mitochondria. Targeted activation of Gro3P biosynthesis was recently identified as a promising strategy to alleviate reductive stress by promoting NAD+ recycling, including in cells with an impaired activity of the mitochondrial complex I. However, because Gro3P constitutes the backbone of triglycerides under some circumstances, its accumulation can lead to excessive fat deposition. As a step to alleviating redox imbalance while counteracting lipogenesis as a byproduct, we present the development of a novel genetically encoded tool based on a di-domain glycerol-3-phosphate dehydrogenase from algae Chlamydomonas reinhardtii (CrGPDH), which is a bifunctional enzyme that can recycle NAD+ while converting DHAP to Gro3P. Importantly, this enzyme also possesses an N-terminal domain which cleaves Gro3P into glycerol and inorganic phosphate (Pi) (in humans and other organisms, this reaction is catalyzed by a separate glycerol-3-phosphate phosphatase, a reaction also known as \"glycerol shunt\"). Here, we demonstrate that CrGPDH effectively operates both the alternative Gro3P shunt, which regenerates NAD\u207a and converts DHAP to Gro3P, and the glycerol shunt, which converts Gro3P to glycerol and Pi, across in vitro assays with recombinant proteins, transformed and primary mammalian cell cultures, and in vivo mouse liver experiments. In mammalian systems, CrGPDH rewires redox balance, carbon flux, and lipid metabolism in a cell type- and tissue- dependent manner. CrGPDH expression alone supported proliferation of HeLa cells under mitochondrial electron transport chain inhibition or hypoxia, and supported growth of patient-derived fibroblasts with mitochondrial dysfunction. Moreover, human kidney cancer cell lines, which exhibit abnormal lipid accumulation, had decreased triglycerides levels when expressing CrGPDH. Finally, our CrGPDH genetic tool modulated hepatic lipid metabolism in vivo, partially reversing ethanol-induced triglycerides accumulation. Our findings suggest that the coordinated boosting of the Gro3P-glycerol shunt may be a viable strategy to alleviate consequences of redox imbalance and associated impairment of lipogenesis in a wide repertoire of conditions, ranging from primary mitochondrial diseases to obesity, type 2 diabetes, and metabolic dysfunction-associated steatotic liver disease (MASLD)."
+  ],
+  "title": "A genetically encoded bifunctional enzyme that mitigates redox imbalance and lipotoxicity via engineered Gro3P-Glycerol shunt",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

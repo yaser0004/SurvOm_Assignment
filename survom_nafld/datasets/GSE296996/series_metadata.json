@@ -1,0 +1,27 @@
+{
+  "accession": "GSE296996",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE296996",
+  "last_update_date": "Mar 11 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-Seq of HepG2 cells treated with tunicamycin or mock treated as control. Five replicate experiments done on separate days.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "41392190"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1262349"
+  ],
+  "sample_count": 10,
+  "submission_date": "May 13 2025",
+  "summary": [
+    "Endoplasmic reticulum (ER) stress, a disruption of ER homeostasis, is involved in the pathophysiology of several human diseases, including metabolic dysfunction-associated steatotic liver disease (MASLD). MASLD, formerly known as nonalcoholic fatty liver disease (NAFLD), is characterized by an excessive accumulation of hepatic lipids. To characterize ER stress-induced changes in the expression of genes involved in lipid metabolism, HepG2 human hepatoma cells  were exposed to tunicamycin, followed by transcriptome profiling. Among genes involved in lipid biosynthesis, GPAT3 was strongly activated by tunicamycin while many other genes involved in this process (e.g., DGAT2, AGPAT2, AGPAT3, GPAT1, DGAT1 and GPAT4) were downregulated. Since GPAT proteins catalyze rate-limiting step in the de novo synthesis of glycerophospholipids and triglycerides, the unique expression pattern of GPAT3 potentially links it to ER stress-associated accumulation of lipids in hepatic cells."
+  ],
+  "title": "Gene expression profiling of tunicamycin-induced ER stress in HepG2 hepatoma cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

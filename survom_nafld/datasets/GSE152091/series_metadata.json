@@ -1,0 +1,28 @@
+{
+  "accession": "GSE152091",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152091",
+  "last_update_date": "Apr 25 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We analyzed cDNA profiles amplified with SMART-seq v4 generated from RNAs in CaCO2 human gut cells and HepG2 human hpatocellular carcinoma cells with mono- or co-cultured conditions treated with 1 mM of free fatty acids using NovaSeq 6000.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "36959276"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA638294",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP266589"
+  ],
+  "sample_count": 23,
+  "submission_date": "Jun 09 2020",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) influence one of third population around the world. Until now, no effective treatments have been established due to the improper in vitro assays and experimental animal models. By co-culturing human gut and liver cell lines (CaCO2 and HepG2 cells, respectively) interconnected via the microfluidic closed medium circulation loop, we created a gut-liver-on-a-chip (iGLC) platform as an in vitro human model of the gut-liver axis (GLA) in initiation and progression of NAFLD."
+  ],
+  "title": "Integrated Gut/Liver-on-a-Chip platform as in vitro human model of non-alcoholic fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

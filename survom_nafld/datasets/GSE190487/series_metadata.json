@@ -1,0 +1,26 @@
+{
+  "accession": "GSE190487",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190487",
+  "last_update_date": "Feb 03 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Single, live cells were isolated from a NAFLD liver explant and FACS-sorted for CD45+ cells, taking a 70-30 HLADR- to HLADR+ split to correct for lymphocyte preponderance.",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA787280",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP349854"
+  ],
+  "sample_count": 1,
+  "submission_date": "Dec 08 2021",
+  "summary": [
+    "Non-alcoholic steatohepatitis (NASH) is a T-cell mediated, auto-aggressive condition that can result in progressive liver disease and hepatocellular carcinoma. Gastrointestinal B-cells are activated and increased in number in mouse and human NASH, licensing metabolic-cell activation to induce NASH antigen- and microbiota-independently. Genetic or therapeutic depletion of B-cells systemically or gastrointestinal B-cells specifically prevented or reverted NASH and fibrosis. Clinical and molecular analyses from NASH patients demonstrated IgA-levels and activated FcRy+ hepatic myeloid cells to correlate with liver fibrosis degree."
+  ],
+  "title": "Gastrointestinal B-cells license metabolic T-cell activation in NASH microbiota anigen-independently and contribute to fibrosis by IgA-FcRy signalling",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "accession": "GSE135251",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135251",
+  "last_update_date": "Jan 28 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "216 snap-frozen biopsies were processed for RNA sequencing on the Illumina NextSeq 500 system.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "33268509",
+    "33762733",
+    "39566466"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA558102",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP217231"
+  ],
+  "sample_count": 216,
+  "submission_date": "Aug 01 2019",
+  "summary": [
+    "The pathophysiological mechanisms that drive non-alcoholic fatty liver disease (NAFLD) progression remain poorly understood. This multicenter study characterized the transcriptional changes that occur as liver disease progresses.",
+    "216 snap frozen liver biopsies, comprising 206 NAFLD cases with different fibrosis stages and 10 controls were studied. Samples underwent high-throughput RNA sequencing.",
+    "This study provides novel insights into transcriptional changes during liver disease evolution and progression as well as proof of principle that transcriptomic changes reveal potentially tractable biomarkers for NAFLD fibrosis."
+  ],
+  "title": "TRANSCRIPTOMIC PROFILING ACROSS THE SPECTRUM OF NON-ALCOHOLIC FATTY LIVER DISEASE",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

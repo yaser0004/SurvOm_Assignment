@@ -1,0 +1,30 @@
+{
+  "accession": "GSE197399",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE197399",
+  "last_update_date": "Dec 19 2022",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Transcriptional analysis (RNA-Seq) of WT mice on Western diet with fatty liver and genome-wide location analysis (ChIP-Seq) of lamin B1 and Foxa2 in NAFLD patients.",
+  "platform_ids": [
+    "GPL18573",
+    "GPL19057"
+  ],
+  "pubmed_ids": [
+    "36522168"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA810081"
+  ],
+  "sample_count": 61,
+  "submission_date": "Feb 24 2022",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) is highly prevalent in type 2 diabetes mellitus and the elderly, impacting 40% of individuals over 70.  Regulation of heterochromatin at the nuclear lamina has been associated with aging and age-dependent metabolic changes.  We have shown that changes at the lamina in aged hepatocytes and laminopathy models lead to redistribution of lamina-associated domains (LADs), opening of repressed chromatin, and upregulation of genes regulating lipid synthesis and storage, culminating in fatty liver. Here we test the hypothesis that change in expression of lamina-associated proteins and nuclear shape leads to redistribution of LADs, followed by altered binding of pioneer factor FOXA2, uprregulation of lipid synthesis and storage, and culminating in steatosis in younger NAFLD patients (aged 21-51). Changes in nuclear morphology alter LAD partitioning and reduced lamin B1 signal correlates with increased FOXA2 binding prior to severe steatosis in young mice placed on Western det.  Nuclear shape is also changed in younger NAFLD patients. LADs are redistrubted and Lamin B1 signal decreases similarly in mild and severe steatosis. In contrast, FOXA2  binding is similar in normal and NAFLD patients with moderate steatosis and is repositioned only in NAFLD patients with more severe lipid accumulation.  Hence, changes at the nuclear lamina reshape FOXA2 binding with progression of the disease. Our results suggest a role for nuclear lamina in etiology of NAFLD, irrespective of aging, with potential for improved stratification of patients and novel treatments aimed at restoring nuclear lamina function."
+  ],
+  "title": "Redistribution of lamina-associated domains reshapes Foxa2 binding in development of NAFLD",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Genome binding/occupancy profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "accession": "GSE149298",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE149298",
+  "last_update_date": "Aug 28 2020",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "This dataset contains data from SLA-specific and C.alb-specific CD4 T cells sorted from human peripheral blood of SLA-positive AIH patients after in vitro peptide restimulation. Single-cells were FACS-sorted into several 96-well plates and analyzed by 5'-end single-cell RNAseq following the FB5P-seq protocol. The samples were processed and sequenced in three separate experiments (experiment 1: samples 028-03, 128-01, 018-10; experiment 2: samples 018-13, 004-05, 018-04; experiment 3: sample 051-04).",
+  "platform_ids": [
+    "GPL21697"
+  ],
+  "pubmed_ids": [
+    "32649971"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA627921",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP258323"
+  ],
+  "sample_count": 14,
+  "submission_date": "Apr 24 2020",
+  "summary": [
+    "Background & Aims: In most autoimmune disorders, crosstalk of B cells and CD4 T cells results in the accumulation of autoantibodies targeting specific self-antigen like the Soluble Liver Antigen (SLA or SepSecs) in autoimmune hepatitis (AIH). But the associated autoreactive CD4 T cells have not been characterized yet.  Here we isolated and deeply characterized SLA-specific CD4 T cells in AIH patients.  Methods: We used brief ex vivo re-stimulation with overlapping SLA-derived peptides to isolate and phenotype circulating SLA-specific CD4 T cells, and integrative single-cell RNA-seq (scRNA-seq) to characterize their transcriptome and T cell receptor (TCR) repertoire. Identified auto-reactive TCRs were reconstituted cloned and expressed in T cell hybridoma to identify dominant SLA-derived CD4 T cell epitopes. SLA-specific CD4 T cells were tracked in peripheral blood through TCR sequencing, to identify their phenotypic niche. We further characterized disease-associated peripheral blood T cells by high content flow cytometry in an additional cohort of n=42 AIH patients and n=17 non-alcoholic steatohepatitis (NASH) controls.  Results: Frequency of autoreactive SLA-specific CD4 T cells was associated with anti-SLA autoantibodies and had a memory CD45RA-CD27+PD-1+CXCR5-CCR6- phenotype.  ScRNA-seq revealed their pro-inflammatory/B-Helper profile (IL21, IFNG, TIGIT, CTLA4, NR3C1, CD109, KLRB1 and CLEC2D). SLA81-100 and SLA177-204 contain dominant T cell epitopes. Autoreactive TCR clonotypes were restricted to the memory PD-1+CXCR5- CD4 T cells which was significantly increased in the blood of AIH patients and supported B cell differentiation through IL-21. Finally, we identified a specific phenotype (CD45RA-PD-1+CD38+CXCR5-CD127-CD27+) of T cells linked to disease activity and IgG response during AIH.   Conclusions: This work provides for the first time a deep characterization of rare circulating autoreactive CD4 T cells and the identification of their peripheral reservoir in AIH. We also propose a generic phenotype of pathogenic T cells related to AIH disease activity which will be essential to track, delineate and potentially target those pathogenic cells."
+  ],
+  "title": "Integrative molecular profiling of autoreactive CD4 T cells in autoimmune hepatitis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

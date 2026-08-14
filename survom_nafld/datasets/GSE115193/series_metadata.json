@@ -1,0 +1,28 @@
+{
+  "accession": "GSE115193",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE115193",
+  "last_update_date": "Mar 27 2019",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "3 patients either healthy, presenting with NAFLD or NASH",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "30449681"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA474086",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP149518"
+  ],
+  "sample_count": 9,
+  "submission_date": "Jun 01 2018",
+  "summary": [
+    "We sequenced liver biopsy tissue from healthy, patients with NAFLD and patients with NASH"
+  ],
+  "title": "Evaluating pre-clinical models for studying NASH driven HCC.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

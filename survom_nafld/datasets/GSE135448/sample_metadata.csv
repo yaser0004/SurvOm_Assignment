@@ -1,0 +1,20 @@
+gsm,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__diet intervention,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM4010333,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,High protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660008,,MUC3855_LS01_HP_RNA_Seq
+GSM4010334,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,High protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660009,,MUC3856_LS03_HP_RNA_Seq
+GSM4010335,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,High protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660010,,MUC3857_LS13_HP_RNA_Seq
+GSM4010336,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,High protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660011,,MUC3858_LS14_HP_RNA_Seq
+GSM4010337,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,High protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660012,,MUC3859_LS23_HP_RNA_Seq
+GSM4010338,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,High protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660013,,MUC3860_LS24_HP_RNA_Seq
+GSM4010339,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,High protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660014,,MUC3861_LS25_HP_RNA_Seq
+GSM4010340,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,High protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660015,,MUC3862_LS28_HP_RNA_Seq
+GSM4010341,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,High protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660016,,MUC3863_LS29_HP_RNA_Seq
+GSM4010342,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660017,,MUC3865_LS02_LP_RNA_Seq
+GSM4010343,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660018,,MUC3866_LS04_LP_RNA_Seq
+GSM4010344,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660019,,MUC3867_LS12_LP_RNA_Seq
+GSM4010345,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660020,,MUC3868_LS15_LP_RNA_Seq
+GSM4010346,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660021,,MUC3869_LS16_LP_RNA_Seq
+GSM4010347,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660022,,MUC3870_LS19_LP_RNA_Seq
+GSM4010348,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660023,,MUC3871_LS21_LP_RNA_Seq
+GSM4010349,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660024,,MUC3872_LS27_LP_RNA_Seq
+GSM4010350,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660025,,MUC3873_LS32_LP_RNA_Seq
+GSM4010351,Liver,Illumina HiSeq 4000,cDNA,transcriptomic,RNA-Seq,polyA RNA,Homo sapiens,GPL20301,Low protein,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX6660026,,MUC3874_LS34_LP_RNA_Seq

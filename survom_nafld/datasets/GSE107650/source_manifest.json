@@ -1,0 +1,56 @@
+{
+  "accession": "GSE107650",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107650",
+  "gsm_accessions": [
+    "GSM2875111",
+    "GSM2875112",
+    "GSM2875113",
+    "GSM2875114",
+    "GSM2875115",
+    "GSM2875116",
+    "GSM2875117",
+    "GSM2875118",
+    "GSM2875119",
+    "GSM2875120",
+    "GSM2875121",
+    "GSM2875122",
+    "GSM2875123",
+    "GSM2875124"
+  ],
+  "platform_accessions": [
+    "GPL16791"
+  ],
+  "sources": [
+    {
+      "bytes": 2402,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:24Z",
+      "sha256": "6e619604ede0890a1a2a269250dc3b0b19ecd58e03a81d12cb515d6501a3a7e6",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE107nnn/GSE107650/soft/GSE107650_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875111/suppl/GSM2875111_rnaseq.1.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875112/suppl/GSM2875112_rnaseq.2.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875113/suppl/GSM2875113_rnaseq.3.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875114/suppl/GSM2875114_rnaseq.4.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875115/suppl/GSM2875115_rnaseq.5.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875116/suppl/GSM2875116_rnaseq.6.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875117/suppl/GSM2875117_rnaseq.7.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875118/suppl/GSM2875118_rnaseq.8.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875119/suppl/GSM2875119_rnaseq.9.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875120/suppl/GSM2875120_rnaseq.10.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875121/suppl/GSM2875121_rnaseq.11.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875122/suppl/GSM2875122_rnaseq.12.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875123/suppl/GSM2875123_rnaseq.13.tpm.genes.txt.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM2875nnn/GSM2875124/suppl/GSM2875124_rnaseq.14.tpm.genes.txt.gz"
+  ],
+  "tool_version": "0.1.0"
+}

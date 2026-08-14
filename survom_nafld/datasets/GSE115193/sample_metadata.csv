@@ -1,0 +1,10 @@
+gsm,canon__age,canon__bmi,canon__group,canon__sex,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__age,raw__bmi,raw__gender,raw__group,sample_type,source_name,sra_relation,supplementary_files,title
+GSM3169089,33,39.9,heathy,M,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL16791,33,39.9,M,heathy,SRA,patient liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX4150293,,BWF--000_Human
+GSM3169090,61,47.4,heathy,M,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL16791,61,47.4,M,heathy,SRA,patient liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX4150294,,BWF--001_Human
+GSM3169091,47,40.5,heathy,M,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL16791,47,40.5,M,heathy,SRA,patient liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX4150295,,BWF--002_Human
+GSM3169092,52,51.9,NAFLD,M,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL16791,52,51.9,M,NAFLD,SRA,patient liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX4150296,,BWF--003_Human
+GSM3169093,59,49.6,NAFLD,M,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL16791,59,49.6,M,NAFLD,SRA,patient liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX4150297,,BWF--004_Human
+GSM3169094,30,45.5,NAFLD,M,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL16791,30,45.5,M,NAFLD,SRA,patient liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX4150298,,BWF--005_Human
+GSM3169095,45,79.6,NASH,M,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL16791,45,79.6,M,NASH,SRA,patient liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX4150299,,BWF--006_Human
+GSM3169096,67,34.5,NASH,M,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL16791,67,34.5,M,NASH,SRA,patient liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX4150300,,BWF--007_Human
+GSM3169097,47,48.5,NASH,M,Illumina HiSeq 2500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL16791,47,48.5,M,NASH,SRA,patient liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX4150301,,BWF--008_Human

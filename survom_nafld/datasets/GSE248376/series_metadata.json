@@ -1,0 +1,27 @@
+{
+  "accession": "GSE248376",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE248376",
+  "last_update_date": "Jun 20 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Gene expression profiling analysis of RNA-seq data comparing control vs invitro model of NAFLD in Huh7 cells",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38145748"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1043633"
+  ],
+  "sample_count": 6,
+  "submission_date": "Nov 21 2023",
+  "summary": [
+    "Understanding protein secretion has considerable importance in the biotechnology industry and important implications in a broad range of normal and pathological conditions including development, immunology, and tissue function. While great progress has been made in studying individual proteins in the secretory pathway, measuring and quantifying mechanistic changes in the pathway's activity remains challenging due to the complexity of the biomolecular systems involved. Systems biology has begun to address this issue with the development of algorithmic tools for analyzing biological pathways; however most of these tools remain accessible only to experts in systems biology with extensive computational experience. Here, we expand upon the user-friendly CellFie tool which quantifies metabolic activity from omic data to include secretory pathway functions, allowing any scientist to infer protein secretion capabilities from omic data. We demonstrate how the secretory expansion of CellFie (secCellFie) can be used to predict metabolic and secretory functions across diverse immune cells, hepatokine secretion in a cell model of NAFLD, and antibody production in Chinese Hamster Ovary cells."
+  ],
+  "title": "Inferring secretory and metabolic pathway activity from omic data with secCellFie",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

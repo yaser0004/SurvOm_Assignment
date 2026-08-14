@@ -1,0 +1,29 @@
+{
+  "accession": "GSE319635",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE319635",
+  "last_update_date": "Mar 25 2026",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Transcriptional profiling of methionine/choline deficiency\u2013induced responses across liver-relevant cell types using in vitro culture models, including HepG2 hepatocytes, immortalized human endothelial cells, immortalized bone marrow\u2013derived macrophages, and immortalized human hepatic stellate cells.",
+  "platform_ids": [
+    "GPL30172",
+    "GPL30173"
+  ],
+  "pubmed_ids": [
+    "41856478"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1424907"
+  ],
+  "sample_count": 8,
+  "submission_date": "Feb 17 2026",
+  "summary": [
+    "Metabolic dysfunction-associated steatohepatitis (MASH) is a leading cause of cirrhosis and liver related mortality, but it remains unclear how nutrient stresses drive coordinated transcriptional remodeling in the pathogenesis of MASH. Clinical studies reported that methionine and choline deficiency (MCD) promotes chronic liver diseases. Multiple types of MCD diets have been adopted to establish MASH mouse models. However, how methionine and choline deficiency modulates cell-intrinsic transcriptional responses across parenchymal and nonparenchymal liver cell types, and whether these effects recapitulate human MASH, remains unclear. Here, we generated a customized MCD cell culture medium to induce nutrient stress in HepG2 cells, endothelial cells, bone marrow derived macrophages, and hepatic stellate cells (HSCs). RNA sequencing was performed to characterize transcriptional regulations in response to MCD. Across cell types, lack of methionine and choline induced transcriptional program of inflammatory and stress response and suppressed metabolic pathways and cell-cycle progression, suggesting a  proliferation pause as a compensatory stress-adaptive response that preserves cell viability and essential functions.  In addition to these shared responses, MCD stress also caused distinct cell type-specific outputs that could contribute to the pathogenesis of MASH. Integrated analysis of these datasets with human MASH liver single nucleus transcriptomic data demonstrated that MCD condition recapitulates multiple pathophysiological features of human MASH, including the elevated inflammation, enhanced hepatocyte death, disrupted redox balance, altered metabolic homeostasis, and HSC activation. These findings not only uncover how MCD stress promotes MASH progression, but also provide a conceptual basis to guide future use of MCD diet-induced models in MASH studies."
+  ],
+  "title": "Methionine and choline deficiency rewires transcriptional programs to recapitulate molecular features of human MASH",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

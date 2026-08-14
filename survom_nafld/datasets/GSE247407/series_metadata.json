@@ -1,0 +1,27 @@
+{
+  "accession": "GSE247407",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE247407",
+  "last_update_date": "Aug 30 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-Seq of primary hepatocytes from 5 patients (3 reps) cultured with and without FFA for seven days in a 3D collagen sandwich system was performed.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38977136"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1037505"
+  ],
+  "sample_count": 30,
+  "submission_date": "Nov 09 2023",
+  "summary": [
+    "Background & Aims:The prevalence of metabolic dysfunction-associated liver disease (MASLD) has been strongly increasing over the last decades. As MASLD is often associated with more severe disease states, such as metabolic dysfunction-associated steato-hepatitis (MASH), insulin resistance and type 2 diabetes, the increasing number of patients will contribute to an epidemic rise in metabolic abnormalities and end stage liver diseases. Despite the high demand, there are still no FDA-approved pharmaceutical treatments for MASLD due to low efficacy and high toxicity of the targets pursued, indicating a lack of appropriate pre-clinical models for selection and validation. To facilitate earlier stop-go decisions for continued target development, we have established and extensively characterized a primary human steatoticin vitrohepatocyte model system that could guide treatment strategies for MASLD. Methods:Cryopreserved primary human hepatocytes of different donors varying in sex and ethnicity were cultured with free fatty acids (FFA) in a 3D collagen sandwich system for 7 days and the development of MASLD was followed by assessing classical hepatocellular functions. As aproof-of-concept, the effects of Firsocostat (GS-0976) onin vitroMASLD phenotypes were evaluated. Results:Incubation with FFA induced known MASLD pathologies, including steatosis, insulin resistance, mitochondrial dysfunction, inflammation and alterations in prominent human gene signatures similar to patients with MASLD/MASH, indicating the recapitulation of human MASLD in this system. As the application of Firsocostat rescued clinically observed fatty liver disease pathologies, it highlights the ability of thein vitrosystem to test drug efficacy and potentially characterize their mode of action. Conclusions:Altogether, our human MASLDin vitromodel system could guide the development and validation of novel targets and drugs for the treatment of MASLD."
+  ],
+  "title": "Induction ofsteatosis in primary human hepatocytes manifests into hepatic pathophysiology of metabolic dysfunction-associated liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

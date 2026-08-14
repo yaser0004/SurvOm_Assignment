@@ -1,0 +1,27 @@
+{
+  "accession": "GSE309786",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE309786",
+  "last_update_date": "Feb 19 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-Seq profiling of isolated primary human hepatocytes carrying the SNP PNPLA3-I148M as compared to the WT",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "41118258"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1363171"
+  ],
+  "sample_count": 8,
+  "submission_date": "Nov 13 2025",
+  "summary": [
+    "Genetic variants in lipid metabolism influence the risk of developing metabolic dysfunction-associated steatotic liver disease (MASLD), cirrhosis, and end-stage liver disease (ESLD). The mechanisms by which these variants drive disease are poorly understood. Because of the PNPLA3-I148M variant's strong correlation with all stages of the MASLD spectrum and the lack of tractable therapeutic targets, we sought to understand its impact on cellular function and liver metabolism. Primary human hepatocytes (HAH) and iPSC-derived hepatocytes (iHeps) from healthy individuals possessing the PNPLA3-I148M mutation were characterized for changes in lipid metabolism, cellular stress, and survival. Using lipidomics, metabolomics, stable isotope tracing, and flux propensity analysis, we created a comprehensive metabolic profile of the changes associated with the PNPLA3-I148M variant. Functional analysis showed that the presence of the PNPLA3-I148M variant increased endoplasmic reticulum stress, mitochondrial dysfunction, and peroxisomal \u03b2-oxidation, ultimately leading to cell death via ferroptosis. Nutritional interventions, ferroptosis-specific inhibitors, and genetic approaches modulating GPX4 activity in PNPLA3-I148M HAH and iHeps decreased programmed cell death. Our findings indicate that therapies targeting ferroptosis in patients carrying the PNPLA3-I148M variant could affect the development of MASLD and ESLD and highlight the utility of iPSC-based models for the study of genetic contributions to hepatic disorders."
+  ],
+  "title": "PNPLA3-I148M genetic variant rewires lipid metabolism to drive programmed cell death in human hepatocytes",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

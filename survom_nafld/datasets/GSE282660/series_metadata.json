@@ -1,0 +1,29 @@
+{
+  "accession": "GSE282660",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE282660",
+  "last_update_date": "Apr 30 2025",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "To investigate transcriptomic effects of Lenvatinib-mesylate, Salicylic acid, or combination treatment in vitro, bulk RNA-seq data was obtained from Hep3B cells (n = 3 per condition). Hep3B is a human HCC immortalized cell line. Dosage for each group was as follows: Control = DMSO-VEH, Salicylic acid = 1mM , Lenvatinib = 100nM, Salicylic acid + Lenvatinib (combination) = 1mM Salsalate + 100nM Lenvatinib. Cells were treated for 9h. Cells reached no more than 80% confluence.",
+  "platform_ids": [
+    "GPL18460",
+    "GPL30172"
+  ],
+  "pubmed_ids": [
+    "40276482"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1189564"
+  ],
+  "sample_count": 36,
+  "submission_date": "Nov 22 2024",
+  "summary": [
+    "Rates of hepatocellular carcinoma (HCC) are increasing rapidly due to the epidemic of metabolic dysfunction-associated steatohepatitis (MASH). In addition to increased incidence, emerging evidence suggests that MASH driven HCC is associated with poor survival outcomes potentially due to the complex liver microenvironment which is characterized by hypoxia, steatosis, and fibrosis. Lenvatinib, is a multi-tyrosine kinase inhibitor, that is a standard of care therapy for unresected HCC, but 5-year survival rates are less than 20%. Therefore, developing treatments that inhibit cancer growth kinetics and target the tumor microenvironment to improve the therapeutic response in MASH-HCC are needed.  Salsalate is a rheumatoid arthritis therapy that stimulates the AMP-activated protein kinase (AMPK) increasing fatty acid oxidation while reducing de-novo lipogenesis, fibrosis and cell proliferation pathways. Thus, we hypothesized that Salsalate could improve the therapeutic efficacy of Lenvatinib in MASH-HCC. In the current study, we show that treatment of human HCC cells with clinically relevant concentrations of Lenvatinib and Salsalate synergistically suppress proliferation and clonogenic survival, activate AMPK and inhibit the mTOR-HIF1a and Erk1/2 signaling pathways. In orthotopic xenograft and MASH-HCC mouse models Lenvatinib and Salsalate combination therapy suppressed angiogenesis and steatosis and fibrosis. RNA-sequencing revealed combination therapy enhanced mitochondria fatty acid oxidation and suppressed glycolysis, angiogenesis, fibrosis and cell cycle progression with regulatory network analysis suggesting a potential role for Activating transcription factor 3 (ATF3) and ETS-proto-oncogene-1 (ETS1). These data suggest that Lenvatinib and Salsalate combination therapy may have therapeutic potential for MASH-HCC due to effective metabolic rewiring and growth inhibition, leading to improvements in the liver microenvironment and inhibition of HCC proliferation."
+  ],
+  "title": "Salsalate improves the anti-tumor efficacy of Lenvatinib in MASH-driven hepatocellular carcinoma.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

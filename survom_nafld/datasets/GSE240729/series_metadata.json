@@ -1,0 +1,30 @@
+{
+  "accession": "GSE240729",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE240729",
+  "last_update_date": "Nov 05 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "- Selection of translation cohort",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38811591",
+    "39399467"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1005170"
+  ],
+  "sample_count": 67,
+  "submission_date": "Aug 14 2023",
+  "summary": [
+    "- Background & Aims: Considering the escalating prevalence of metabolic dysfunction-associated steatotic liver disease (MASLD) and MASLD-related fibrosis, accurate non-invasive biomarkers for diagnosis and staging of fibrosis are urgently needed. This study Aims to develop a blood-based biomarker panel for fibrosis detection in individuals with MASLD.",
+    "- Approach & Results: Using a translational diet-induced LDLr-/-.Leiden MASLD mouse model, candidate biomarkers were identified focused on the mechanism of collagen deposition, by integrating hepatic gene expression and new extracellular matrix deposition, as detected by dynamic D2O-labeling. To translate these findings to humans, gene expression profiles and biomarkers were analyzed in liver biopsies and serum samples from 67 individuals with histologically characterized MASLD and variable degrees of fibrosis. This led to the selection of three biomarkers   for a blood-based fibrosis biomarker panel: IGFBP7, SSc5D and Sema4D. The accuracy of the biomarker panel was tested in a separate cohort of 128 individuals with histologically characterized MASLD across different stages of fibrosis. A Light Gradient Boosting Machine (LGBM) model was applied to predict fibrosis stage in MASLD (F0/F1: AUC = 0.90; F2: AUC = 0.91; F3/F4: AUC = 0.87).",
+    "- Conclusion & Discussion: Using a translational Approach to identify collagen turnover related proteins indicative of fibrosis, we developed an accurate blood-based biomarker panel to detect and stage hepatic fibrosis in individuals with MASLD."
+  ],
+  "title": "Development of a novel non-invasive biomarker panel for hepatic fibrosis in individuals with MASLD",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

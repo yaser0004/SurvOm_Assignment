@@ -1,0 +1,30 @@
+{
+  "accession": "GSE241474",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE241474",
+  "last_update_date": "Dec 13 2023",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Comparative gene expression profiling analysis of RNA-seq data for treated 311E and untreated 317E cell lines cultured in triplicate, two fresh GEMM tumors from which the two cell lines were derived, three fresh esophageal mucosa samples from SOX2-/-BRD4-NUTM1+/- control mice, and one primary human patient tumor sample from pleural fluid. 311E cell line cells were treated with ABBV-075 (9nM), tazemetostat (taz, 1uM), taz + ABBV=075, or with DMSO for 96h.",
+  "platform_ids": [
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "37819236"
+  ],
+  "relations": [
+    "SubSeries of: GSE241477",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1008246"
+  ],
+  "sample_count": 21,
+  "submission_date": "Aug 22 2023",
+  "summary": [
+    "NUT carcinoma (NC) is a highly aggressive subtype of squamous carcinoma driven by the BRD4-NUT fusion oncoprotein. Closely resembling human NC (hNC), GEMM tumors (mNC) are poorly differentiated squamous carcinomas that express high levels of MYC and metastasize to organs (liver, lung) and regional lymph nodes. Two GEMM-derived cell lines were developed whose transcriptomic and epigenetic landscapes, characterized by RNAseq and CUT&RUN, show striking overlap with those of primary GEMM tumors. As in hNC, BRD4-NUT functions to block differentiation and maintain growth of mNC, as evidenced by BRD4-NUT knockdown and treatment of mNC cell lines with BET bromodomain inhibitors (BETi). Mechanistically, GEMM primary tumor and cell lines form very large H3K27ac-enriched super-enhancers that are unique to hNC, termed megadomains, that are invariably associated with key hNC-defining transcriptional oncogenic targets, Myc and Trp63."
+  ],
+  "title": "A genetically engineered mouse model (GEMM) of NUT carcinoma (RNA-Seq)",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

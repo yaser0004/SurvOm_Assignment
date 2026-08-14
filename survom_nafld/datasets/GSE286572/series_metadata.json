@@ -1,0 +1,27 @@
+{
+  "accession": "GSE286572",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE286572",
+  "last_update_date": "Jul 30 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA-seq profiling was done on cultured HepaRG hepatocytes after 24 hours of exposure to media supplemented with cord plasma from pregnancies of mothers with obesity or media supplemented with cord plasma from pregnancies of mothers with normal weight.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "40715324"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1209943"
+  ],
+  "sample_count": 30,
+  "submission_date": "Jan 13 2025",
+  "summary": [
+    "Infants born to mothers with obesity have increased risk for later development of non-alcoholic fatty liver disease (NAFLD); however early hepatic changes that occur in these infants remain unclear. We integrated metabolomic analysis of umbilical cord plasma and transcriptomic analysis of cord plasma-exposed hepatocytes to examine differences in the intrauterine environment of pregnancies with and without maternal obesity. We identified significantly higher abundance of fatty acids, bioactive lipids, and upregulation of glutathione metabolism in cord plasma from pregnancies with obesity compared to normal weight pregnancies. Hepatocytes exposed to cord plasma from pregnancies with obesity exhibited distinct transcriptional changes that favored cellular injury and inflammation, and impaired hepatocyte development compared to hepatocytes exposed to cord plasma of normal weight pregnancies. In integrated analysis, metabolite-gene relationships were distinct between pregnancies with and without obesity, and the abundance of lipids were positively correlated with the expression of KDM4D, DTX3, and NOTCH4 and negatively correlated with the expression of MT_TS1. Our findings provide novel insights into transcriptional changes induced in hepatocytes by circulating factors in the intrauterine environment of pregnancies with obesity. Excess intrauterine lipids may contribute to hepatic injury, inflammation, impaired mitochondrial function, and impaired hepatocyte development in infants of pregnancies with obesity."
+  ],
+  "title": "Hepatocyte reporter cells and integrated metabolomic and transcriptomic analyses reveal insights into hepatocyte changes in offspring of pregnancies with obesity",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

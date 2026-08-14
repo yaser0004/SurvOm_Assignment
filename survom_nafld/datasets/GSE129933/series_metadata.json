@@ -1,0 +1,29 @@
+{
+  "accession": "GSE129933",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129933",
+  "last_update_date": "Jun 21 2019",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Single-cell RNA-seq analysis of human liver lymphatic endothelial cells.",
+  "platform_ids": [
+    "GPL20301",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "31156626"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA533227",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP192823"
+  ],
+  "sample_count": 4,
+  "submission_date": "Apr 17 2019",
+  "summary": [
+    "Liver lymphatic vessels support liver function by draining interstitial fluid, cholesterol, fat, and immune cells for surveillance in the liver draining lymph node. Chronic liver disease is associated with increased inflammation and immune cell infiltrate. However, it is currently unknown if or how lymphatic vessels respond to increased inflammation and immune cell infiltrate in the liver during chronic disease. Here we demonstrate that lymphatic vessel abundance increases in patients with chronic liver disease and is associated with areas of fibrosis and immune cell infiltration. Using single-cell mRNA sequencing and multi-spectral immunofluorescence analysis we identified liver lymphatic endothelial cells and found that chronic liver disease results in lymphatic endothelial cells (LECs) that are in active cell cycle with increased expression of CCL21. Additionally, we found that LECs from patients with NASH adopt a transcriptional program associated with increased IL13 signaling. Moreover, we found that oxidized low density lipoprotein, associated with NASH pathogenesis, induced the transcription and protein production of IL13 in LECs both in vitro and in a mouse model. Finally, we show that oxidized low density lipoprotein reduced the transcription of PROX1 and decreased lymphatic stability. Together these data indicate that LECs are active participants in the liver, expanding in an attempt to maintain tissue homeostasis. However, when inflammatory signals, such as oxidized low density lipoprotein are increased, as in NASH, lymphatic function declines and liver homeostasis is impeded."
+  ],
+  "title": "Chronic Liver Disease in Humans Causes Expansion and Differentiation of Liver Lymphatic Endothelial Cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

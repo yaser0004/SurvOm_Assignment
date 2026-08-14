@@ -1,0 +1,32 @@
+{
+  "accession": "GSE169447",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169447",
+  "last_update_date": "Jun 08 2021",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Refer to individual Series",
+  "platform_ids": [
+    "GPL19057",
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "34017133"
+  ],
+  "relations": [
+    "SuperSeries of: GSE169445",
+    "SuperSeries of: GSE169446",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA716614"
+  ],
+  "sample_count": 122,
+  "submission_date": "Mar 23 2021",
+  "summary": [
+    "This SuperSeries is composed of the SubSeries listed below."
+  ],
+  "title": "XCR1+ type 1 conventional dendritic cells drive liver pathology in Non-Alcoholic Steatohepatitis.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

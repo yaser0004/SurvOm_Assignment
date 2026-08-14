@@ -1,0 +1,27 @@
+{
+  "accession": "GSE334407",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE334407",
+  "last_update_date": "Jul 08 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Cell Culture: Huh7 and PHH cells were used. Huh7 cells were kindly provided by Dr Camilla Pramfalk (Karolinska Institute) and were cultured as previously described. PHH cells were obtained from Thermofisher (ThermoFisher, HMCPSQ) originating from both male and female donors (see supplementary data, Table 1 for donor characteristics. Frozen PHH cells were thawed in a 37\u00b0C water bath rapidly. 500\u00b5L of warm plating media (500mL Williams E Medium (ThermoFisher, A1217601) supplemented with a Primary Hepatocyte Thawing and Plating Supplements (ThermoFisher, CM3000) which contained FBS, dexamethasone, and a cocktail of penicillin-streptomycin, insulin, GlutaMAX\u2122 and HEPES solution, was then added to the cryovial. Cells were then suspended and transferred to a falcon tube containing 4.5mL of warm plating media. Cell number and viability was then quantified using Trypan blue stain (ThermoFisher, 15250061) and a Cellometer Auto T4 Bright Field Cell Counter. Cells were then diluted with plating media and seeded into plates which had been pre-coated with collagen type I (ThermoFisher, A1048301) at a density of 35,000 cells/well for 96-well plates, 150,000 cells/well for 24-well plates or 50,000 cells/well for 12mm diameter glass cover slips for microscopy experiments. Both Huh7 and PHH cells were maintained at 37\u00b0C in 5% CO2. Experimental Treatments: Huh7 cells were seeded into relevant plates and cultured in experimental media comprised of 2% HS, 5.5mM glucose and 800\u00b5M of 4 FAs (oleic acid (O), palmitic acid (P), linoleic acid (L) and alpha-linoleic acid (A)) in one of two physiological ratios: OPLA (45:30:24:1) or POLA (44:45:10:1), or a no fat control as previously described. Huh7 cells were cultured in experimental media for seven days with media changes every other day as previously described. Following seeding, PHHs were cultured in plating media overnight then cultured in experimental media which consisted of Williams E Medium (ThermoFisher, A1217601) and Primary Hepatocyte Maintenance Supplements (ThermoFisher, CM4000) containing dexamethasone and a cocktail of penicillin-streptomycin, insulin, transferrin, selenium complex, BSA, GlutaMAX\u2122, and HEPES solution, supplemented with 2% HS. PHH cells were cultured in 800\u00b5M OPLA and POLA or no fat control experimental media for four days with media changes every other day.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "42397153"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1474965"
+  ],
+  "sample_count": 30,
+  "submission_date": "Jun 04 2026",
+  "summary": [
+    "Background and aims: The initiation and progression of metabolic dysfunction-associated steatotic liver disease (MASLD) is challenging to study in vivo in humans and robust in vitro high-fidelity disease models are limited.  Although primary human hepatocytes (PHH) are often considered to be the gold-standard, immortalized hepatic cell lines are often utilised because of their scalability and experimental tractability. Therefore, the aim of this study was to compare the metabolic responses of PHHs with our characterized Huh7-based model when exposed to the physiologically-relevant fatty acid (FA) mixtures. Methods: PHH and Huh7 cells were treated with 2% human serum and a combination of sugar and FAs enriched in either unsaturated (OPLA) or saturated (POLA) FAs for 4 or 7 days, respectively.  Stable isotope tracers were utilized to investigate basal changes in hepatocyte metabolism in response to different treatment regimes. Changes in cell viability, media biochemistry, intracellular metabolism, lipid droplet morphology and gene expression were quantified. Results:  Huh7 cells had greater viability than PHH, while NEFA uptake and triglyceride secretion were similar. Both OPLA and POLA increased the proportion of large lipid droplets in Huh7 cells, whereas only OPLA produced comparable effects in PHH. Despite higher baseline TG in PHH, both models showed similar lipid composition, de novo lipogenic responses, and glycogen levels. Compared to Huh7 cells PHH exhibited higher media 3-hydroxybutyrate, lower media lactate, reduced glucose uptake, and donor-dependent transcriptomic variability. Conclusions:  Our data demonstrate that Huh7 cells are metabolically adaptable and when cultured in physiologically relevant media metabolic readouts are more similar to those observed in PHH cells, thus making Huh7 a potentially useful workhorse model to investigate relevant pathways that may underpin the development of MASLD."
+  ],
+  "title": "Physiologically relevant media are associated with overlapping metabolic responses in primary human hepatocytes and Huh7 cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

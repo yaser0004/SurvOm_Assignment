@@ -1,0 +1,28 @@
+{
+  "accession": "GSE214432",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE214432",
+  "last_update_date": "Sep 14 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "HCC tumor tissues were obtained from 45 patients who underwent surgically curative resection and used for RNA isolation and genome-wide transcriptome profiling by RNA-Seq.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "37621719"
+  ],
+  "relations": [
+    "SubSeries of: GSE214435",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA885397"
+  ],
+  "sample_count": 45,
+  "submission_date": "Sep 29 2022",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) is a major global health problem with its high prevalence and risk of developing lethal complications, progressive liver fibrosis and hepatocellular carcinoma (HCC), the only rising cancer mortality in the U.S. Ever after curative surgical resection, HCC can recur at extremely high rate (70% within 5 years); therefore, prediction of recurrent HCC is expected to guide decision of neo/adjuvant therapies currently under active development. Herein, we derived an HCC-transcriptome-based signature to predict disseminative recurrence, which originates from disseminated HCC cells from surgically resected initial tumor, and validated it in an independent cohort."
+  ],
+  "title": "Transcriptome profile of hepatocellular carcinoma from non-alcoholic fatty liver.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

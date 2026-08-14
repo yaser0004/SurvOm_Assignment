@@ -1,0 +1,33 @@
+{
+  "accession": "GSE246223",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE246223",
+  "last_update_date": "Aug 21 2024",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Refer to individual Series",
+  "platform_ids": [
+    "GPL21273",
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39090079"
+  ],
+  "relations": [
+    "SuperSeries of: GSE246213",
+    "SuperSeries of: GSE246221",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1032073"
+  ],
+  "sample_count": 160,
+  "submission_date": "Oct 25 2023",
+  "summary": [
+    "This SuperSeries is composed of the SubSeries listed below."
+  ],
+  "title": "A Mouse Model for Metabolic Dysfunction-associated Steatotic Liver Disease and Hepatocellular Carcinoma",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Genome binding/occupancy profiling by high throughput sequencing"
+  ]
+}

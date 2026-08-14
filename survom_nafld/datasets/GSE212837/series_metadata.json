@@ -1,0 +1,30 @@
+{
+  "accession": "GSE212837",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212837",
+  "last_update_date": "Jan 04 2023",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Total nuclei were extracted from snap frozen liver tissue of patients or mice and analyzed using single nuclei RNA-seq",
+  "platform_ids": [
+    "GPL18573",
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "36599008"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA877625"
+  ],
+  "sample_count": 20,
+  "submission_date": "Sep 07 2022",
+  "summary": [
+    "Advanced hepatic fibrosis, driven by the activation of hepatic stellate cells (HSCs), affects millions world-wide and is the strongest predictor of mortality in non-alcoholic steatohepatitis (NASH), yet there are no approved anti-fibrotic therapies. To identify novel anti-fibrotic drug targets, we integrated progressive transcriptomic and morphological responses that accompany HSC activation in advanced disease using single nuclear RNA sequencing and tissue clearing in a robust, murine NASH model. In advanced fibrosis, an autocrine HSC signaling circuit emerges that is comprised of 68 receptor-ligand interactions conserved between murine and human NASH. These predicted interactions are supported by the parallel appearance of markedly increased direct stellate cell-cell contacts in murine NASH. As proof of principle, pharmacological inhibition of one such autocrine interaction, NTRK3-NTF3, inhibits human HSC activation in culture and reverses advanced murine NASH-fibrosis\u00a0in vivo. We have uncovered a novel repertoire of previously uncharacterized anti-fibrotic drug targets underlying advanced fibrosis\u00a0in vivo.\u00a0The findings suggest a novel therapeutic paradigm in which stage-specific therapies could yield enhanced anti-fibrotic efficacy in patients with advanced fibrosis."
+  ],
+  "title": "An autocrine signaling circuit in hepatic stellate cells underlies advanced fibrosis in non-alcoholic steatohepatitis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

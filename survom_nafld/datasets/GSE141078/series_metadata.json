@@ -1,0 +1,28 @@
+{
+  "accession": "GSE141078",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE141078",
+  "last_update_date": "Jan 04 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "HepG2 cells were obtained from ATCC and were cultured in DMEM supplemented with 10% (v/v) fetal bovine serum and non-essential amino acids.  Cells were trypsinized at 70% of confluency and reverse transfection was performed using 30 nM of genome smart-pool non-target siRNA (scramble), or siNREP targeting 4 different sequences (Dpharmacon). At 72 hours post-transfection, total RNA  was extracted using standard Trizol reagent (Invitrogen)  and cleaned up using RNeasy mini kit columns (Qiagen). Polyadenylated RNAs were isolated using NEBNext Magnetic Oligo d(T)25 Beads and first-strand cDNA synthesis was performed using NEBNext RNA first-strand synthesis module (New England BioLabs). Directional second strand synthesis was performed using NEBNExt Ultra Directional second strand synthesis kit. The NEBNext DNA Library Prep Master Mix Set for Illumina was then used to prepare individually bar-coded next-generation sequencing expression libraries. Paired-end sequencing was performed on an Illumina HiSeq2500 sequencer.",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "32250344"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA591945",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP233376"
+  ],
+  "sample_count": 6,
+  "submission_date": "Nov 26 2019",
+  "summary": [
+    "To evaluate the global transcriptomic changes induced by Neuronal Regeneration Related Protein (NREP) downregulation,  we employed RNA-sequencing in HepG2 cells lacking NREP. Enriched pathway analyses of upregulated genes revealed pathways involved in cholesterol synthesis, fatty acid metabolism, NAFLD and PI3K-250 AKT signaling. In contrast, enriched downregulated genes included those for membrane trafficking, non-sense mediated decay, glucagon signaling, and cell-cycle. Differentially expressed genes included HMGCR (cholesterol synthesis) and TGFBR1 (TGF-\u03b2 signaling and fibrosis)."
+  ],
+  "title": "The transcriptomic changes induced by NREP downregulation in HepG2 cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "accession": "GSE303732",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE303732",
+  "last_update_date": "Jul 29 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "scRNA-seq of 3 matched pairs of primary appendiceal adenocarcinoma (AC) and peritoneal carcinomatosis (PC) patient-derived organoids (PDOs).",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "42190666"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1297179"
+  ],
+  "sample_count": 6,
+  "submission_date": "Jul 25 2025",
+  "summary": [
+    "Peritoneal carcinomatosis is a common yet deadly manifestation of gastrointestinal cancers, with few effective treatments. To identify targetable determinants of peritoneal metastasis, we focused on appendiceal adenocarcinoma (AC), a gastrointestinal cancer that metastasizes almost exclusively to the peritoneum. Current treatments are extrapolated from colorectal cancer (CRC), yet AC has distinct genomic alterations, mucinous morphology and peritoneum restricted metastatic pattern. Further, no stable preclinical models of AC exist, limiting drug discovery and representing an unmet clinical need. We establish a first-in-class stable biobank of 16 long-term cultured AC patient-derived organoids (PDOs), including 3 matched primary AC-peritoneal carcinomatosis (AC-PC) pairs. By enriching for cancer cells, AC PDOs enable accurate genomic characterization relative to paucicellular AC tissue. We establish an organoid orthotopic intraperitoneal xenograft model that recapitulates diffuse peritoneal carcinomatosis and show that PC-organoids retain increased metastatic capacity, decreased growth factor dependency and sensitivity to standard of care chemotherapy relative to matched primary AC organoids. Single cell profiling of AC-PC pairs reveals dedifferentiation from mucinous differentiated states in primary AC into intestinal stem cell and fetal progenitor states in PC, with upregulation of oncogenic signaling pathways. Through hypothesis-driven drug testing, we identify RAS inhibitor RMC-7977 and Wnt-targeting tyrosine kinase inhibitor WNTinib as novel, clinically actionable strategies to more effectively target AC-PC."
+  ],
+  "title": "An appendiceal cancer organoid biobank identifies phenotypic evolution and druggable dependencies of peritoneal carcinomatosis",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "accession": "GSE164444",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE164444",
+  "last_update_date": "Jul 04 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Refer to individual Series",
+  "platform_ids": [
+    "GPL20301"
+  ],
+  "pubmed_ids": [
+    "33827976"
+  ],
+  "relations": [
+    "SuperSeries of: GSE164441",
+    "SuperSeries of: GSE164443",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA690718"
+  ],
+  "sample_count": 37,
+  "submission_date": "Jan 08 2021",
+  "summary": [
+    "This SuperSeries is composed of the SubSeries listed below."
+  ],
+  "title": "A selective HDAC8 inhibitor potentiates antitumor immunity and efficacy of immune checkpoint blockade in hepatocellular carcinoma",
+  "type": [
+    "Expression profiling by high throughput sequencing",
+    "Genome binding/occupancy profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "accession": "GSE193066",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE193066",
+  "last_update_date": "Jul 01 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Liver biopsy tissues were obtained from 106 HCC-naive NAFLD patients (164 biopsy tissues, including 1st biopsy for all patients and 2nd follow-up biopsy for 58 PLS-NAFLD high-risk patients), and used for RNA isolation and genome-wide transcriptome profiling by RNA-Seq.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "35731891"
+  ],
+  "relations": [
+    "SubSeries of: GSE193084",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA794357"
+  ],
+  "sample_count": 164,
+  "submission_date": "Jan 05 2022",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) is a major global health problem with its high prevalence and risk of developing lethal complications, progressive liver fibrosis and hepatocellular carcinoma (HCC), the only rising cancer mortality in the U.S. For early HCC detection to improve the dismal prognosis, there is an urgent unmet need to identify a subset of NAFLD patients with elevated risk of HCC. Herein, we derived a hepatic-transcriptome-based NAFLD-specific HCC risk biomarker, PLS-NAFLD, and validated it in two independent cohorts of HCC-naive and experienced NAFLD patients."
+  ],
+  "title": "Transcriptome profile of liver biopsy tissues from patients with non-alcoholic fatty liver disease (tissue validation set 1).",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

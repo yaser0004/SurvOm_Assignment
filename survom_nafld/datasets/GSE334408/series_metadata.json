@@ -1,0 +1,25 @@
+{
+  "accession": "GSE334408",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE334408",
+  "last_update_date": "Jul 20 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Comparative gene expression profiling analysis of RNA-seq data for human primary hepatic stellate cells (PhHSCs). Transcriptomic analysis of 8 samples in total, comprising 4 biological replicates of TGF-\u03b21 36h 8ng/mL -treated PhHSCs and 4 biological replicates of TGF-\u03b21 36h 8ng/mL + Resmetirom 300uM 24h co-treated PhHSCs.",
+  "platform_ids": [
+    "GPL28038"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1474964"
+  ],
+  "sample_count": 8,
+  "submission_date": "Jun 04 2026",
+  "summary": [
+    "Resmetirom is a liver-directed, thyroid hormone receptor \u03b2 (THR\u03b2)-selective agonist approved for treating metabolic-associated steatohepatitis (MASH). While Resmetirom hepatocyte-specific effects are well-established, its impact on other hepatic cells, particularly hepatic stellate cells (HSCs), the main fibrogenic cells, remain unknown.  Using animal models, immortalized cell lines, and primary murine and human HSCs, we combined pharmacological treatments with genetic manipulation of THR\u03b1 and fatty acid amide hydrolase (FAAH) to examine the effects of Resmetirom. Resmetirom ameliorates MASH through actions in both hepatocytes and HSCs. The overexpression of solute carrier organic anion transporter family member 1B1(SLCO1\u03b21) in both cell types increases the efficiency of Resmetirom. THR\u03b1 expression is higher in HSCs than in hepatocytes in both human and murine cells. Resmetirom attenuates TGF-\u03b21-induced HSC activation via THR\u03b1 and increased FAAH expression and activity, while their inhibition prevents Resmetirom from reducing fibrotic marker expression and the elevated glycolytic activity typical of activated HSCs.  These results uncover an unrecognized mechanism of action for Resmetirom, demonstrating that its antifibrotic efficacy extends beyond hepatocytes to include direct effects on HSCs via THR\u03b1 and FAAH. These results may support the development of future therapeutic strategies aimed at THR\u03b1 in HSC, in combination with existing approaches targeting hepatocyte THR\u03b2."
+  ],
+  "title": "Resmetirom ameliorates fibrogenesis in hepatic stellate cells via thyroid hormone receptor alpha-fatty-acid amide hydrolase 1 signaling pathway",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

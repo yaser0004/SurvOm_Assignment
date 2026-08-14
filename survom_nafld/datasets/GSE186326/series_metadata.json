@@ -1,0 +1,29 @@
+{
+  "accession": "GSE186326",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE186326",
+  "last_update_date": "Feb 14 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Single cells were prepared from human liver biopsies from NAFLD patiehts. Kupffer cells were FAC-sorted by CD14+ and treated with 500nM DPI for 24hrs.  RNA was isolated and purified by Qiagen Rneasy micro kit and applied to RNAseq",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "38280848"
+  ],
+  "relations": [
+    "SubSeries of: GSE186329",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA773403",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP342549"
+  ],
+  "sample_count": 4,
+  "submission_date": "Oct 21 2021",
+  "summary": [
+    "To investigate the human primary Kupffer cells from NAFLD patients response to DPI in vitro."
+  ],
+  "title": "Activation of GPR3-b-Arrestin2-PKM2 by DPI enhanced glycolysis in kupffer cells [Human KC]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

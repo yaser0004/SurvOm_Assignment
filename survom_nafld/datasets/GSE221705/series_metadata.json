@@ -1,0 +1,27 @@
+{
+  "accession": "GSE221705",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE221705",
+  "last_update_date": "Jun 01 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "APOB-mutant organoids, 2 clonal lines from 2 different donors, were treated with the respective drug (ACCi, FASi, DGAT2i, FXRa, or hFGF19) or vehicle (control) for 7 days. Thereafter, organoids were harvested for RNA extraction.",
+  "platform_ids": [
+    "GPL30173"
+  ],
+  "pubmed_ids": [
+    "36823355"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA915399"
+  ],
+  "sample_count": 12,
+  "submission_date": "Dec 23 2022",
+  "summary": [
+    "We treated APOB-mutant organoids with different anti-NAFLD drug candidates that were effective at resolving steatosis. To understand the mechanisms of drug action and adverse drug effects we performed bulk RNA-sequencing on drug-treated and vehicle-treated APOB mutant organoids."
+  ],
+  "title": "Transcriptomic characterization of control and drug-treated APOB-mutant organoids to study steatosis-resolving drug effects",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

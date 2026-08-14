@@ -1,0 +1,25 @@
+{
+  "accession": "GSE334651",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE334651",
+  "last_update_date": "Jun 10 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "RNA sequencing was performed on 120 human liver tissue samples, including healthy controls (n = 12), MASLD liver samples without HCC (n = 13), and MASLD-associated HCC samples (n = 95). The HCC cohort consisted of 47 paired tumor and adjacent non-tumor liver tissues and one additional tumor sample. Transcriptomic analyses were conducted to characterize immune-related alterations and to identify neoantigens derived from alternative splicing and gene fusion events during MASLD-associated hepatocarcinogenesis.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "41592600"
+  ],
+  "relations": [],
+  "sample_count": 120,
+  "submission_date": "Jun 08 2026",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD)-driven hepatocellular carcinoma (HCC) exhibits reduced responsiveness to immune checkpoint blockade compared with viral or other etiologies, suggesting underlying differences in tumor immunogenicity and immune evasion. To characterize the immunogenic landscape of MASLD-driven HCC, we profiled transcriptomic data from 120 liver tissue samples, including healthy controls (n = 12), MASLD samples (n = 13), and MASLD-associated HCC samples (n = 95), and investigated the contribution of transcriptome-derived neoantigens to this altered immune landscape, focusing on alternative splicing and gene fusion events as non-canonical sources of tumor-specific epitopes."
+  ],
+  "title": "Alternative splicing- and gene fusion-derived neoepitopes in MASLD-associated hepatocellular carcinoma",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

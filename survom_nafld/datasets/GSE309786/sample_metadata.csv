@@ -1,0 +1,9 @@
+gsm,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__genotype,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM9279097,Liver,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,WT,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31058564,,"Isolated Human Hepatocytes, HH1148, PNPLA3-WT"
+GSM9279098,Liver,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,WT,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31058565,,"Isolated Human Hepatocytes, HH36, PNPLA3-WT"
+GSM9279099,Liver,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,WT,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31058566,,"Isolated Human Hepatocytes, HH68, PNPLA3-WT"
+GSM9279100,Liver,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,WT,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31058567,,"Isolated Human Hepatocytes, HH80, PNPLA3-WT"
+GSM9279101,Liver,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,I148M,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31058568,,"Isolated Human Hepatocytes, 1, PNPLA3-I148M"
+GSM9279102,Liver,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,I148M,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31058569,,"Isolated Human Hepatocytes, HH002, PNPLA3-I148M"
+GSM9279103,Liver,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,I148M,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31058570,,"Isolated Human Hepatocytes, HH003, PNPLA3-I148M"
+GSM9279104,Liver,Illumina NextSeq 500,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL18573,I148M,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX31058571,,"Isolated Human Hepatocytes, HH1072, PNPLA3-I148M"

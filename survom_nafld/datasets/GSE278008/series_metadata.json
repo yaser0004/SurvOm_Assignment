@@ -1,0 +1,27 @@
+{
+  "accession": "GSE278008",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE278008",
+  "last_update_date": "Apr 01 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We performed gene expression profiling analysis using data obtained from mRNA-seq of NAFLD model cells, with or without the co-administration 0.5 \u00b5M HQF and 5 \u00b5M CuCl2 for 24 h. For the construction of NAFLD cell model, HepG2 cells were treated with 750 \u03bcM palmitic acid for 24 h, and the palmitic acid solution was blocked by BSA. PA: NAFLD model cells, PA_CuCl2_HQF: NAFLD model cells treated with copper and HQF.",
+  "platform_ids": [
+    "GPL34284"
+  ],
+  "pubmed_ids": [
+    "40080431"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1165211"
+  ],
+  "sample_count": 6,
+  "submission_date": "Sep 25 2024",
+  "summary": [
+    "Copper deficiency is closely associated with non-alcoholic fatty liver disease (NAFLD). We developed pseudo-natural flavonol (HQF) as novel ionophore for rapid intracellular copper delivery. The co-administration of HQF and copper has synergistic effects in restraining lipid droplet formation with unknown mechanism. Here, hepatic HepG2 cells were treated with palmitic acid (PA) to construct a NAFLD cell model, which was used to investigate the biological effects of HQF-mediated copper delivery on NAFLD intervention."
+  ],
+  "title": "Transcriptomic analysis of NAFLD model cells with the co-administration of pseudo-natural flavonol and copper",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

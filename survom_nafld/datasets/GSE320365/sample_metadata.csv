@@ -1,0 +1,16 @@
+gsm,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM9541699,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Adjacent,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263362,,Patient 1_1
+GSM9541700,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Tumor,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263363,,Patient 1_2
+GSM9541701,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Adjacent,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263364,,Patient 2_1
+GSM9541702,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Tumor,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263365,,Patient 2_2
+GSM9541703,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Adjacent,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263366,,Patient 3_1
+GSM9541704,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Tumor,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263367,,Patient 3_2
+GSM9541705,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Tumor,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263368,,Patient 4_2
+GSM9541706,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Tumor,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263369,,Patient 5_2
+GSM9541707,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Adjacent,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263370,,Patient 6_1
+GSM9541708,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Adjacent,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263371,,Patient 6_2
+GSM9541709,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Tumor,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263372,,Patient 6_3
+GSM9541710,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Adjacent,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263373,,Patient 7_1
+GSM9541711,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Tumor,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263374,,Patient 7_2
+GSM9541712,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Adjacent,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263375,,Patient 8_1
+GSM9541713,Liver,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Tumor,Liver,SRA,Liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX32263376,,Patient 8_2

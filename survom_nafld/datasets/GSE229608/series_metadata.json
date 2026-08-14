@@ -1,0 +1,26 @@
+{
+  "accession": "GSE229608",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE229608",
+  "last_update_date": "May 06 2024",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Liver organoids were cultured without or with macrophages and analyzed using scRNAseq.",
+  "platform_ids": [
+    "GPL20795"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "SubSeries of: GSE229609",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA955148"
+  ],
+  "sample_count": 3,
+  "submission_date": "Apr 13 2023",
+  "summary": [
+    "Hepatitis C virus (HCV) infection has been successfully managed by anti-viral therapies, however, high prevalence to severe chronic liver disease state including non-alcoholic fatty liver disease (NAFLD) is a problem encountered even after the cure of hepatitis C. Moreover, there is currently no reliable in vitro model capable of investigating host-viral interactions and monitoring the progression of viral hepatitis to chronic liver diseases. Recent organoid technology has been reported for successful infection of HCV, but there is still lack of non-parenchymal cells, which play a crucial role in disease progression. Here, we provided a novel multicellular liver organoid model using co-culture system of macrophages and liver organoids differentiated from the same cell source, human embryonic stem cells. Surprisingly, HCV infection led potent lipid accumulation in liver organoids through regulation of host lipid metabolism, which was further promoted by macrophage co-culture. Lipid enriched condition provided by longterm-treatment with fatty acid accelerated potent HCV amplification and further promotion of inflammation and fibrosis progression. Therefore, our model may be a valuable novel platform recapitulating diverse phenotypes with host-virus intercommunication and inter-cellular interactions and further progressive features of hepatitis C-associated chronic NAFLD progression of patients with HCV."
+  ],
+  "title": "Multicellular liver organoid model for recapitulating hepatitis C virus infection and non-alcoholic fatty liver disease progression [scRNA-Seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

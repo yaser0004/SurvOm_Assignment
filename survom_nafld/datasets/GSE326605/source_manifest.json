@@ -1,0 +1,44 @@
+{
+  "accession": "GSE326605",
+  "argv": [
+    "screen",
+    "--file",
+    "survom_nafld/candidates/accessions.txt",
+    "--out",
+    "survom_nafld"
+  ],
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE326605",
+  "gsm_accessions": [
+    "GSM9635514",
+    "GSM9635515",
+    "GSM9635516",
+    "GSM9635517"
+  ],
+  "platform_accessions": [
+    "GPL24676"
+  ],
+  "sources": [
+    {
+      "bytes": 4352,
+      "from_cache": true,
+      "retrieved_at": "2026-08-13T11:16:25Z",
+      "sha256": "b79ee560126e7b203dec9c0a9c1ae1f162dfc9ed3bc3b7772ac15dc2e20e826c",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE326nnn/GSE326605/soft/GSE326605_family.soft.gz"
+    }
+  ],
+  "supplementary_filenames": [
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635514/suppl/GSM9635514_NTCP_Negative_A_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635514/suppl/GSM9635514_NTCP_Negative_A_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635514/suppl/GSM9635514_NTCP_Negative_A_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635515/suppl/GSM9635515_NTCP_Positive_A_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635515/suppl/GSM9635515_NTCP_Positive_A_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635515/suppl/GSM9635515_NTCP_Positive_A_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635516/suppl/GSM9635516_NTCP_Negative_B_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635516/suppl/GSM9635516_NTCP_Negative_B_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635516/suppl/GSM9635516_NTCP_Negative_B_matrix.mtx.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635517/suppl/GSM9635517_NTCP_Positive_B_barcodes.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635517/suppl/GSM9635517_NTCP_Positive_B_features.tsv.gz",
+    "ftp://ftp.ncbi.nlm.nih.gov/geo/samples/GSM9635nnn/GSM9635517/suppl/GSM9635517_NTCP_Positive_B_matrix.mtx.gz"
+  ],
+  "tool_version": "0.1.0"
+}

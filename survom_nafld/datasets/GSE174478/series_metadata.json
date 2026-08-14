@@ -1,0 +1,29 @@
+{
+  "accession": "GSE174478",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE174478",
+  "last_update_date": "Aug 20 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "94 biopsy proven NAFLD patients were studied. The liver biopsy samples underwent high-throughput RNA sequencing and we compared relative gene expression levels across these samples.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "35380992",
+    "40262132"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA730024",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP319881"
+  ],
+  "sample_count": 94,
+  "submission_date": "May 14 2021",
+  "summary": [
+    "Nonalcoholic steatohepatitis (NASH) is a severe form of nonalcoholic fatty liver disease (NAFLD) that is characterized by hepatic steatosis, inflammation, hepatocellular injury, and fibrosis, which lead to progressed cirrhosis and hepatocellular carcinoma. Despite its increasing prevalence on a global scale, the pathogenesis of NASH progression is not well understood. To elucidate the underlying mechanisms of NASH progression, we conducted transcriptome analyses of Japanese NAFLD cohort in our facility."
+  ],
+  "title": "Whole transcriptome profiling of Japanese  nonalcoholic fatty liver disease cohort.",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "accession": "GSE167523",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE167523",
+  "last_update_date": "Jul 15 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Global RNA sequencing of snap frozen liver tissue from 98 patients with biopsy-proven NAFLD",
+  "platform_ids": [
+    "GPL21290"
+  ],
+  "pubmed_ids": [
+    "34105780"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA704861",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP308410"
+  ],
+  "sample_count": 98,
+  "submission_date": "Feb 25 2021",
+  "summary": [
+    "Nonalcoholic fatty liver disease (NAFLD) is the most common liver disease worldwide. Nonalcoholic steatohepatitis (NASH), the progressive form of NAFLD, and advanced fibrosis are associated with poor outcomes but their molecular pathogenesis is not fully elucidated.",
+    "Global RNA sequencing of snap frozen liver tissue from 98 patients with biopsy-proven NAFLD was performed.",
+    "Unsupervised hierarchical clustering well-distinguished NASH from NAFL, and NASH patients exhibited molecular abnormalities reflecting their pathological features. Transcriptomic analysis identified multiple secreted proteins upregulated in NASH and/or advanced fibrosis"
+  ],
+  "title": "Transcriptome profiling of human non-alcoholic fatty liver disease",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

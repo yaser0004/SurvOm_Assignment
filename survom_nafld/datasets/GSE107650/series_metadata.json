@@ -1,0 +1,28 @@
+{
+  "accession": "GSE107650",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE107650",
+  "last_update_date": "May 15 2019",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Transcriptomes were generated from liver biopsies of seven non-alcoholic fatty liver disease patients before/after low carbohydrate diet",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "29456073"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA420975",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP126075"
+  ],
+  "sample_count": 14,
+  "submission_date": "Dec 04 2017",
+  "summary": [
+    "We performed a short-term dietary intervention with a low-carbohydrate diet in obese subjects with NAFLD"
+  ],
+  "title": "Low carbohydrate diet study for non-alcoholic fatty liver disease patients",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

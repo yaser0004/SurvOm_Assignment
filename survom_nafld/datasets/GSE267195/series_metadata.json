@@ -1,0 +1,30 @@
+{
+  "accession": "GSE267195",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267195",
+  "last_update_date": "Jul 09 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Refer to individual Series",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "40257301"
+  ],
+  "relations": [
+    "SuperSeries of: GSE267031",
+    "SuperSeries of: GSE267032",
+    "SuperSeries of: GSE267033",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1110221"
+  ],
+  "sample_count": 68,
+  "submission_date": "May 10 2024",
+  "summary": [
+    "This SuperSeries is composed of the SubSeries listed below."
+  ],
+  "title": "Single-cell landscape of peripheral immune cells in MAFLD/MASH",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

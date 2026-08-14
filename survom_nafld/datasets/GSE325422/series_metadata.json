@@ -1,0 +1,25 @@
+{
+  "accession": "GSE325422",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE325422",
+  "last_update_date": "Mar 24 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Five experimental groups were included: Control, IR, IR + low NaB (IRL), IR + medium NaB (IRM), and IR + high NaB (IRH). Cells were collected at 24 h and 48 h with three biological replicates per group. Differential expression analysis was performed to identify genes associated with NaB-mediated effects on insulin resistance.",
+  "platform_ids": [
+    "GPL29480"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1439900"
+  ],
+  "sample_count": 15,
+  "submission_date": "Mar 19 2026",
+  "summary": [
+    "Objective: Metabolic dysfunction-associated steatotic liver disease (MASLD) is characterized by hepatic insulin resistance (IR) and impaired lipid\u2013glucose metabolism. Sodium butyrate (NaB), a short-chain fatty acid (SCFA), may improve metabolic homeostasis, but its actions in MASLD-related IR remain unclear. This study investigated the therapeutic effects and mechanisms of NaB in palmitate (PA)-induced insulin-resistant hepatocytes and high-fat diet (HFD)-induced MASLD mice. Methods: PA-treated HepG2 cells received NaB (0.5\u20131.5 mM). Lipid accumulation, glucose uptake, glycogen content, and metabolic gene and protein expression were analyzed using biochemical assays, staining, qPCR, Western blotting, and RNA-seq. In vivo, C57BL/6 mice were fed an HFD for 16 weeks and then treated orally with NaB (200 or 400 mg/kg/day) for 8 weeks. Metabolic phenotypes, liver histology, and major signaling pathways were analyzed. Results: In PA-induced HepG2 cells, NaB dose-dependently decreased triglyceride, total cholesterol, low-density lipoprotein cholesterol, and non-esterified fatty acid levels, while increasing high-density lipoprotein cholesterol, glucose uptake, and glycogen storage. NaB suppressed lipogenesis (\u2193SREBP1c, \u2193FASN), enhanced fatty acid oxidation (\u2191PGC-1\u03b1, \u2191PPAR\u03b1, \u2191CPT1A), restored GPR43\u2013CaMKK2\u2013adenosine monophosphate-activated protein kinase (AMPK)\u03b1\u2013SIRT1 signaling, and activated PI3K/AKT signaling (\u2191p-IRS1, \u2191p-PI3K, \u2191p-AKT, \u2191GLUT2), thereby reducing gluconeogenic markers (\u2193FOXO1, \u2193PCK1, \u2193G6PC1) and increasing glycogen synthase (\u2191GS). Transcriptomics confirmed enrichment of PPAR\u03b1 and metabolic pathways. In HFD-fed mice, NaB reduced body weight, improved lipid profiles, alleviated steatosis, improved glucose tolerance and insulin sensitivity, and restored liver glycogen, with greater effects at the higher dose. Conclusion: NaB alleviates hepatic steatosis and IR in MASLD by activating AMPK and PI3K/AKT pathways, promoting fatty acid oxidation, and enhancing glycogen synthesis. NaB may serve as a promising multi-target metabolic modulator for MASLD."
+  ],
+  "title": "RNA-seq analysis of sodium butyrate effects on palmitate-induced insulin resistance in HepG2 cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

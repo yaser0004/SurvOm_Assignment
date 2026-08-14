@@ -1,0 +1,29 @@
+{
+  "accession": "GSE169446",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169446",
+  "last_update_date": "Jun 08 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Liver biopsies from bariatric surgery patients were collected in RPMI (Supplemented with 10%FBS) and immediately transported on ice to the laboratory. A section of tissue was formalin fixed for histopathological evaluation; however, the bulk of the tissue was digested using Miltenyi Tumor dissociation Kit (cat no. 130-095-929) as per the manufacturer\u2019s instructions. Single cell suspensions thus generated were stored in Liquid nitrogen in FBS+20% DMSO until further processing. For sorting and scRNAseq of DCs obtained from control and NASH livers, the stored cells were thawed in a 37oC water bath, washed once with complete media and once with FACS buffer (PBS+2% FBS). After FC blocking, cells were stained for 30 min and washed once with FACS buffer and once with sorting buffer (PBS+0.5mM EDTA). Sorting was carried out at DKFZ cytometry facility using BD FACS Aria. Bulk-sorted CD45+ Lin- CD11c+ were then processed for 10X (10X Genomics).",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "34017133"
+  ],
+  "relations": [
+    "SubSeries of: GSE169447",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA716620",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP311823"
+  ],
+  "sample_count": 2,
+  "submission_date": "Mar 23 2021",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) and non-alcoholic steatohepatitis (NASH) are prevalent liver conditions, which underlie the development of life-threatening cirrhosis, liver failure and liver cancer. Chronic necro-inflammation is a critical factor in development of NASH, yet the cellular and molecular mechanisms of immune dysregulation in this disease are poorly understood. Here, using single cell transcriptomic analysis, we comprehensively profiled the immune composition of the mouse liver during NASH. We identified a significant pathology-associated increase in hepatic conventional dendritic cells (cDC), and further defined their source as NASH-induced boost in cycling of cDC progenitors in the bone marrow. Analysis of blood and liver from patients on the NALFD/NASH spectrum showed that cDC type 1 (cDC1) were more abundant and activated in disease. Genomic analysis of cDC-T pairs in liver draining lymph nodes revealed that cDCs in NASH promote inflammatory T cell reprogramming, previously associated with NASH worsening. Finally, depletion of cDC1 in XCR1DTA mice or using anti-XCL1 blocking antibody attenuated liver pathology in NASH mouse models. Overall, our study provides a comprehensive characterization of cDC biology in NASH, and identifies XCR1+ cDC1 as an important driver of liver pathology."
+  ],
+  "title": "XCR1+ type 1 conventional dendritic cells drive liver pathology in Non-Alcoholic Steatohepatitis [10x scRNA-seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

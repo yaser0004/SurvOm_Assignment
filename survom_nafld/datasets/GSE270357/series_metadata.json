@@ -1,0 +1,25 @@
+{
+  "accession": "GSE270357",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE270357",
+  "last_update_date": "Jun 19 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We performed RNA expression profiling analysis using data obtained from RNA sequencing (RNA-seq) of PA-treated HepG2 cells with Cur alone or co-treated with Cur and CuCl2 for 12 h. For PA group, The HepG2 cells pre-treated with 750 \u03bcM for 24h. For PA-Cur group, the cells pre-treated with 750 \u03bcM for 24h, were then incubated with 20 \u03bcM Cur for 12 h. For PA-Cur-Cu group, the PA-treated HepG2 cells were co-treated with Cur (20 \u00b5M) and CuCl2 (5 \u00b5M) for 12 h. RNA-seq was performed on three replicates per condition.PA: PA-stimulated HepG2 cells, PA-Cur: Cur treated PA-stimulated HepG2 cells.PA\u2013Cur-Cu: Cur-Cu treated PA-stimulated HepG2 cells",
+  "platform_ids": [
+    "GPL34284"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1126246"
+  ],
+  "sample_count": 9,
+  "submission_date": "Jun 20 2024",
+  "summary": [
+    "Globally, non-alcoholic fatty liver disease (NAFLD) poses a major risk to human health. The natural polyphenol curcumin (Cur) can act as a copper (Cu) transporter in a Cur-Cu complex for enhanced Cu cell loading, but the effects of such a complex on NAFLD remain unclear. HepG2 liver cancer cells were treated with palmitic acid (PA) to create an in-vitro NAFLD model. And the purpose of this study was to investigate the impacts of a Cur- Cu complex on this model, and its potential mechanisms and targets in the reduction of fatty-acid accumulation in HepG2 cells."
+  ],
+  "title": "Transcriptome sequencing of palmitic acid-treated HepG2 cells upon intervention of curcumin or curcumin-copper complex",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

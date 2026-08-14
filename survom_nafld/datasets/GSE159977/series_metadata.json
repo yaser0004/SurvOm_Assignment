@@ -1,0 +1,28 @@
+{
+  "accession": "GSE159977",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159977",
+  "last_update_date": "Apr 28 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "mRNA profiles of liver tissues from 10 patients with different pathological characteristics",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "33762733"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA671310",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP288365"
+  ],
+  "sample_count": 10,
+  "submission_date": "Oct 23 2020",
+  "summary": [
+    "Hepatocellular carcinoma (HCC) has dismal treatment responses to systemic therapies and is caused by both, viral and non-viral etiologies, including non-alcoholic steatohepatitis (NASH) 1\u20135. NASH - triggered by high caloric intake and sedentary lifestyle - has become an important driver for HCC development. Immunotherapy has been recently approved for HCC but stratification of responders versus non-responders has remained an unmet need 5\u20138. Here, we found a progressive accumulation of non-classical activated CD8+PD-1+ T-cells in livers of NASH-affected patients and mice. PD-L1/PD-1-targeted immunotherapy of NASH-induced HCC administered either at cancer-initiation or after cancer-establishment lacked beneficial effects in mice. On the contrary, PD-1-targeted immunotherapy drove hepatic necro-inflammation and increased liver cancer incidence, tumor number, and nodule size. Anti-CD8 or anti-CD8/anti-NK1.1 treatment suppressed liver cancer development, implicating CD8+ T-cells as liver cancer drivers in the context of NASH. In line, PD-1-/- mice challenged with a NASH-inducing diet displayed early-onset of liver cancer. Mechanistically, PD-1-targeted immunotherapy triggered necro-inflammation and a pro-tumorigenic environment in the context of NASH, increasing the abundance of hepatic TOX+CXCR6+ expressing CD8+PD-1+ TNF+ T-cells. Anti-CD8/anti-PD-1 or anti-TNF/anti-PD-1, but not anti-CD4/anti-PD-1 treatment reverted anti-PD1 treatment-related increase of liver inflammation, NASH severity and tumorigenesis. Gene expression profile and increased abundance of murine hepatic CD8+PD-1+ T-cells were corroborated in human CD8+PD-1+ T cells derived from NASH patients. In a meta-analysis of clinical trials testing PD-1-targeting immune checkpoint inhibitors alone (i.e. pembrolizumab) or in combination in 1656 patients with advanced HCC, immunotherapy was not favorable over to control treatment in non-viral- when compared to viral-related HCC. Similarly, in two clinical cohorts tested, patients with NASH-driven HCC had a significantly worse overall survival with PD-1-targeted immunotherapy than HCC patients with other etiologies. Our data identify non-viral etiologies, particularly NASH, as potentially non-responsive in the context of HCC immunotherapy, providing a strong rational basis for patient stratification."
+  ],
+  "title": "Immune-checkpoint blockade lacks anti-tumorgenicity in NASH-induced HCC",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

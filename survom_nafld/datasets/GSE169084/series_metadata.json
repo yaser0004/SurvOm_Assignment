@@ -1,0 +1,29 @@
+{
+  "accession": "GSE169084",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169084",
+  "last_update_date": "Jun 29 2022",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "We performed bulk RNA sequencing of DMSO differentiated Huh751 at different time points",
+  "platform_ids": [
+    "GPL21697"
+  ],
+  "pubmed_ids": [
+    "34535664"
+  ],
+  "relations": [
+    "SubSeries of: GSE66843",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA715183",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP311067"
+  ],
+  "sample_count": 12,
+  "submission_date": "Mar 17 2021",
+  "summary": [
+    "Abstract: Chronic liver disease and hepatocellular carcinoma (HCC) are life-threatening with limited treatment options. The lack of clinically relevant/tractable experimental models hampers therapeutic discovery. We developed a simple and robust human liver cell-based system modeling a clinical prognostic liver signature (PLS) predicting long-term liver disease progression toward HCC. Using the PLS as a readout, followed by validation in NASH-HCC animal models and patient-derived tumorspheroids, we identified nizatidine, a histamine receptor H2 (HRH2) blocker, for treatment of advanced liver disease and HCC chemoprevention. Perturbation studies combined with scRNA-Seq analyses of patient liver tissues uncovered HRH2+, CLEC5Ahigh, MARCOlow liver macrophages and hepatocytes as nizatidine targets. The PLS model combined with scRNA-Seq of patient tissues enables discovery of urgently needed targets and therapeutics for treatment of advanced liver disease and cancer prevention."
+  ],
+  "title": "A human liver cell-based system modeling a clinical prognostic liver signature combined with single-cell RNA-Seq for discovery of liver disease therapeutics",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

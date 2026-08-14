@@ -1,0 +1,27 @@
+{
+  "accession": "GSE168285",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168285",
+  "last_update_date": "Sep 30 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Methods: Liver MPS microtissues were cultured for 14 days in the PhysioMimix MPS platform (CN Bio Innovations) under varying culture conditions. Liver tissue mRNA profiles were generated and compared by deep sequencing, in triplicate, using Illumina NexstSeq500. The sequencing data was demultiplexed using Illumina bcl2fastq2-v2.16. The quality of the reads was assessed using FastQC (www.bioinformatics.babraham.ac.uk/projects/fastqc). The reads were processed and mapped to the human genome using the Bcbio-nextgen framework version 1.1.2 (https://github.com/chapmanb/bcbio-nextgen). The aligner used was Hisat2 v.2.1.0 (www.ncbi.nlm.nih.gov/pmc/articles/PMC4655817). The alignment quality was assessed with QualiMap v.2.2.2 (http://qualimap.bioinfo.cipf.es). Transcript-level abundances were imported and utilized for counts estimation using the TxImport package. Identification of differentially expressed genes at False Discovery Rate < 5% per comparison was performed using DESeq2 in R.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "34526653"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA706750"
+  ],
+  "sample_count": 179,
+  "submission_date": "Mar 04 2021",
+  "summary": [
+    "Purpose: Liver MPS NASH model was cultured in the presence or absence of six independent cues to identify the culture conditions that produce a model of NAFLD/NASH that most closely represents the human disease state."
+  ],
+  "title": "Transcriptomal profiling of liver microphysiological system (MPS) co-culture NASH model under varying culture conditions",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "accession": "GSE193080",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE193080",
+  "last_update_date": "Sep 14 2023",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Total RNA for genome-wide transcriptome profiling by RNA-Seq was extracted from formalin-fixed paraffin embedded tissues of tumor-adjacent liver tissues obtained at the time of curative surgical resection for NAFLD-related HCC.",
+  "platform_ids": [
+    "GPL18573"
+  ],
+  "pubmed_ids": [
+    "35731891",
+    "37621719"
+  ],
+  "relations": [
+    "SubSeries of: GSE193084",
+    "SubSeries of: GSE214435",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA794730"
+  ],
+  "sample_count": 59,
+  "submission_date": "Jan 05 2022",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) is a major global health problem with its high prevalence and risk of developing lethal complications, progressive liver fibrosis and hepatocellular carcinoma (HCC), the only rising cancer mortality in the U.S. For early HCC detection to improve the dismal prognosis, there is an urgent unmet need to identify a subset of NAFLD patients with elevated risk of HCC. Herein, we derived a hepatic-transcriptome-based NAFLD-specific HCC risk biomarker, PLS-NAFLD, and validated it in two independent cohorts of HCC-naive and experienced NAFLD patients.."
+  ],
+  "title": "Transcriptome profile of liver biopsy tissues from patients with non-alcoholic fatty liver disease (tissue validation set 2).",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

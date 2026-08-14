@@ -1,0 +1,31 @@
+{
+  "accession": "GSE256398",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE256398",
+  "last_update_date": "Aug 27 2025",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "Single nucleus RNA sequencing of human liver cells from healthy controls (n=6) and patients with alcohol-associated cirrhosis (n=4), alcohol-associated hepatitis (n=5), MASLD (n=3), MASH fibrosis (n=4) or MASH cirrhosis (n=4). Single nucleus RNA sequencing of mouse liver cells from LratCre+ TdTomhomo (n=1) and Cre-negative Rspo3 floxed (n=1). Set 1 of single nucleus RNA sequencing of mouse liver cells from LratCre-positive Rspo3 floxed (n=1) and LratCre-negative Rspo3 floxed (n=1)",
+  "platform_ids": [
+    "GPL24247",
+    "GPL24676",
+    "GPL34328"
+  ],
+  "pubmed_ids": [
+    "40074890",
+    "40824250"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1079341"
+  ],
+  "sample_count": 30,
+  "submission_date": "Feb 22 2024",
+  "summary": [
+    "Hepatic stellate cells (HSCs) exert a central pathogenic role in the development of liver fibrosis. However, the fibrosis-independent and homeostatic functions of these specialized liver pericytes remain poorly understood. Here, we demonstrate that genetic depletion of HSCs alters Wnt target gene expression in hepatocytes and liver zonation, leading to profound alterations of regeneration, cytochrome P450 metabolism and injury. HSC-selective deletion of Rspondin-3, a modulator of Wnt signalling with high enrichment in HSCs, phenocopies the effects of HSC depletion on hepatocyte gene expression, zonation, regeneration and cytochrome P450-mediated detoxification and increases alcohol-associated and metabolic dysfunction-associated steatotic liver injury. Rspondin-3 expression decreases with HSC activation and is associated with disease progression in patients with alcohol-associated and metabolic dysfunction-associated steatotic liver disease. These hitherto unknown protective and hepatocyte-regulating functions of HSCs via Rspondin-3, resembling the R-spondin-expressing stromal niche of other organs, should be integrated into therapeutic concepts for liver fibrosis."
+  ],
+  "title": "Hepatic stellate cells control liver zonation and function via R-spondin 3",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

@@ -1,0 +1,7 @@
+gsm,canon__tissue,canon__treatment,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__cell line,raw__cell type,raw__tissue,raw__treatment,sample_type,source_name,sra_relation,supplementary_files,title
+GSM7912303,liver,palmitic acid,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Huh7,hepatocyte,liver,palmitic acid,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX22595441,,TR1
+GSM7912304,liver,palmitic acid,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Huh7,hepatocyte,liver,palmitic acid,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX22595442,,TR2
+GSM7912305,liver,palmitic acid,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Huh7,hepatocyte,liver,palmitic acid,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX22595443,,TR3
+GSM7912306,liver,control,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Huh7,hepatocyte,liver,control,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX22595444,,WR1
+GSM7912307,liver,control,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Huh7,hepatocyte,liver,control,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX22595445,,WR2
+GSM7912308,liver,control,Illumina NovaSeq 6000,cDNA,transcriptomic,RNA-Seq,total RNA,Homo sapiens,GPL24676,Huh7,hepatocyte,liver,control,SRA,liver,https://www.ncbi.nlm.nih.gov/sra?term=SRX22595446,,WR3

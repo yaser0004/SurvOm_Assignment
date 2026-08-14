@@ -1,0 +1,28 @@
+{
+  "accession": "GSE158884",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE158884",
+  "last_update_date": "Jun 09 2021",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "The expression of YY1 was knocked down by lentiviral-mediated short-hairpin RNAs (shRNAs) and artificial miRNA (amiRNA). The RNA-seq was carried out in HepG2 cells with YY1 knockdown (n=8) and the HepG2 cells tranduced with the control virus (n=14).",
+  "platform_ids": [
+    "GPL16791"
+  ],
+  "pubmed_ids": [
+    "34099540"
+  ],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA666897",
+    "SRA: https://www.ncbi.nlm.nih.gov/sra?term=SRP286033"
+  ],
+  "sample_count": 22,
+  "submission_date": "Oct 01 2020",
+  "summary": [
+    "Dysregulation of YY1 has been observed in many human cancers. Recent studies have shown that overexpression of YY1 plays a pivotal role in the initiation and progression of nonalcoholic fatty liver disease (NAFLD) which may further progress into hepatocellular carcinoma (HCC). To obtain a detailed view of genes and pathways regulated by YY1 in the liver, we carried out global RNA-seq in liver HepG2 cells with YY1 knocked down."
+  ],
+  "title": "RNA-seq in HepG2 cells with YY1 knockdown",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

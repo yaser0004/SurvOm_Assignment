@@ -1,0 +1,9 @@
+gsm,canon__tissue,instrument_model,library_selection,library_source,library_strategy,molecule,organism,platform_id,raw__tissue,sample_type,source_name,sra_relation,supplementary_files,title
+GSM8330444,subcutaneous adipose tissue,Illumina NovaSeq 6000,cDNA,transcriptomic single cell,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,subcutaneous adipose tissue,SRA,subcutaneous adipose tissue,,,SAT1
+GSM8330445,subcutaneous adipose tissue,Illumina NovaSeq 6000,cDNA,transcriptomic single cell,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,subcutaneous adipose tissue,SRA,subcutaneous adipose tissue,,,SAT2
+GSM8330446,subcutaneous adipose tissue,Illumina NovaSeq 6000,cDNA,transcriptomic single cell,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,subcutaneous adipose tissue,SRA,subcutaneous adipose tissue,,,SAT3
+GSM8330447,subcutaneous adipose tissue,Illumina NovaSeq 6000,cDNA,transcriptomic single cell,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,subcutaneous adipose tissue,SRA,subcutaneous adipose tissue,,,SAT4
+GSM8330448,subcutaneous adipose tissue,Illumina NovaSeq 6000,cDNA,transcriptomic single cell,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,subcutaneous adipose tissue,SRA,subcutaneous adipose tissue,,,SAT5
+GSM8330449,subcutaneous adipose tissue,Illumina NovaSeq 6000,cDNA,transcriptomic single cell,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,subcutaneous adipose tissue,SRA,subcutaneous adipose tissue,,,SAT6
+GSM8330450,subcutaneous adipose tissue,Illumina NovaSeq 6000,cDNA,transcriptomic single cell,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,subcutaneous adipose tissue,SRA,subcutaneous adipose tissue,,,SAT7
+GSM8330452,subcutaneous adipose tissue,Illumina NovaSeq 6000,cDNA,transcriptomic single cell,RNA-Seq,polyA RNA,Homo sapiens,GPL24676,subcutaneous adipose tissue,SRA,subcutaneous adipose tissue,,,SAT8

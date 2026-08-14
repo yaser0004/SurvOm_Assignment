@@ -1,0 +1,25 @@
+{
+  "accession": "GSE316562",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE316562",
+  "last_update_date": "Jan 23 2026",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "To elucidate the lipid-lowering mechanism of C3R in the high-fat HepG2 cell model, transcriptome sequencing was performed to analyze differentially expressed genes. The experimental design comprised five groups: a blank control (NC), a high-fat model induced with 500 \u03bcM FFA (FFA), and three C3R intervention groups at 25 \u03bcM (FCL), 50 \u03bcM (FCM), and 100 \u03bcM (FCH), each with three biological replicates. Following the treatment protocol in section 2.5, cells were trypsinized, washed with PBS, and total RNA was extracted using TRIzol reagent (1 mL per 5\u00d710\u2076 cells). RNA concentration and purity were measured with a Nanodrop2000, integrity was verified by agarose gel electrophoresis, and RQN values were determined using an Agilent 5300 system. Qualified RNA samples were submitted to Shanghai Majorbio Bio-pharm Technology Co., Ltd. for library preparation (Illumina NovaSeq Reagent Kit) and sequencing. Sequencing reads were aligned to the human reference genome (Ensembl: Homo_sapiens) using HiSat2, followed by gene expression quantification with RSEM.",
+  "platform_ids": [
+    "GPL34284"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1403396"
+  ],
+  "sample_count": 15,
+  "submission_date": "Jan 15 2026",
+  "summary": [
+    "Non-alcoholic fatty liver disease (NAFLD) is characteristic by pathological lipid accumulation in hepatocytes. This study investigates how Cyanidin-3-rutinoside(C3R), a natural anthocyanin with antioxidant and metabolic regulatory properties, counteracts this process. In a free fatty acid (FFA)-induced HepG2 steatosis model, C3R significantly reduced intracellular triglycerides, total cholesterol, and LDL-C levels, suppressed lipid droplet formation, and alleviated oxidative stress by enhancing SOD/CAT activities and GSH content while lowering MDA and ROS. RNA-seq analysis revealed that C3R reversed FFA-induced transcriptomic alterations. Mechanistically, C3R inhibited SREBP2-mediated cholesterol synthesis, activated the PCSK9/LDLR pathway to promote cholesterol clearance, and upregulated PPAR\u03b3-dependent CYP7A1 expression to stimulate bile acid synthesis from cholesterol. C3R also enhanced autophagic flux, facilitating lipid droplet degradation. Molecular docking confirmed high-affinity binding of C3R to INSIG1, PCSK9, and PPAR\u03b3, with hydroxyl groups forming specific hydrogen bonds at active sites, supporting direct target engagement. These findings establish a multi-targeted mechanism for C3R in ameliorating hepatic steatosis and provide a molecular basis for anthocyanin-mediated regulation of lipid metabolism."
+  ],
+  "title": "Cyanidin-3-rutinoside(C3R) Attenuates Free Fatty Acid-Induced Hepatic Lipid Accumulation in HepG2 Cells",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

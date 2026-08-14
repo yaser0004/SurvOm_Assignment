@@ -1,0 +1,30 @@
+{
+  "accession": "GSE246221",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE246221",
+  "last_update_date": "Aug 21 2024",
+  "organisms": [
+    "Homo sapiens",
+    "Mus musculus"
+  ],
+  "overall_design": "To investigate transcriptomic alterations during MASLD progression, we profiled hepatic transcriptome of the model mouse at different ages with RNA-seq (7 weeks, healthy control; 8 weeks, acute STZ-treated state; 14-20 weeks, MASL to MASH transition; 32 weeks, MASH with fibrosis; 44 weeks, MASH with advanced fibrosis; 50-56 weeks, MASLD-related dysplastic nodules and HCC.",
+  "platform_ids": [
+    "GPL24247",
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "39090079"
+  ],
+  "relations": [
+    "SubSeries of: GSE246223",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1032104"
+  ],
+  "sample_count": 148,
+  "submission_date": "Oct 25 2023",
+  "summary": [
+    "The lack of an appropriate preclinical model of metabolic dysfunction-associated steatotic liver disease (MASLD) that recapitulates the whole disease spectrum impedes exploration of disease pathophysiology and the development of effective treatment strategies. Considering the fact that MASLD patients accompanying type 2 diabetes mellitus (T2DM) have high risk of developing metabolic dysfunction-associated steatohepatitis (MASH), advanced fibrosis, and HCC, we treated low-dose streptozotocin (STZ; 40 mg/kg) for 5 consecutive days and subsequently fed a high-fat diet (HFD) to male C57BL/6J mice at 7 weeks of age (STZ+HFD). STZ+HFD mice gradually developed fatty liver, MASH, hepatic fibrosis, and hepatocellular carcinoma (HCC) in the context of metabolic dysfunction. In particular, from 20 weeks of age, MASH was evident, and from 32 weeks of age, advanced fibrosis was developed. At 38 weeks, a proportion of STZ+HFD mice developed HCC, which was subsequently observed in all mice up to 68 weeks of age. Furthermore, the hepatic transcriptomic features of STZ+HFD mice closely reflected those of obese patients with T2DM, MASH and MASLD-related HCC. Notably, dietary changes and tirzepatide administration alleviated MASH, hepatic fibrosis, and hepatic tumorigenesis in STZ+HFD mice. In conclusion, a murine model recapitulating the main histopathologic, transcriptomic, and metabolic alterations observed in MASLD patients with metabolic dysfunction was successfully established."
+  ],
+  "title": "A Mouse Model for Metabolic Dysfunction-associated Steatotic Liver Disease and Hepatocellular Carcinoma [RNA-seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

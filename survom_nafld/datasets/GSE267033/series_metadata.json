@@ -1,0 +1,28 @@
+{
+  "accession": "GSE267033",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE267033",
+  "last_update_date": "Apr 30 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "scRNAseq samples were collected from white blood cells from healthy controls and MAFLD/MASH patients",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [
+    "40257301"
+  ],
+  "relations": [
+    "SubSeries of: GSE267195",
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1109376"
+  ],
+  "sample_count": 15,
+  "submission_date": "May 08 2024",
+  "summary": [
+    "Background & Aims: Metabolic dysfunction associated steatotic liver disease (MAFLD) progresses to metabolic dysfunction-associated steatohepatitis (MASH) and is a major cause of liver cirrhosis. Although liver inflammation is the hallmark feature of MASH vs MAFLD, the involvement of the peripheral immune cell compartments in disease progression is poorly understood and single cell profiles of peripheral immune cells in MAFLD/MASH are not known. Methods: MAFLD/MASH patients and healthy volunteers have been prospectively enrolled into a cross-sectional study. Patients have been histologically stratified and further characterized by liver bulk RNA-Seq. Peripheral immune cells from patients and control blood samples have been comprehensively profiled using bulk and single RNA-Seq. Results: 22 patients with fibrosis stage less then F3 have been histologically stratified into patients with low, medium and high disease activity score (NAS). In contrast to fibrosis, NAS group correlated with non-invasive imaging readouts and blood biomarkers of liver damage and inflammation (ALT, AST). Prevalence of type 2 diabetes and obesity was increased with NAS stage. Bulk RNA-seq profiling of patient liver biopsies revealed gene signatures that were positively and negatively associated with NAS. Known marker genes for liver fibrosis where up-regulated on RNA level.  Blood bulk RNA-sequencing showed only moderate differences in patients versus healthy controls. In contrast, single cell analysis of white blood cells revealed multiple alterations of immune (sub-) populations including increased abundance of immature B-cells and myeloid suppressor cells in MAFLD/MASH patients as well as disease-association of neutrophil sub-populations."
+  ],
+  "title": "Single-cell landscape of peripheral immune cells in MAFLD/MASH [scRNA-seq]",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}

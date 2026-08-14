@@ -1,0 +1,25 @@
+{
+  "accession": "GSE293127",
+  "geo_url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE293127",
+  "last_update_date": "May 28 2025",
+  "organisms": [
+    "Homo sapiens"
+  ],
+  "overall_design": "Gene expression profiling analysis of RNA-seq data from HepG2 cells exposed to 75 \u00b5M BPA, 0.5 \u00b5M CdCl2, 10 \u00b5M PFOS, 0.1 \u00b5M TBTCl, or 100 nM TCDD for 24 hours. There are four experimental replicates for each exposure, including H2O control for CdCl2, and DMSO control for the remaining chemicals. DMSO content did not exceed 0.1% of the total cell culture media.",
+  "platform_ids": [
+    "GPL24676"
+  ],
+  "pubmed_ids": [],
+  "relations": [
+    "BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1242859"
+  ],
+  "sample_count": 28,
+  "submission_date": "Mar 27 2025",
+  "summary": [
+    "Metabolic dysfunction-associated steatotic liver disease (MASLD) affects 30% of the world population. Its prevalence in the pediatric population is increasing, suggesting that the early life environment plays a role in the programming of MASLD. We previously proposed that imprinted genes, defined by their expression from a single parental allele, are strong candidates for driving MASLD in response to early life environmental exposures because of their susceptibility to environmental stress and their roles in liver metabolism. In support of this hypothesis, we previously showed that early life exposure to the toxic metal cadmium (Cd) or maternal metabolic syndrome (MetS) induce MASLD in juvenile mice and activate a transcriptional network in the liver enriched for imprinted genes termed the Imprinted Gene Network (IGN). Furthermore, artificial activation of the IGN in cultured hepatocytes or in vivo leads to MASLD-related phenotypes. Here, using publicly available bulk liver RNA-seq datasets, we tested whether early life exposure to other types of environmental stress that program juvenile MASLD also activate the IGN. We demonstrate that diverse types of stressors, including toxic metals, diet, and endocrine disruptors, activate the IGN in the liver. We also developed an in vitro model of toxicant exposure and show that the IGN is activated upon exposure to 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD) in a cell autonomous manner. Overall, our findings confirm the IGN as a conserved mechanism that could be targeted to mitigate the effects of multiple developmental stressors on liver disease."
+  ],
+  "title": "Activation of the Imprinted Gene Network is a conserved signature of MASLD induced by the early life environment",
+  "type": [
+    "Expression profiling by high throughput sequencing"
+  ]
+}
