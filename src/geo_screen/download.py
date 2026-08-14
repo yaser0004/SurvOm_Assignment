@@ -61,11 +61,17 @@ def _is_safe_filename(name: str) -> bool:
     component would let a malicious or malformed listing write outside the
     dataset's own directory (e.g. `../../.bashrc` or an absolute path, which
     `Path.__truediv__` does not sanitize - it discards the left side
-    entirely for an absolute right-hand operand).
+    entirely for an absolute right-hand operand). A colon is rejected too:
+    on Windows, `Path.__truediv__` treats a drive-qualified name like
+    `D:evil` as its own anchor, and when that drive differs from the one
+    `dest_dir` lives on it discards the left side the same way an absolute
+    path does. No filename in this project's downloaded GEO data uses a
+    colon, so rejecting it outright avoids depending on which drive
+    `dest_dir` happens to be on.
     """
     if not name or name in (".", ".."):
         return False
-    return "/" not in name and "\\" not in name and "\x00" not in name
+    return "/" not in name and "\\" not in name and ":" not in name and "\x00" not in name
 
 
 def plan_downloads(files: FileInventory, include_raw: bool, max_file_size: int) -> Plan:

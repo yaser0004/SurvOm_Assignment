@@ -117,6 +117,21 @@ def test_plan_downloads_refuses_path_traversal_in_series_supplementary_name():
     assert p.archives == ()
     assert "unsafe filename" in dict(p.skipped)["../../etc/passwd_counts.txt.gz"]
 
+    # A drive-qualified name (e.g. "D:evil") is the same class of escape on
+    # Windows, where Path.__truediv__ treats it as its own anchor.
+    p = plan_downloads(
+        FileInventory(
+            series_supplementary=(("D:evil.txt.gz", 100),),
+            sample_supplementary=(),
+            series_matrix=(),
+            sra_links=(),
+        ),
+        include_raw=False,
+        max_file_size=500 * 1024 * 1024,
+    )
+    assert p.expression == ()
+    assert "unsafe filename" in dict(p.skipped)["D:evil.txt.gz"]
+
 
 def test_plan_downloads_refuses_absolute_path_in_series_matrix_name():
     p = plan_downloads(
@@ -148,6 +163,11 @@ def test_fetch_named_refuses_unsafe_name_even_if_plan_was_hand_built(tmp_path):
     with pytest.raises(ValueError, match="unsafe"):
         _fetch_named(FakeClient(), "GSE1", "suppl", "../../etc/passwd", tmp_path, "expression")
     assert not any(tmp_path.parent.glob("**/passwd"))
+
+    # A drive-qualified name is a separate escape on Windows: Path.__truediv__
+    # treats "D:evil" as its own anchor, discarding tmp_path when the drives differ.
+    with pytest.raises(ValueError, match="unsafe"):
+        _fetch_named(FakeClient(), "GSE1", "suppl", "D:evil", tmp_path, "expression")
 
 
 def test_sra_never_planned():
