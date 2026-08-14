@@ -154,6 +154,7 @@ CANONICAL_FIELDS: dict[str, tuple[str, ...]] = {
         "f stage",
         "fibrotic stage",
         "fibrosisscore",
+        "fibrosis grade",
     ),
     "steatosis_grade": ("steatosis", "steatosis grade", "steatosis score"),
     "nas_score": ("nas", "nas score", "nafld activity score", "activity score"),
