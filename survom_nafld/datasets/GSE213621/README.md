@@ -36,12 +36,24 @@ including a control group. (One larger series in the screened pool, `GSE267145` 
 human/mouse mixed-organism series left unresolved — see the top-level README.)
 
 It reaches the collection through a manual decision rather than an automatic promotion. Two checks
-flagged it: `metadata_completeness`, because the series records staging under the raw key
-`fibrotic stage` rather than the more common `fibrosis stage`; and `disease_relevance`, because the
-sample records carry staging and `liver cells` without naming NAFLD, which the series title does.
-The first is a naming variant covering all 368 samples, the second is exactly the sample-level
-versus series-level distinction `MANUAL_REVIEW` exists to surface. Neither undermines the data, so
-the dataset was included on its size and its genuine per-sample fibrosis staging.
+are flagged in `validation_report.md`, both `WARN`:
+
+- **`disease_relevance`** — the individual GSM records carry liver and fibrosis information
+  (`liver cells`, `fibrotic stage: F2`) but no field on them names NAFLD. NAFLD is explicit at the
+  Series level, in the title and summary. This is exactly the sample-level versus series-level
+  distinction `MANUAL_REVIEW` exists to surface.
+- **`single_cell_or_spatial`** — the broader SuperSeries discusses mouse single-cell work.
+  GSE213621 itself is the human bulk-RNA-seq SubSeries: all 368 samples are `Homo sapiens` and
+  `RNA-Seq`, and no single-cell platform, tool or file-format evidence appears in any of the human
+  sample records.
+
+`metadata_completeness` **passes**: fibrotic stage is present for all 368 samples, and the
+`fibrotic stage` wording is a raw-field naming variant already normalized to the canonical
+`fibrosis_stage` (`validation_report.md` records it as `fibrotic stage: 368/368 (canon:
+fibrosis_stage)`).
+
+Neither warning undermines the data, so the dataset was included on its size and its genuine
+per-sample fibrosis staging.
 
 ## Sample metadata at a glance
 
