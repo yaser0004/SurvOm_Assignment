@@ -23,10 +23,11 @@ single-cell data it uses for that are external reference datasets, not part of t
 
 ## Why it is in the collection
 
-The third-largest cohort here, after GSE213621 and GSE135251, and the one whose stated purpose is an
-analytical angle rather than a case-control contrast: relating fibrosis stage to shifts in cell-type
-composition. It also carries an explicit normal-liver-histology group (31 samples) alongside the
-staged ones, so a histologically normal comparison is available inside the same cohort.
+The third-largest cohort here, after GSE213621 and GSE135251. The study's stated purpose is relating
+fibrosis stage to shifts in cell-type composition rather than running a case-control contrast, so it
+was selected as a differently designed cohort. It also carries an explicit normal-liver-histology
+group (31 samples) alongside the staged ones, so a histologically normal comparison is available
+inside the same cohort.
 
 ## Sample metadata at a glance
 

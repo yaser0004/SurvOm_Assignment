@@ -29,7 +29,7 @@ has to group by `raw__participant` rather than treating the rows as independent.
 
 The only interventional design here, and the only distinct comorbid population — HIV-associated
 NAFLD, which the study describes as following a more aggressive course. Every other selected dataset
-is a cross-sectional observational cohort, so this one adds both a treatment-response axis and
+is a cross-sectional observational cohort, so this is the only one carrying a treatment arm and
 paired within-subject sampling over time.
 
 ## Sample metadata at a glance

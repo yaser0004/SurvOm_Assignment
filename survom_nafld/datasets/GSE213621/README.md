@@ -52,8 +52,8 @@ are flagged in `validation_report.md`, both `WARN`:
 `fibrosis_stage` (`validation_report.md` records it as `fibrotic stage: 368/368 (canon:
 fibrosis_stage)`).
 
-Neither warning undermines the data, so the dataset was included on its size and its genuine
-per-sample fibrosis staging.
+Neither warning contradicts what the sample records themselves report, so the dataset was included
+on its size and its per-sample fibrosis staging.
 
 ## Sample metadata at a glance
 

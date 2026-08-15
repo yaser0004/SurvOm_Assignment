@@ -24,15 +24,15 @@ ballooning grade) as separately reported fields.
 
 ## Why it is in the collection
 
-The per-component histology is the point: severity can be modelled on steatosis, inflammation and
-ballooning separately rather than on a single composite score. GSE281797 reports the same set of
-per-component fields for its own, early-stage obese cohort; the two are complementary, and
-GSE130970 covers the general NAFLD severity range instead. Its 48F/30M split also partly offsets the
-male skew elsewhere in the collection (GSE126848 is 47M/10F).
+It reports steatosis, lobular inflammation and ballooning as separate per-sample fields rather than
+only the composite NAS, so severity can be modelled on the individual components. GSE281797 reports
+the same set of per-component fields for its own, early-stage obese cohort; this cohort covers the
+general NAFLD severity range instead. Its 48F/30M split also partly offsets the male skew elsewhere
+in the collection (GSE126848 is 47M/10F).
 
 Its cohort design does overlap with GSE135251, GSE174478 and GSE162694 — Western population, full
-fibrosis spectrum — at a smaller N. The overlap is at the design level; the annotation depth is what
-it adds.
+fibrosis spectrum — at a smaller N. The overlap is at the design level; the per-component annotation
+is what distinguishes it.
 
 ## Sample metadata at a glance
 

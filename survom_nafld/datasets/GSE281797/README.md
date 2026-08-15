@@ -24,10 +24,10 @@ of liver transcriptomes deposited here, not the size of the recruited cohort.
 
 ## Why it is in the collection
 
-The rest of the collection samples established disease and its severity gradient. This one sits at
-the no-pathology-to-early-disease end in an obese population, with diagnosis, steatosis
-grade, fibrosis stage, NAS, age, BMI and sex all recorded per sample. It is the collection's
-coverage of the at-risk and early-disease end of the spectrum.
+Its diagnosis field starts at "No Pathology" (30 samples) and runs through MASL (53) to MASH (11) in
+an obese population, with steatosis grade, fibrosis stage, NAS, age, BMI and sex also recorded per
+sample. Every other selected dataset begins at diagnosed disease, so this is the only one in the
+collection covering the at-risk and early-disease end.
 
 ## Sample metadata at a glance
 

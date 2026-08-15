@@ -23,10 +23,10 @@ is included here under `metadata/`.
 
 ## Why it is in the collection
 
-An independent NAFLD cohort with a deliberately different metadata shape from the staged cohorts:
-disease status, age, sex and tissue are reported per sample, but fibrosis stage and NAS are not.
-That makes it useful as a validation cohort against the spectrum datasets rather than another
-severity-annotated cohort — and it is honest about what it does not carry.
+An independent NAFLD cohort whose metadata has a different shape from the staged cohorts: disease
+status, age, sex and tissue are reported per sample, while fibrosis stage and NAS are not reported
+at all. It was selected on that basis — as an independent cohort usable for validation against the
+severity-annotated datasets, rather than as another staged cohort.
 
 ## Sample metadata at a glance
 

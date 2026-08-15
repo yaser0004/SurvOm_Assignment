@@ -24,10 +24,10 @@ severity group for every sample.
 
 ## Why it is in the collection
 
-The anchor of this collection: 216 samples with all five fibrosis stages populated, NAS reported per
-sample, a severity group per sample, and a 10-sample control arm. Every technical check passes at
-216/216 — organism, tissue, library strategy, source, selection and instrument — and processed
-per-sample gene counts are available rather than only raw reads.
+It was selected on the depth of what its records report: 216 samples with all five fibrosis stages
+populated, NAS reported per sample, a severity group per sample, and a 10-sample control arm. Every
+technical check passes at 216/216 — organism, tissue, library strategy, source, selection and
+instrument — and processed per-sample gene counts are available rather than only raw reads.
 
 ## Sample metadata at a glance
 
