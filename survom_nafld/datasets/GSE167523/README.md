@@ -26,8 +26,8 @@ is included here under `metadata/`.
 
 An independent NAFLD cohort whose metadata has a different shape from the staged cohorts: disease
 status, age, sex and tissue are reported per sample, while fibrosis stage and NAS are not reported
-at all. It was selected on that basis — as an independent cohort usable for validation against the
-severity-annotated datasets, rather than as another staged cohort.
+at all. It was selected on that basis: it provides an independent unstaged cohort for comparison
+with the staged datasets, rather than another staged cohort.
 
 ## Sample metadata at a glance
 

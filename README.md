@@ -93,7 +93,7 @@ Eight of the nine are `STRONG_CANDIDATE`; the ninth, `GSE213621`, is a `MANUAL_R
 | [GSE213621](survom_nafld/datasets/GSE213621/README.md) | 368 | MANUAL_REVIEW → included | Largest cohort in the collection; fibrosis-staged; resolved by hand (see "Manual-review resolutions") |
 | [GSE174478](survom_nafld/datasets/GSE174478/README.md) | 94 | STRONG_CANDIDATE | Japanese NASH cohort, full F0–F4 spectrum; the only non-Western population in the collection |
 | [GSE162694](survom_nafld/datasets/GSE162694/README.md) | 143 | STRONG_CANDIDATE | NASH fibrosis with cell-type composition deconvolution; a distinct analytical design, not just another cohort |
-| [GSE281797](survom_nafld/datasets/GSE281797/README.md) | 94 | STRONG_CANDIDATE | Obese patients spanning no-pathology to early MASLD; the only dataset covering early/at-risk disease |
+| [GSE281797](survom_nafld/datasets/GSE281797/README.md) | 94 | STRONG_CANDIDATE | Obese cohort whose diagnosis field spans no pathology (30), MASL (53) and MASH (11) |
 | [GSE167523](survom_nafld/datasets/GSE167523/README.md) | 98 | STRONG_CANDIDATE | Independent NAFLD cohort, previously vetted by hand; a different metadata shape (no fibrosis staging) from the rest |
 | [GSE150026](survom_nafld/datasets/GSE150026/README.md) | 78 | STRONG_CANDIDATE | Tesamorelin RCT in HIV-associated NAFLD; the only interventional design and the only distinct comorbid population |
 | [GSE126848](survom_nafld/datasets/GSE126848/README.md) | 57 | STRONG_CANDIDATE | Healthy-normal-weight / obese-without-NAFLD / NAFL / NASH four-arm design; the only dataset separating obesity from NAFLD as distinct groups |

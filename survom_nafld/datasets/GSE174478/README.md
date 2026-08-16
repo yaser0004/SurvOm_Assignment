@@ -23,10 +23,9 @@ with fibrosis stage, NAS, age and sex reported for every sample.
 
 ## Why it is in the collection
 
-The only non-Western cohort among the nine, and it stages fibrosis F0-F4 on the same scale as
-GSE135251, so the two can be compared directly rather than one being a near-duplicate of the other.
-It was selected on the population it covers, not on its size — the brief warns against collecting
-datasets for volume alone.
+The only non-Western cohort among the nine. It uses the same F0-F4 fibrosis-stage scale as
+GSE135251, providing a common staging axis. It was selected on the population it covers, not on its
+size; the brief warns against collecting datasets for volume alone.
 
 ## Sample metadata at a glance
 

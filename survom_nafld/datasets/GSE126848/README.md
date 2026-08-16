@@ -24,12 +24,10 @@ inflammation and fibrosis performed alongside sequencing.
 
 ## Why it is in the collection
 
-The only dataset here that reports a healthy normal-weight control arm and an obese-without-NAFLD
-control arm as separate groups. Every other selected dataset compares severity within a
-NAFLD-spectrum cohort, so this is the only one supporting an obese-without-NAFLD versus NAFLD/NASH
-comparison — the comparison the assignment brief gives as its own first example. The study's finding
-is that normal-weight and obese controls have comparable liver transcriptomes, both distinct from
-NAFL and NASH.
+It is the only selected dataset with separate healthy-normal-weight and obese-without-NAFLD control
+groups, which supports the control versus NAFLD/NASH comparison the brief gives as an example while
+keeping obesity separable from liver disease. The study's finding is that normal-weight and obese
+controls have comparable liver transcriptomes, both distinct from NAFL and NASH.
 
 It carries no fibrosis or NAS staging: it was selected for the four-arm design rather than for depth
 of severity annotation.

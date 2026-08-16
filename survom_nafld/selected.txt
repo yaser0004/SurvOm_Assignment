@@ -2,8 +2,8 @@ GSE135251  multicenter NAFLD cohort, 216 samples, NAFL through NASH F0-F4 with 1
 GSE213621  largest cohort in the pool (368 samples), fibrosis staged per sample; included by manual review rather than by screening tier (see README)
 GSE174478  Japanese biopsy-proven NAFLD cohort, fibrosis staged F0-F4; independent cohort, non-Western population
 GSE162694  NASH cohort staged F0-F4, study designed around cell-type composition deconvolution; carries a normal-liver-histology group
-GSE281797  obese cohort spanning no pathology, MASL and MASH; the only selected dataset reaching below established disease
-GSE167523  independent biopsy-proven NAFLD cohort without fibrosis or NAS staging; usable as validation against the staged cohorts
+GSE281797  obese cohort, 94 liver biopsies; the only selected dataset whose diagnosis field spans no pathology (30), MASL (53) and MASH (11)
+GSE167523  independent biopsy-proven NAFLD cohort without fibrosis or NAS staging; provides an unstaged cohort for comparison with the staged cohorts
 GSE150026  randomized tesamorelin trial in HIV-associated NAFLD; the only interventional design and the only paired within-subject sampling
 GSE126848  healthy normal-weight / obese / NAFL / NASH 4-arm cohort; the only selected dataset reporting obese controls separately from NAFLD
 GSE130970  NAFLD severity spectrum with each NAS component (steatosis, inflammation, ballooning) reported separately per sample

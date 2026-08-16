@@ -27,8 +27,8 @@ of liver transcriptomes deposited here, not the size of the recruited cohort.
 
 Its diagnosis field starts at "No Pathology" (30 samples) and runs through MASL (53) to MASH (11) in
 an obese population, with steatosis grade, fibrosis stage, NAS, age, BMI and sex also recorded per
-sample. Every other selected dataset begins at diagnosed disease, so this is the only one in the
-collection covering the at-risk and early-disease end.
+sample. It is the only selected dataset whose diagnosis field explicitly spans No Pathology, MASL
+and MASH within an obese cohort.
 
 ## Sample metadata at a glance
 
