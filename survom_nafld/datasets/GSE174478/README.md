@@ -23,9 +23,12 @@ with fibrosis stage, NAS, age and sex reported for every sample.
 
 ## Why it is in the collection
 
-The only non-Western cohort among the nine. It uses the same F0-F4 fibrosis-stage scale as
-GSE135251, providing a common staging axis. It was selected on the population it covers, not on its
-size; the brief warns against collecting datasets for volume alone.
+A Japanese biopsy-proven NAFLD cohort — the population is stated in the GEO Series title. It is not
+the collection's only Japanese cohort: GSE167523's 98 RNA-seq patients were biopsied at Sendai Kousei
+Hospital (PMID 34105780). What separates this one is its staging — fibrosis stage 0-4 and NAS are
+reported for every sample, on the same F0-F4 scale as GSE135251, while GSE167523 reports neither. It
+was selected on that combination, not on its size; the brief warns against collecting datasets for
+volume alone.
 
 ## Sample metadata at a glance
 
