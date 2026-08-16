@@ -10,6 +10,7 @@
 **Platform(s):** GPL24676
 **PubMed:** 41870035
 **Screening decision:** STRONG_CANDIDATE
+**Experimental design:** 94 snap-frozen liver biopsies from obese patients, grouped as no pathology (30), MASL (53) and MASH (11). Fibrosis grade 0-3, steatosis, inflammation and ballooning grades and NAS are reported per sample.
 
 ## What this dataset is
 

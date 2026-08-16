@@ -10,6 +10,7 @@
 **Platform(s):** GPL21290
 **PubMed:** 34105780
 **Screening decision:** STRONG_CANDIDATE
+**Experimental design:** Snap-frozen liver tissue from 98 patients with biopsy-proven NAFLD, with no control arm in the sample records. The cohort splits into NAFL (51) and NASH (47), and fibrosis stage is not reported.
 
 ## What this dataset is
 

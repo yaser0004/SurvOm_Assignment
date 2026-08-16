@@ -10,6 +10,7 @@
 **Platform(s):** GPL24676
 **PubMed:** 32701508, 34006921
 **Screening decision:** STRONG_CANDIDATE
+**Experimental design:** Randomized placebo-controlled trial with paired liver biopsies at baseline and 12 months, tesamorelin (n=18) against placebo (n=21). The 78 samples come from 39 participants contributing two timepoints each.
 
 ## What this dataset is
 

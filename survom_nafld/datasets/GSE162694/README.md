@@ -10,6 +10,7 @@
 **Platform(s):** GPL21290
 **PubMed:** 34508113
 **Screening decision:** STRONG_CANDIDATE
+**Experimental design:** Cross-sectional study of 143 NASH patients across fibrosis stages. Sample records stage fibrosis 0-4 and label 31 samples as normal liver histology.
 
 ## What this dataset is
 

@@ -22,6 +22,15 @@ python3 -m venv .venv && .venv/bin/pip install -e ".[dev]"
 .venv/bin/python -m geo_screen download --file survom_nafld/selected.txt --out survom_nafld
 ```
 
+Two reporting scripts sit outside the CLI. They read what is already in the tree, never the network,
+and `plot_screening.py` is the only thing here that needs matplotlib:
+
+```bash
+.venv/bin/pip install -e ".[plots]"
+.venv/bin/python scripts/plot_screening.py     # assets/screening_overview.png and .svg
+.venv/bin/python scripts/extract_design.py     # survom_nafld/reports/experimental_design.csv
+```
+
 Screening ~200 GSEs takes a few minutes on the first run (NCBI rate-limits to 3 requests/second, or 10/second with `NCBI_API_KEY` set) and is near-instant afterward, since every fetch is cached under `.geo_cache/`. `--offline` forces a run to use only what's already cached, which is how the whole pipeline can be reproduced with no network access at all.
 
 ## GEO search strategy
@@ -66,6 +75,12 @@ Keeping non-human datasets out of the downloaded collection is a scope decision 
 
 **Result:** 200 candidates screened, 11 `STRONG_CANDIDATE`, 8 `CANDIDATE`, 131 `MANUAL_REVIEW`, 50 `REJECT`. All 200 fetches succeeded. Every candidate has a full validation report under `survom_nafld/datasets/<GSE>/`.
 
+![Screening outcome of 200 GEO candidates: 11 strong candidate, 8 candidate, 131 manual review, 50 reject](assets/screening_overview.png)
+
+Final selection: 9 datasets, consisting of 8 STRONG_CANDIDATE datasets and 1 manually reviewed inclusion (GSE213621).
+
+`scripts/plot_screening.py` counts the `decision` column of `reports/summary.csv` and refuses to plot unless the four tiers account for every row, so the figure cannot drift from the screening results. It also joins `selected.txt` against those decisions and prints the final-selection breakdown above, which is why that line is checkable rather than asserted.
+
 The 50 rejections break down by triggering check: `single_cell_or_spatial` (45 — by far the dominant reason, and the exact failure mode the assignment calls out by name), `library_strategy` (2 — non-expression assays such as Bisulfite-Seq- or ChIP-seq-only series), `disease_relevance` (2), `expression_data_availability` (1).
 
 ## Selected datasets (9)
@@ -83,6 +98,8 @@ Eight of the nine are `STRONG_CANDIDATE`; the ninth, `GSE213621`, is a `MANUAL_R
 | [GSE150026](survom_nafld/datasets/GSE150026/README.md) | 78 | STRONG_CANDIDATE | Tesamorelin RCT in HIV-associated NAFLD; the only interventional design and the only distinct comorbid population |
 | [GSE126848](survom_nafld/datasets/GSE126848/README.md) | 57 | STRONG_CANDIDATE | Healthy-normal-weight / obese-without-NAFLD / NAFL / NASH four-arm design; the only dataset separating obesity from NAFLD as distinct groups |
 | [GSE130970](survom_nafld/datasets/GSE130970/README.md) | 78 | STRONG_CANDIDATE | Full NAS-component and fibrosis-stage histology reported per sample, across the complete disease spectrum |
+
+Study structure for each of the nine is in `survom_nafld/reports/experimental_design.csv`, one row per dataset with the summary next to the GEO fields it was written from (Series overall design, Series summary, Series relations, observed sample-group counts). The summaries themselves live in `survom_nafld/design_notes.csv` and are curated by hand from those fields; `scripts/extract_design.py` joins the two and fails if a count in a summary appears nowhere in that dataset's record.
 
 **Why these nine and not more.** Eleven datasets reached `STRONG_CANDIDATE`. Eight are in the table above; the ninth slot went to `GSE213621` from `MANUAL_REVIEW` instead, because at 368 samples it's the largest cohort in the collection and its fibrosis staging holds up under manual review (below). That leaves three `STRONG_CANDIDATE`s out, for different reasons:
 
@@ -160,10 +177,13 @@ The only file that differs between the two runs is `source_manifest.json`, and o
 source/
 ├── queries.txt                 # the exact GEO queries used
 ├── src/geo_screen/             # the tool
+├── scripts/                    # reporting scripts outside the CLI: plot_screening, extract_design
+├── assets/                     # screening_overview.png and .svg, generated from reports/summary.csv
 ├── tests/                      # 62 tests, real trimmed SOFT fixtures, no network
 └── survom_nafld/
     ├── candidates/              # search output: candidates.csv, accessions.txt, search_manifest.json
     ├── selected.txt             # the 9 selected accessions, one per line, with reasons
+    ├── design_notes.csv         # hand-written study-structure summary per selected dataset
     ├── datasets/<GSE>/
     │   ├── series_metadata.json
     │   ├── sample_metadata.csv
@@ -176,7 +196,8 @@ source/
     │   └── archives/             # downloaded _RAW.tar, gitignored (re-fetchable via the manifest)
     └── reports/
         ├── summary.csv           # one row per screened GSE
-        └── screening_report.md   # counts by decision, full table, rejected-with-reasons
+        ├── screening_report.md   # counts by decision, full table, rejected-with-reasons
+        └── experimental_design.csv  # design summary + the GEO fields behind it, for the 9
 ```
 
 ## Architecture notes

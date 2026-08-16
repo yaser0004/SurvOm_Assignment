@@ -10,6 +10,7 @@
 **Platform(s):** GPL18573
 **PubMed:** 30653341
 **Screening decision:** STRONG_CANDIDATE
+**Experimental design:** Four-group comparison of liver biopsies from healthy normal-weight, obese, NAFL and NASH subjects. Sample records report healthy (14), obese (12), NAFLD (15) and NASH (16).
 
 ## What this dataset is
 

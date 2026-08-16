@@ -10,6 +10,7 @@
 **Platform(s):** GPL18573
 **PubMed:** 33268509, 33762733, 39566466
 **Screening decision:** STRONG_CANDIDATE
+**Experimental design:** Multicenter study of 216 snap-frozen liver biopsies, 206 NAFLD cases across fibrosis stages with 10 controls. Fibrosis stage 0-4, NAS 0-8 and the paper's group label are reported for every sample.
 
 ## What this dataset is
 

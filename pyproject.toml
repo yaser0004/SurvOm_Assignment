@@ -15,6 +15,11 @@ dependencies = [
 dev = [
     "pytest>=8",
 ]
+# Only scripts/plot_screening.py needs this. Kept out of the core dependencies so
+# the CLI and its test suite stay on requests alone.
+plots = [
+    "matplotlib>=3.8",
+]
 
 [project.scripts]
 geo-screen = "geo_screen.cli:main"

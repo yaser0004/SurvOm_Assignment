@@ -10,6 +10,7 @@
 **Platform(s):** GPL16791
 **PubMed:** 31467298
 **Screening decision:** STRONG_CANDIDATE
+**Experimental design:** 78 distinct liver biopsies, 6 histologically normal and 72 covering NAFLD activity score 0-6 and fibrosis stage 0-4. Steatosis, lobular inflammation and ballooning grades are reported separately per sample.
 
 ## What this dataset is
 

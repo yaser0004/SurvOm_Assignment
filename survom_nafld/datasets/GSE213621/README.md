@@ -10,6 +10,7 @@
 **Platform(s):** GPL16791
 **PubMed:** 36535507
 **Screening decision:** MANUAL_REVIEW (included after manual resolution, see below)
+**Experimental design:** Human RNA-seq SubSeries of a mixed-species study: 368 liver samples from controls and patients with NAFLD, staged Control (69), F0F1 (97), F2 (107) and F3F4 (95). The series design statement also describes the parent study's mouse experiments, which are not part of these samples.
 
 ## What this dataset is
 

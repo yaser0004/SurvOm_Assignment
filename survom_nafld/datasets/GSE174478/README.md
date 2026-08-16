@@ -10,6 +10,7 @@
 **Platform(s):** GPL24676
 **PubMed:** 35380992, 40262132
 **Screening decision:** STRONG_CANDIDATE
+**Experimental design:** 94 biopsy-proven NAFLD patients from a Japanese cohort, compared against each other by relative gene expression. Fibrosis stage 0-4 and NAS 1-7 are reported per sample.
 
 ## What this dataset is
 
