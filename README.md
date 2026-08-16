@@ -179,7 +179,8 @@ The only file that differs between the two runs is `source_manifest.json`, and o
 source/
 ├── queries.txt                 # the exact GEO queries used
 ├── src/geo_screen/             # the tool
-├── scripts/                    # reporting scripts outside the CLI: plot_screening, extract_design
+├── scripts/                    # reporting scripts outside the CLI: plot_screening, extract_design,
+│                               #   fetch_supplementary_types
 ├── assets/                     # screening_overview.png and .svg, generated from reports/summary.csv
 ├── tests/                      # 72 tests, real trimmed SOFT and GEO-page fixtures, no network
 └── survom_nafld/
