@@ -15,20 +15,21 @@ The assignment explicitly warns against downloading "as many datasets as possibl
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -e ".[dev]"
-.venv/bin/python -m pytest                                    # 62 tests, offline, no network
+.venv/bin/python -m pytest                                    # 72 tests, offline, no network
 
 .venv/bin/python -m geo_screen search --query-file queries.txt --out survom_nafld
 .venv/bin/python -m geo_screen screen --file survom_nafld/candidates/accessions.txt --out survom_nafld
 .venv/bin/python -m geo_screen download --file survom_nafld/selected.txt --out survom_nafld
 ```
 
-Two reporting scripts sit outside the CLI. They read what is already in the tree, never the network,
-and `plot_screening.py` is the only thing here that needs matplotlib:
+Three reporting scripts sit outside the CLI. The first two read what is already in the tree and never
+touch the network; `plot_screening.py` is the only thing here that needs matplotlib:
 
 ```bash
 .venv/bin/pip install -e ".[plots]"
-.venv/bin/python scripts/plot_screening.py     # assets/screening_overview.png and .svg
-.venv/bin/python scripts/extract_design.py     # survom_nafld/reports/experimental_design.csv
+.venv/bin/python scripts/plot_screening.py            # assets/screening_overview.png and .svg
+.venv/bin/python scripts/extract_design.py            # survom_nafld/reports/experimental_design.csv
+.venv/bin/python scripts/fetch_supplementary_types.py # candidates/supplementary_files.csv, --offline to replay
 ```
 
 Screening ~200 GSEs takes a few minutes on the first run (NCBI rate-limits to 3 requests/second, or 10/second with `NCBI_API_KEY` set) and is near-instant afterward, since every fetch is cached under `.geo_cache/`. `--offline` forces a run to use only what's already cached, which is how the whole pipeline can be reproduced with no network access at all.
@@ -69,6 +70,7 @@ Keeping non-human datasets out of the downloaded collection is a scope decision 
 ## Screening workflow
 
 1. `search` queries `esearch`/`esummary` (db=gds) and writes `candidates/candidates.csv`, `candidates/accessions.txt`, `candidates/search_manifest.json`.
+   - `candidates.csv`'s `suppfile` column is the esummary field of the same name. It is a series-level roll-up of file types, not a type per file: GSE135251 ships a single `GSE135251_RAW.tar`, and esummary reports `TXT` because it looks through the tar at its members. `scripts/fetch_supplementary_types.py` adds the per-file view, reading the `File type/resource` column of each Series record page (`acc.cgi`), which is the only GEO surface that states a type per file. It writes `candidates/supplementary_files.csv` (one row per file, with GEO's filename, type, size and download URL verbatim) and appends `supplementary_files` and `geo_raw_data_status` to `candidates.csv`. No type is derived from a filename or extension; where GEO leaves the cell empty the value is `Not specified by GEO`, and where GEO lists no files at all it is `None reported by GEO`. Across the 200 candidates GEO reports 339 supplementary files for 193 accessions, every one of them with an explicit type, and no supplementary files for the remaining 7. These columns describe what GEO publishes, not what this repository downloaded; downloaded files are recorded per dataset in `download_manifest.json`.
 2. `screen` fetches each GSE's `*_family.soft.gz` (one request per series covers every sample's metadata) plus two small FTP directory listings, runs the 14 checks, classifies the series, and writes `series_metadata.json`, `sample_metadata.csv`, `validation_report.md`, and `source_manifest.json` under `datasets/<GSE>/`, along with the aggregate `reports/summary.csv` and `reports/screening_report.md`.
 3. `reports/screening_report.md` is reviewed by hand, the `MANUAL_REVIEW` entries worth resolving are worked through, and the final picks go into `selected.txt`.
 4. `download` fetches only the selected accessions — screening itself never pulls bulk data.
@@ -152,7 +154,7 @@ All nine downloads are verified: every directly-downloaded file's sha256 in its 
 ```bash
 python3 -m venv .venv
 .venv/bin/pip install -e ".[dev]"
-.venv/bin/python -m pytest                       # 62 tests, all offline, ~2s
+.venv/bin/python -m pytest                       # 72 tests, all offline, ~2s
 
 # Optional: set NCBI_API_KEY in the environment for a 10 req/s rate limit instead of 3 req/s.
 
@@ -179,9 +181,11 @@ source/
 ├── src/geo_screen/             # the tool
 ├── scripts/                    # reporting scripts outside the CLI: plot_screening, extract_design
 ├── assets/                     # screening_overview.png and .svg, generated from reports/summary.csv
-├── tests/                      # 62 tests, real trimmed SOFT fixtures, no network
+├── tests/                      # 72 tests, real trimmed SOFT and GEO-page fixtures, no network
 └── survom_nafld/
     ├── candidates/              # search output: candidates.csv, accessions.txt, search_manifest.json
+    │                            #   plus supplementary_files.csv + supplementary_manifest.json,
+    │                            #   GEO's per-file supplementary types for all 200
     ├── selected.txt             # the 9 selected accessions, one per line, with reasons
     ├── design_notes.csv         # hand-written study-structure summary per selected dataset
     ├── datasets/<GSE>/
